@@ -1,0 +1,32 @@
+{
+  "id": "language",
+  "name": "@cospired/i18n-iso-languages",
+  "localized": true,
+  "items": [
+    {
+      "id": "de",
+      "name": "Alemán",
+      "nativeName": "Deutsch"
+    },
+    {
+      "id": "es",
+      "name": "Español",
+      "nativeName": "Español"
+    },
+    {
+      "id": "fr",
+      "name": "Frances",
+      "nativeName": "Français"
+    },
+    {
+      "id": "en",
+      "name": "Inglés",
+      "nativeName": "English"
+    },
+    {
+      "id": "it",
+      "name": "Italiano",
+      "nativeName": "Italiano"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "extends": "./tsnode.json",
+  "exclude": [
+    "node_modules",
+    "src"
+  ],
+  "files": [
+    "src/generator/main.ts"
+  ],
+  "compilerOptions": {
+    "outDir": ".build",
+    "baseUrl": ".",
+    "paths": {},
+    "noEmit": false,
+    "skipLibCheck": true,
+    "jsx": "preserve",
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+  }
+}
