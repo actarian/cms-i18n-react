@@ -22,4 +22,4 @@ function BuildCollections(pathname: string) {
   }
 }
 
-BuildCollections('src/data');
+BuildCollections('public/api');

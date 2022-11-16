@@ -1,59 +1,89 @@
-import { useState } from 'react';
-import { IExtendedOption, Library } from '../types';
+import axios, { AxiosResponse } from 'axios';
+import { useEffect, useState } from 'react';
+import { availableLocales } from '../config';
+import { localizedToString, sortByName } from '../generator/utils';
+import { IExtendedOption, ILocalizedStringKey, Library } from '../types';
 import { Code } from './Code';
 import './styles.scss';
 
-import language from '../data/language.json';
-// import nationality from '../data/nationality.json';
-import continent from '../data/continent.json';
-import country from '../data/country.json';
-import municipality from '../data/municipality.json';
-import province from '../data/province.json';
-import region from '../data/region.json';
-import { localizedToString, sortByName } from '../generator/utils';
-
-const libraries = [
-  language,
-  // nationality,
-  continent,
-  country,
-  region,
-  province,
-  municipality,
+const libraryNames = [
+  'language',
+  // 'nationality',
+  'continent',
+  'country',
+  'region',
+  'province',
+  'municipality',
 ];
 
-const localize = (value: any) => {
+const localize = (value: any, locale: ILocalizedStringKey = 'en') => {
   if (typeof value === 'string') {
     return value;
   } else {
-    return localizedToString(value, 'it');
+    return localizedToString(value, locale);
   }
 }
 
-function localizeItems(items: IExtendedOption[]) {
-  items.forEach(item => {
-    item.name = localize(item.name);
-  });
-  sortByName(items as { name: string }[]);
-  return items;
+function localizeItems(items: IExtendedOption[], locale: ILocalizedStringKey = 'en') {
+  const localizedItems: IExtendedOption[] = items.map(item => ({
+    ...item,
+    name: localize(item.name, locale),
+  }));
+  sortByName(localizedItems as { name: string }[]);
+  return localizedItems;
 }
 
 export default function App() {
 
-  const [library, setLibrary] = useState<Library>(libraries[0]);
+  const [locale, setLocale] = useState<ILocalizedStringKey>('en');
 
-  console.log('library', library.id, library.items);
+  const [libraries, setLibraries] = useState<Library[]>([]);
 
-  const localizedItesm = localizeItems(library.items);
+  const [library, setLibrary] = useState<Library | null>(null);
+
+  const [items, setItems] = useState<IExtendedOption[]>([]);
+
+  useEffect(() => {
+    const getLibraries = async () => {
+      const promises = libraryNames.map(x => axios.get(`api/${x}.json`));
+      const responses = await Promise.allSettled(promises);
+      const libraries = responses.filter(x => x.status === 'fulfilled').map(x => (x as any as PromiseFulfilledResult<AxiosResponse<Library>>).value.data);
+      const library = libraries[0];
+      setLibraries(libraries);
+      onSelect(library);
+    };
+    getLibraries();
+  }, []);
+
+  const onChangeLocale = (locale: ILocalizedStringKey) => {
+    setLocale(locale);
+    if (library) {
+      onSelect(library, locale);
+    }
+  }
+
+  const onSelect = (library: Library, currentLocale: ILocalizedStringKey = locale) => {
+    const items = localizeItems(library.items, currentLocale);
+    setLibrary(library);
+    setItems(items);
+    console.log('onSelect', library.id, currentLocale, items, library.items);
+  }
 
   return (
     <div className="app">
-      <h1>CMS i18n</h1>
+      <div className="head">
+        <h1>CMS i18n</h1>
+        <ul className="locales">
+          {availableLocales.map(l => (
+            <li className={'locales__item' + (l === locale ? ' active' : '')} onClick={() => onChangeLocale(l)}>{l}</li>
+          ))}
+        </ul>
+      </div>
       <div className="wrapper">
         <aside>
           <div className="libraries">
             {libraries.map(library => (
-              <button key={library.id} type="button" className="libraries__item" onClick={() => setLibrary(library)}>
+              <button key={library.id} type="button" className="libraries__item" onClick={() => onSelect(library)}>
                 <span className="title">{library.id}</span>
                 <span className="subtitle">{library.name}</span>
               </button>
@@ -64,14 +94,18 @@ export default function App() {
           {library && (
             <div className="libraries__item">
               <div className="head">
-                <div className="title">{library.id}</div>
-                <div className="title">{localizedItesm.length}</div>
+                <div className="title">
+                  <a href={`/cms-i18n-react/api/${library.id}.json`} target="_blank">
+                    {library.id}.json
+                  </a>
+                </div>
+                <div className="title">{items.length}</div>
               </div>
               <div className="content">
-                <Code value={localizedItesm[0]} />
+                <Code value={items[0]} />
                 <ul className="list">
-                  {localizedItesm.filter((x, i) => i < 200).map((item) => (
-                    <li key={library.name + '-' + item.id} className="list__item">
+                  {items.filter((x, i) => i < 200).map((item) => (
+                    <li key={library.name + '-' + item.id + '-' + locale} className="list__item">
                       <span className="key">{item.id}</span>
                       <span className="value">{item.name as string}</span>
                     </li>

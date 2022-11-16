@@ -1,1 +1,1 @@
-export const availableLocales = ['it', 'en', 'de', 'fr', 'es'] as const;
+export const availableLocales = ['en', 'it', 'fr', 'de', 'es'] as const;
