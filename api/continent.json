@@ -1,0 +1,34 @@
+{
+  "id": "continent",
+  "name": "countries-list",
+  "items": [
+    {
+      "id": "af",
+      "name": "Africa"
+    },
+    {
+      "id": "an",
+      "name": "Antarctica"
+    },
+    {
+      "id": "as",
+      "name": "Asia"
+    },
+    {
+      "id": "eu",
+      "name": "Europe"
+    },
+    {
+      "id": "na",
+      "name": "North America"
+    },
+    {
+      "id": "oc",
+      "name": "Oceania"
+    },
+    {
+      "id": "sa",
+      "name": "South America"
+    }
+  ]
+}
