@@ -1,5 +1,4 @@
 import { IExtendedOption, IOption, LibraryConfig } from '../../types';
-import { sortByName } from '../utils';
 import { getRemoteXlsl } from '../xlsl';
 
 let ISTAT: IExtendedOption[] | null = null;
@@ -70,7 +69,7 @@ function istatMapper(items: any[]): IExtendedOption[] {
 export const geographicRegion: LibraryConfig = {
   id: 'geographicRegion',
   name: 'Elenco-comuni-italiani.csv',
-  generator: async (locale: string) => {
+  generator: async () => {
     const istat = await getIstat();
     const geographicRegions: IOption[] = [];
     istat.forEach(x => {
@@ -80,7 +79,7 @@ export const geographicRegion: LibraryConfig = {
         });
       }
     });
-    sortByName(geographicRegions);
+    // sortByName(geographicRegions);
     // console.log('geographicRegions', geographicRegions[0]);
     return geographicRegions;
   }
@@ -89,7 +88,7 @@ export const geographicRegion: LibraryConfig = {
 export const region: LibraryConfig = {
   id: 'region',
   name: 'Elenco-comuni-italiani.csv',
-  generator: async (locale: string) => {
+  generator: async () => {
     const istat = await getIstat();
     const regions: IOption[] = [];
     istat.forEach(x => {
@@ -100,7 +99,7 @@ export const region: LibraryConfig = {
         });
       }
     });
-    sortByName(regions);
+    // sortByName(regions);
     // console.log('regions', regions[0]);
     return regions;
   }
@@ -109,7 +108,7 @@ export const region: LibraryConfig = {
 export const province: LibraryConfig = {
   id: 'province',
   name: 'Elenco-comuni-italiani.csv',
-  generator: async (locale: string) => {
+  generator: async () => {
     const istat = await getIstat();
     const provinces: IExtendedOption[] = [];
     istat.forEach(x => {
@@ -121,7 +120,7 @@ export const province: LibraryConfig = {
         });
       }
     });
-    sortByName(provinces);
+    // sortByName(provinces);
     // console.log('provinces', provinces[0]);
     return provinces;
   }
@@ -130,7 +129,7 @@ export const province: LibraryConfig = {
 export const municipality: LibraryConfig = {
   id: 'municipality',
   name: 'Elenco-comuni-italiani.csv',
-  generator: async (locale: string) => {
+  generator: async () => {
     const istat = await getIstat();
     const municipalities = istat.map(x => ({
       id: x.id,
@@ -140,7 +139,7 @@ export const municipality: LibraryConfig = {
       regionId: x.region.id,
       provinceId: x.province.id,
     }));
-    sortByName(municipalities);
+    // sortByName(municipalities);
     // console.log('municipalities', municipalities[0]);
     return municipalities;
   }

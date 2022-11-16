@@ -2,20 +2,39 @@ import * as countriesList from 'countries-list';
 import i18nCountries from 'i18n-iso-countries';
 import i18nCountriesIt from 'i18n-iso-countries/langs/it.json';
 import iso3166Countries from '../../../data/iso-3166-countries.json';
-import { IExtendedOption, IOption } from '../../types';
+import { availableLocales } from '../../config';
+import { IExtendedLocalizedOption, ILocalizedOption, ILocalizedString, IOption, LibraryConfig } from '../../types';
 import { isoKeyMapper } from '../utils';
 // "iso-3166-countries": "https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes#master",
 i18nCountries.registerLocale(i18nCountriesIt);
 
-export const country = {
+export const country: LibraryConfig = {
   id: 'country',
   name: 'i18n-iso-countries',
   localized: true,
-  generator: async (locale: string) => {
-    const countries = getCountries(locale);
+  generator: async () => {
+    const countries = getLocalizedCountries();
     const extendedCountries = extendCountries(countries);
     return extendedCountries;
   }
+}
+
+function getLocalizedCountries(): ILocalizedOption[] {
+  const items = getCountries('en');
+  const localizedItems: ILocalizedOption[] = items.map(x => ({
+    ...x,
+    name: { en: x.name } as ILocalizedString,
+    englishName: x.name as string,
+  }));
+  for (const locale of availableLocales) {
+    if (locale !== 'en') {
+      const others = getCountries(locale);
+      localizedItems.forEach(x => {
+        (x.name as ILocalizedString)[locale] = others.find(o => o.id === x.id)?.name as string;
+      });
+    }
+  }
+  return localizedItems;
 }
 
 function getCountries(locale: string): IOption[] {
@@ -28,9 +47,9 @@ function getCountries(locale: string): IOption[] {
   return countries;
 }
 
-function extendCountries(items: IOption[]): IExtendedOption[] {
-  const extendedItems: IExtendedOption[] = items.map(x => {
-    const item: IExtendedOption = { ...x };
+function extendCountries(items: ILocalizedOption[]): IExtendedLocalizedOption[] {
+  const extendedItems: IExtendedLocalizedOption[] = items.map(x => {
+    const item: IExtendedLocalizedOption = { ...x };
     const isoCountry: any = iso3166Countries.find(x => x['alpha-2'].toLowerCase() === item.id);
     if (isoCountry) {
       item.englishName = isoCountry['name'];
@@ -53,7 +72,7 @@ function extendCountries(items: IOption[]): IExtendedOption[] {
         };
       }
     } else {
-      console.warn(`country.extendCountries code not found ${item.id} - ${item.name}`);
+      console.warn(`country.extendCountries code not found ${item.id} - ${item.englishName}`);
     }
     const clKey: keyof typeof countriesList.countries = item.id.toUpperCase() as keyof typeof countriesList.countries;
     const clCountry: countriesList.Country = countriesList.countries[clKey] || null;
@@ -67,7 +86,7 @@ function extendCountries(items: IOption[]): IExtendedOption[] {
       item.emoji = clCountry.emoji;
       item.emojiU = clCountry.emojiU;
     } else {
-      console.warn(`country.extendCountries code not found ${item.id} - ${item.name}`);
+      console.warn(`country.extendCountries code not found ${item.id} - ${item.englishName}`);
     }
     return item;
   });

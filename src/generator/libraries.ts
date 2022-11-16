@@ -1,12 +1,12 @@
 import { availableLocales } from '../config';
-import { Library, LibraryConfig } from '../types';
+import { ILocalizedStringKey, Library, LibraryConfig } from '../types';
 import { continent } from './libraries/continent';
 import { country } from './libraries/country';
 import { geographicRegion, municipality, province, region } from './libraries/istat';
 import { language } from './libraries/language';
 // const pluralize = require('pluralize');
 
-const config = [
+const configs: LibraryConfig[] = [
   language,
   // nationality,
   continent,
@@ -17,7 +17,7 @@ const config = [
   municipality,
 ];
 
-async function getLibraries(configs: LibraryConfig[], locale: string = 'it', first?: boolean): Promise<Library[]> {
+export async function getLibraries(): Promise<Library[]> {
 
   const libraries: Library[] = [];
 
@@ -28,15 +28,13 @@ async function getLibraries(configs: LibraryConfig[], locale: string = 'it', fir
       localized: config.localized,
       items: [],
     };
-    if (library.localized || first) {
-      library.items = await config.generator(locale);
-    }
+    library.items = await config.generator();
     libraries.push(library);
   }
 
   const language = libraries.find(x => x.id === 'language');
   if (language) {
-    language.items = language.items.filter(x => availableLocales.includes(x.id));
+    language.items = language.items.filter(x => availableLocales.includes(x.id as ILocalizedStringKey));
   }
   // const nationality = libraries.find(x => x.id === 'nationality');
   const country = libraries.find(x => x.id === 'country');
@@ -61,10 +59,6 @@ async function getLibraries(configs: LibraryConfig[], locale: string = 'it', fir
     });
   }
   return libraries;
-}
-
-export function getLibrariesFromLocale(locale: string, first?: boolean): Promise<Library[]> {
-  return getLibraries(config, locale, first);
 }
 
 /**

@@ -5,7 +5,13 @@
   "items": [
     {
       "id": "af",
-      "name": "Afghanistan",
+      "name": {
+        "en": "Afghanistan",
+        "it": "Afghanistan",
+        "de": "Afghanistan",
+        "fr": "Afghanistan",
+        "es": "Afganistán"
+      },
       "englishName": "Afghanistan",
       "alpha2Code": "af",
       "alpha3Code": "afg",
@@ -38,7 +44,13 @@
     },
     {
       "id": "al",
-      "name": "Albania",
+      "name": {
+        "en": "Albania",
+        "it": "Albania",
+        "de": "Albanien",
+        "fr": "Albanie",
+        "es": "Albania"
+      },
       "englishName": "Albania",
       "alpha2Code": "al",
       "alpha3Code": "alb",
@@ -69,7 +81,13 @@
     },
     {
       "id": "dz",
-      "name": "Algeria",
+      "name": {
+        "en": "Algeria",
+        "it": "Algeria",
+        "de": "Algerien",
+        "fr": "Algérie",
+        "es": "Argelia"
+      },
       "englishName": "Algeria",
       "alpha2Code": "dz",
       "alpha3Code": "dza",
@@ -100,7 +118,13 @@
     },
     {
       "id": "as",
-      "name": "American Samoa",
+      "name": {
+        "en": "American Samoa",
+        "it": "Samoa Americane",
+        "de": "Amerikanisch-Samoa",
+        "fr": "Samoa américaines",
+        "es": "Samoa Americana"
+      },
       "englishName": "American Samoa",
       "alpha2Code": "as",
       "alpha3Code": "asm",
@@ -132,7 +156,13 @@
     },
     {
       "id": "ad",
-      "name": "Andorra",
+      "name": {
+        "en": "Andorra",
+        "it": "Andorra",
+        "de": "Andorra",
+        "fr": "Andorre",
+        "es": "Andorra"
+      },
       "englishName": "Andorra",
       "alpha2Code": "ad",
       "alpha3Code": "and",
@@ -163,7 +193,13 @@
     },
     {
       "id": "ao",
-      "name": "Angola",
+      "name": {
+        "en": "Angola",
+        "it": "Angola",
+        "de": "Angola",
+        "fr": "Angola",
+        "es": "Angola"
+      },
       "englishName": "Angola",
       "alpha2Code": "ao",
       "alpha3Code": "ago",
@@ -198,7 +234,13 @@
     },
     {
       "id": "ai",
-      "name": "Anguilla",
+      "name": {
+        "en": "Anguilla",
+        "it": "Anguilla",
+        "de": "Anguilla",
+        "fr": "Anguilla",
+        "es": "Anguila"
+      },
       "englishName": "Anguilla",
       "alpha2Code": "ai",
       "alpha3Code": "aia",
@@ -233,7 +275,13 @@
     },
     {
       "id": "aq",
-      "name": "Antarctica",
+      "name": {
+        "en": "Antarctica",
+        "it": "Antartide",
+        "de": "Antarktis",
+        "fr": "Antarctique",
+        "es": "Antártida"
+      },
       "englishName": "Antarctica",
       "alpha2Code": "aq",
       "alpha3Code": "ata",
@@ -262,7 +310,13 @@
     },
     {
       "id": "ag",
-      "name": "Antigua and Barbuda",
+      "name": {
+        "en": "Antigua and Barbuda",
+        "it": "Antigua e Barbuda",
+        "de": "Antigua und Barbuda",
+        "fr": "Antigua-et-Barbuda",
+        "es": "Antigua y Barbuda"
+      },
       "englishName": "Antigua and Barbuda",
       "alpha2Code": "ag",
       "alpha3Code": "atg",
@@ -297,7 +351,13 @@
     },
     {
       "id": "ar",
-      "name": "Argentina",
+      "name": {
+        "en": "Argentina",
+        "it": "Argentina",
+        "de": "Argentinien",
+        "fr": "Argentine",
+        "es": "Argentina"
+      },
       "englishName": "Argentina",
       "alpha2Code": "ar",
       "alpha3Code": "arg",
@@ -333,7 +393,13 @@
     },
     {
       "id": "am",
-      "name": "Armenia",
+      "name": {
+        "en": "Armenia",
+        "it": "Armenia",
+        "de": "Armenien",
+        "fr": "Arménie",
+        "es": "Armenia"
+      },
       "englishName": "Armenia",
       "alpha2Code": "am",
       "alpha3Code": "arm",
@@ -365,7 +431,13 @@
     },
     {
       "id": "aw",
-      "name": "Aruba",
+      "name": {
+        "en": "Aruba",
+        "it": "Aruba",
+        "de": "Aruba",
+        "fr": "Aruba",
+        "es": "Aruba"
+      },
       "englishName": "Aruba",
       "alpha2Code": "aw",
       "alpha3Code": "abw",
@@ -401,7 +473,13 @@
     },
     {
       "id": "au",
-      "name": "Australia",
+      "name": {
+        "en": "Australia",
+        "it": "Australia",
+        "de": "Australien",
+        "fr": "Australie",
+        "es": "Australia"
+      },
       "englishName": "Australia",
       "alpha2Code": "au",
       "alpha3Code": "aus",
@@ -432,7 +510,13 @@
     },
     {
       "id": "at",
-      "name": "Austria",
+      "name": {
+        "en": "Austria",
+        "it": "Austria",
+        "de": "Österreich",
+        "fr": "Autriche",
+        "es": "Austria"
+      },
       "englishName": "Austria",
       "alpha2Code": "at",
       "alpha3Code": "aut",
@@ -463,7 +547,13 @@
     },
     {
       "id": "az",
-      "name": "Azerbaijan",
+      "name": {
+        "en": "Azerbaijan",
+        "it": "Azerbaigian",
+        "de": "Aserbaidschan",
+        "fr": "Azerbaïdjan",
+        "es": "Azerbaiyán"
+      },
       "englishName": "Azerbaijan",
       "alpha2Code": "az",
       "alpha3Code": "aze",
@@ -494,7 +584,13 @@
     },
     {
       "id": "bs",
-      "name": "Bahamas",
+      "name": {
+        "en": "Bahamas",
+        "it": "Bahamas",
+        "de": "Bahamas",
+        "fr": "Bahamas",
+        "es": "Bahamas"
+      },
       "englishName": "Bahamas",
       "alpha2Code": "bs",
       "alpha3Code": "bhs",
@@ -529,7 +625,13 @@
     },
     {
       "id": "bh",
-      "name": "Bahrain",
+      "name": {
+        "en": "Bahrain",
+        "it": "Bahrain",
+        "de": "Bahrain",
+        "fr": "Bahreïn",
+        "es": "Bahrein"
+      },
       "englishName": "Bahrain",
       "alpha2Code": "bh",
       "alpha3Code": "bhr",
@@ -560,7 +662,13 @@
     },
     {
       "id": "bd",
-      "name": "Bangladesh",
+      "name": {
+        "en": "Bangladesh",
+        "it": "Bangladesh",
+        "de": "Bangladesch",
+        "fr": "Bangladesh",
+        "es": "Bangladesh"
+      },
       "englishName": "Bangladesh",
       "alpha2Code": "bd",
       "alpha3Code": "bgd",
@@ -591,7 +699,13 @@
     },
     {
       "id": "bb",
-      "name": "Barbados",
+      "name": {
+        "en": "Barbados",
+        "it": "Barbados",
+        "de": "Barbados",
+        "fr": "Barbade",
+        "es": "Barbados"
+      },
       "englishName": "Barbados",
       "alpha2Code": "bb",
       "alpha3Code": "brb",
@@ -626,7 +740,13 @@
     },
     {
       "id": "by",
-      "name": "Belarus",
+      "name": {
+        "en": "Belarus",
+        "it": "Bielorussia",
+        "de": "Belarus",
+        "fr": "Biélorussie",
+        "es": "Bielorrusia"
+      },
       "englishName": "Belarus",
       "alpha2Code": "by",
       "alpha3Code": "blr",
@@ -658,7 +778,13 @@
     },
     {
       "id": "be",
-      "name": "Belgium",
+      "name": {
+        "en": "Belgium",
+        "it": "Belgio",
+        "de": "Belgien",
+        "fr": "Belgique",
+        "es": "Bélgica"
+      },
       "englishName": "Belgium",
       "alpha2Code": "be",
       "alpha3Code": "bel",
@@ -691,7 +817,13 @@
     },
     {
       "id": "bz",
-      "name": "Belize",
+      "name": {
+        "en": "Belize",
+        "it": "Belize",
+        "de": "Belize",
+        "fr": "Belize",
+        "es": "Belice"
+      },
       "englishName": "Belize",
       "alpha2Code": "bz",
       "alpha3Code": "blz",
@@ -727,7 +859,13 @@
     },
     {
       "id": "bj",
-      "name": "Benin",
+      "name": {
+        "en": "Benin",
+        "it": "Benin",
+        "de": "Benin",
+        "fr": "Bénin",
+        "es": "Benin"
+      },
       "englishName": "Benin",
       "alpha2Code": "bj",
       "alpha3Code": "ben",
@@ -762,7 +900,13 @@
     },
     {
       "id": "bm",
-      "name": "Bermuda",
+      "name": {
+        "en": "Bermuda",
+        "it": "Bermuda",
+        "de": "Bermuda",
+        "fr": "Bermudes",
+        "es": "Bermudas"
+      },
       "englishName": "Bermuda",
       "alpha2Code": "bm",
       "alpha3Code": "bmu",
@@ -793,7 +937,13 @@
     },
     {
       "id": "bt",
-      "name": "Bhutan",
+      "name": {
+        "en": "Bhutan",
+        "it": "Bhutan",
+        "de": "Bhutan",
+        "fr": "Bhoutan",
+        "es": "Bután"
+      },
       "englishName": "Bhutan",
       "alpha2Code": "bt",
       "alpha3Code": "btn",
@@ -825,7 +975,13 @@
     },
     {
       "id": "bo",
-      "name": "Bolivia",
+      "name": {
+        "en": "Bolivia",
+        "it": "Bolivia",
+        "de": "Bolivien",
+        "fr": "Bolivie",
+        "es": "Bolivia"
+      },
       "englishName": "Bolivia (Plurinational State of)",
       "alpha2Code": "bo",
       "alpha3Code": "bol",
@@ -862,43 +1018,14 @@
       "emojiU": "U+1F1E7 U+1F1F4"
     },
     {
-      "id": "bq",
-      "name": "Bonaire, Sint Eustatius and Saba",
-      "englishName": "Bonaire, Sint Eustatius and Saba",
-      "alpha2Code": "bq",
-      "alpha3Code": "bes",
-      "countryCode": "535",
-      "isoCode": "ISO 3166-2:BQ",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Bonaire",
-      "capitalName": "Kralendijk",
-      "continentId": "na",
-      "currencies": [
-        "USD"
-      ],
-      "languages": [
-        "nl"
-      ],
-      "internationalPrefixes": [
-        "5997"
-      ],
-      "emoji": "🇧🇶",
-      "emojiU": "U+1F1E7 U+1F1F6"
-    },
-    {
       "id": "ba",
-      "name": "Bosnia and Herzegovina",
+      "name": {
+        "en": "Bosnia and Herzegovina",
+        "it": "Bosnia ed Erzegovina",
+        "de": "Bosnien und Herzegowina",
+        "fr": "Bosnie-Herzégovine",
+        "es": "Bosnia y Herzegovina"
+      },
       "englishName": "Bosnia and Herzegovina",
       "alpha2Code": "ba",
       "alpha3Code": "bih",
@@ -931,7 +1058,13 @@
     },
     {
       "id": "bw",
-      "name": "Botswana",
+      "name": {
+        "en": "Botswana",
+        "it": "Botswana",
+        "de": "Botswana",
+        "fr": "Botswana",
+        "es": "Botswana"
+      },
       "englishName": "Botswana",
       "alpha2Code": "bw",
       "alpha3Code": "bwa",
@@ -967,7 +1100,13 @@
     },
     {
       "id": "bv",
-      "name": "Bouvet Island",
+      "name": {
+        "en": "Bouvet Island",
+        "it": "Isola Bouvet",
+        "de": "Bouvetinsel",
+        "fr": "Île Bouvet",
+        "es": "Isla Bouvet"
+      },
       "englishName": "Bouvet Island",
       "alpha2Code": "bv",
       "alpha3Code": "bvt",
@@ -1004,7 +1143,13 @@
     },
     {
       "id": "br",
-      "name": "Brazil",
+      "name": {
+        "en": "Brazil",
+        "it": "Brasile",
+        "de": "Brasilien",
+        "fr": "Brésil",
+        "es": "Brasil"
+      },
       "englishName": "Brazil",
       "alpha2Code": "br",
       "alpha3Code": "bra",
@@ -1039,7 +1184,13 @@
     },
     {
       "id": "io",
-      "name": "British Indian Ocean Territory",
+      "name": {
+        "en": "British Indian Ocean Territory",
+        "it": "Territori Britannici dell'Oceano Indiano",
+        "de": "Britisches Territorium im Indischen Ozean",
+        "fr": "Océan Indien Britannique",
+        "es": "Territorio Británico del Océano Índico"
+      },
       "englishName": "British Indian Ocean Territory",
       "alpha2Code": "io",
       "alpha3Code": "iot",
@@ -1074,7 +1225,13 @@
     },
     {
       "id": "bn",
-      "name": "Brunei Darussalam",
+      "name": {
+        "en": "Brunei Darussalam",
+        "it": "Brunei",
+        "de": "Brunei Darussalam",
+        "fr": "Brunei Darussalam",
+        "es": "Brunei Darussalam"
+      },
       "englishName": "Brunei Darussalam",
       "alpha2Code": "bn",
       "alpha3Code": "brn",
@@ -1105,7 +1262,13 @@
     },
     {
       "id": "bg",
-      "name": "Bulgaria",
+      "name": {
+        "en": "Bulgaria",
+        "it": "Bulgaria",
+        "de": "Bulgarien",
+        "fr": "Bulgarie",
+        "es": "Bulgaria"
+      },
       "englishName": "Bulgaria",
       "alpha2Code": "bg",
       "alpha3Code": "bgr",
@@ -1136,7 +1299,13 @@
     },
     {
       "id": "bf",
-      "name": "Burkina Faso",
+      "name": {
+        "en": "Burkina Faso",
+        "it": "Burkina Faso",
+        "de": "Burkina Faso",
+        "fr": "Burkina Faso",
+        "es": "Burkina Faso"
+      },
       "englishName": "Burkina Faso",
       "alpha2Code": "bf",
       "alpha3Code": "bfa",
@@ -1172,7 +1341,13 @@
     },
     {
       "id": "bi",
-      "name": "Burundi",
+      "name": {
+        "en": "Burundi",
+        "it": "Burundi",
+        "de": "Burundi",
+        "fr": "Burundi",
+        "es": "Burundi"
+      },
       "englishName": "Burundi",
       "alpha2Code": "bi",
       "alpha3Code": "bdi",
@@ -1208,7 +1383,13 @@
     },
     {
       "id": "kh",
-      "name": "Cambodia",
+      "name": {
+        "en": "Cambodia",
+        "it": "Cambogia",
+        "de": "Kambodscha",
+        "fr": "Cambodge",
+        "es": "Camboya"
+      },
       "englishName": "Cambodia",
       "alpha2Code": "kh",
       "alpha3Code": "khm",
@@ -1239,7 +1420,13 @@
     },
     {
       "id": "cm",
-      "name": "Cameroon",
+      "name": {
+        "en": "Cameroon",
+        "it": "Camerun",
+        "de": "Kamerun",
+        "fr": "Cameroun",
+        "es": "Camerún"
+      },
       "englishName": "Cameroon",
       "alpha2Code": "cm",
       "alpha3Code": "cmr",
@@ -1275,7 +1462,13 @@
     },
     {
       "id": "ca",
-      "name": "Canada",
+      "name": {
+        "en": "Canada",
+        "it": "Canada",
+        "de": "Kanada",
+        "fr": "Canada",
+        "es": "Canadá"
+      },
       "englishName": "Canada",
       "alpha2Code": "ca",
       "alpha3Code": "can",
@@ -1307,7 +1500,13 @@
     },
     {
       "id": "cv",
-      "name": "Cape Verde",
+      "name": {
+        "en": "Cape Verde",
+        "it": "Capo Verde",
+        "de": "Kap Verde",
+        "fr": "Cap-Vert",
+        "es": "Cabo Verde"
+      },
       "englishName": "Cabo Verde",
       "alpha2Code": "cv",
       "alpha3Code": "cpv",
@@ -1342,7 +1541,13 @@
     },
     {
       "id": "ky",
-      "name": "Cayman Islands",
+      "name": {
+        "en": "Cayman Islands",
+        "it": "Isole Cayman",
+        "de": "Kaimaninseln",
+        "fr": "Îles Caïmans",
+        "es": "Islas Caimán"
+      },
       "englishName": "Cayman Islands",
       "alpha2Code": "ky",
       "alpha3Code": "cym",
@@ -1377,7 +1582,13 @@
     },
     {
       "id": "cf",
-      "name": "Central African Republic",
+      "name": {
+        "en": "Central African Republic",
+        "it": "Repubblica Centrafricana",
+        "de": "Zentralafrikanische Republik",
+        "fr": "République Centrafricaine",
+        "es": "República Centroafricana"
+      },
       "englishName": "Central African Republic",
       "alpha2Code": "cf",
       "alpha3Code": "caf",
@@ -1413,7 +1624,13 @@
     },
     {
       "id": "td",
-      "name": "Chad",
+      "name": {
+        "en": "Chad",
+        "it": "Ciad",
+        "de": "Tschad",
+        "fr": "Tchad",
+        "es": "Chad"
+      },
       "englishName": "Chad",
       "alpha2Code": "td",
       "alpha3Code": "tcd",
@@ -1449,7 +1666,13 @@
     },
     {
       "id": "cl",
-      "name": "Chile",
+      "name": {
+        "en": "Chile",
+        "it": "Cile",
+        "de": "Chile",
+        "fr": "Chili",
+        "es": "Chile"
+      },
       "englishName": "Chile",
       "alpha2Code": "cl",
       "alpha3Code": "chl",
@@ -1484,8 +1707,51 @@
       "emojiU": "U+1F1E8 U+1F1F1"
     },
     {
+      "id": "cn",
+      "name": {
+        "en": "People's Republic of China",
+        "it": "Cina",
+        "de": "China",
+        "fr": "Chine",
+        "es": "China"
+      },
+      "englishName": "China",
+      "alpha2Code": "cn",
+      "alpha3Code": "chn",
+      "countryCode": "156",
+      "isoCode": "ISO 3166-2:CN",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "30",
+        "name": "Eastern Asia"
+      },
+      "nativeName": "中国",
+      "capitalName": "Beijing",
+      "continentId": "as",
+      "currencies": [
+        "CNY"
+      ],
+      "languages": [
+        "zh"
+      ],
+      "internationalPrefixes": [
+        "86"
+      ],
+      "emoji": "🇨🇳",
+      "emojiU": "U+1F1E8 U+1F1F3"
+    },
+    {
       "id": "cx",
-      "name": "Christmas Island",
+      "name": {
+        "en": "Christmas Island",
+        "it": "Isola del Natale",
+        "de": "Weihnachtsinsel",
+        "fr": "Île Christmas",
+        "es": "Isla de Navidad"
+      },
       "englishName": "Christmas Island",
       "alpha2Code": "cx",
       "alpha3Code": "cxr",
@@ -1516,7 +1782,13 @@
     },
     {
       "id": "cc",
-      "name": "Cocos (Keeling) Islands",
+      "name": {
+        "en": "Cocos (Keeling) Islands",
+        "it": "Isole Cocos e Keeling",
+        "de": "Kokosinseln",
+        "fr": "Îles Cocos",
+        "es": "Islas Cocos (Keeling)"
+      },
       "englishName": "Cocos (Keeling) Islands",
       "alpha2Code": "cc",
       "alpha3Code": "cck",
@@ -1547,7 +1819,13 @@
     },
     {
       "id": "co",
-      "name": "Colombia",
+      "name": {
+        "en": "Colombia",
+        "it": "Colombia",
+        "de": "Kolumbien",
+        "fr": "Colombie",
+        "es": "Colombia"
+      },
       "englishName": "Colombia",
       "alpha2Code": "co",
       "alpha3Code": "col",
@@ -1582,7 +1860,13 @@
     },
     {
       "id": "km",
-      "name": "Comoros",
+      "name": {
+        "en": "Comoros",
+        "it": "Comore",
+        "de": "Komoren",
+        "fr": "Comores",
+        "es": "Comoras"
+      },
       "englishName": "Comoros",
       "alpha2Code": "km",
       "alpha3Code": "com",
@@ -1617,79 +1901,19 @@
       "emojiU": "U+1F1F0 U+1F1F2"
     },
     {
-      "id": "ck",
-      "name": "Cook Islands",
-      "englishName": "Cook Islands",
-      "alpha2Code": "ck",
-      "alpha3Code": "cok",
-      "countryCode": "184",
-      "isoCode": "ISO 3166-2:CK",
-      "region": {
-        "id": "9",
-        "name": "Oceania"
+      "id": "cg",
+      "name": {
+        "en": "Republic of the Congo",
+        "it": "Repubblica del Congo",
+        "de": "Republik Kongo",
+        "fr": "République du Congo",
+        "es": "Congo"
       },
-      "subRegion": {
-        "id": "61",
-        "name": "Polynesia"
-      },
-      "nativeName": "Cook Islands",
-      "capitalName": "Avarua",
-      "continentId": "oc",
-      "currencies": [
-        "NZD"
-      ],
-      "languages": [
-        "en"
-      ],
-      "internationalPrefixes": [
-        "682"
-      ],
-      "emoji": "🇨🇰",
-      "emojiU": "U+1F1E8 U+1F1F0"
-    },
-    {
-      "id": "cr",
-      "name": "Costa Rica",
-      "englishName": "Costa Rica",
-      "alpha2Code": "cr",
-      "alpha3Code": "cri",
-      "countryCode": "188",
-      "isoCode": "ISO 3166-2:CR",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "13",
-        "name": "Central America"
-      },
-      "nativeName": "Costa Rica",
-      "capitalName": "San José",
-      "continentId": "na",
-      "currencies": [
-        "CRC"
-      ],
-      "languages": [
-        "es"
-      ],
-      "internationalPrefixes": [
-        "506"
-      ],
-      "emoji": "🇨🇷",
-      "emojiU": "U+1F1E8 U+1F1F7"
-    },
-    {
-      "id": "ci",
-      "name": "Cote D'Ivoire",
-      "englishName": "Côte d'Ivoire",
-      "alpha2Code": "ci",
-      "alpha3Code": "civ",
-      "countryCode": "384",
-      "isoCode": "ISO 3166-2:CI",
+      "englishName": "Congo",
+      "alpha2Code": "cg",
+      "alpha3Code": "cog",
+      "countryCode": "178",
+      "isoCode": "ISO 3166-2:CG",
       "region": {
         "id": "2",
         "name": "Africa"
@@ -1699,196 +1923,34 @@
         "name": "Sub-Saharan Africa"
       },
       "intermediateRegion": {
-        "id": "11",
-        "name": "Western Africa"
+        "id": "17",
+        "name": "Middle Africa"
       },
-      "nativeName": "Côte d'Ivoire",
-      "capitalName": "Yamoussoukro",
+      "nativeName": "République du Congo",
+      "capitalName": "Brazzaville",
       "continentId": "af",
       "currencies": [
-        "XOF"
+        "XAF"
       ],
       "languages": [
-        "fr"
+        "fr",
+        "ln"
       ],
       "internationalPrefixes": [
-        "225"
+        "242"
       ],
-      "emoji": "🇨🇮",
-      "emojiU": "U+1F1E8 U+1F1EE"
-    },
-    {
-      "id": "hr",
-      "name": "Croatia",
-      "englishName": "Croatia",
-      "alpha2Code": "hr",
-      "alpha3Code": "hrv",
-      "countryCode": "191",
-      "isoCode": "ISO 3166-2:HR",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "39",
-        "name": "Southern Europe"
-      },
-      "nativeName": "Hrvatska",
-      "capitalName": "Zagreb",
-      "continentId": "eu",
-      "currencies": [
-        "HRK"
-      ],
-      "languages": [
-        "hr"
-      ],
-      "internationalPrefixes": [
-        "385"
-      ],
-      "emoji": "🇭🇷",
-      "emojiU": "U+1F1ED U+1F1F7"
-    },
-    {
-      "id": "cu",
-      "name": "Cuba",
-      "englishName": "Cuba",
-      "alpha2Code": "cu",
-      "alpha3Code": "cub",
-      "countryCode": "192",
-      "isoCode": "ISO 3166-2:CU",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Cuba",
-      "capitalName": "Havana",
-      "continentId": "na",
-      "currencies": [
-        "CUC",
-        "CUP"
-      ],
-      "languages": [
-        "es"
-      ],
-      "internationalPrefixes": [
-        "53"
-      ],
-      "emoji": "🇨🇺",
-      "emojiU": "U+1F1E8 U+1F1FA"
-    },
-    {
-      "id": "cw",
-      "name": "Curaçao",
-      "englishName": "Curaçao",
-      "alpha2Code": "cw",
-      "alpha3Code": "cuw",
-      "countryCode": "531",
-      "isoCode": "ISO 3166-2:CW",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Curaçao",
-      "capitalName": "Willemstad",
-      "continentId": "na",
-      "currencies": [
-        "ANG"
-      ],
-      "languages": [
-        "nl",
-        "pa",
-        "en"
-      ],
-      "internationalPrefixes": [
-        "5999"
-      ],
-      "emoji": "🇨🇼",
-      "emojiU": "U+1F1E8 U+1F1FC"
-    },
-    {
-      "id": "cy",
-      "name": "Cyprus",
-      "englishName": "Cyprus",
-      "alpha2Code": "cy",
-      "alpha3Code": "cyp",
-      "countryCode": "196",
-      "isoCode": "ISO 3166-2:CY",
-      "region": {
-        "id": "142",
-        "name": "Asia"
-      },
-      "subRegion": {
-        "id": "145",
-        "name": "Western Asia"
-      },
-      "nativeName": "Κύπρος",
-      "capitalName": "Nicosia",
-      "continentId": "eu",
-      "currencies": [
-        "EUR"
-      ],
-      "languages": [
-        "el",
-        "tr",
-        "hy"
-      ],
-      "internationalPrefixes": [
-        "357"
-      ],
-      "emoji": "🇨🇾",
-      "emojiU": "U+1F1E8 U+1F1FE"
-    },
-    {
-      "id": "cz",
-      "name": "Czech Republic",
-      "englishName": "Czechia",
-      "alpha2Code": "cz",
-      "alpha3Code": "cze",
-      "countryCode": "203",
-      "isoCode": "ISO 3166-2:CZ",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "151",
-        "name": "Eastern Europe"
-      },
-      "nativeName": "Česká republika",
-      "capitalName": "Prague",
-      "continentId": "eu",
-      "currencies": [
-        "CZK"
-      ],
-      "languages": [
-        "cs",
-        "sk"
-      ],
-      "internationalPrefixes": [
-        "420"
-      ],
-      "emoji": "🇨🇿",
-      "emojiU": "U+1F1E8 U+1F1FF"
+      "emoji": "🇨🇬",
+      "emojiU": "U+1F1E8 U+1F1EC"
     },
     {
       "id": "cd",
-      "name": "Democratic Republic of the Congo",
+      "name": {
+        "en": "Democratic Republic of the Congo",
+        "it": "Repubblica Democratica del Congo",
+        "de": "Kongo",
+        "fr": "République démocratique du Congo",
+        "es": "Congo (República Democrática del)"
+      },
       "englishName": "Congo, Democratic Republic of the",
       "alpha2Code": "cd",
       "alpha3Code": "cod",
@@ -1926,8 +1988,289 @@
       "emojiU": "U+1F1E8 U+1F1E9"
     },
     {
+      "id": "ck",
+      "name": {
+        "en": "Cook Islands",
+        "it": "Isole Cook",
+        "de": "Cookinseln",
+        "fr": "Îles Cook",
+        "es": "Islas Cook"
+      },
+      "englishName": "Cook Islands",
+      "alpha2Code": "ck",
+      "alpha3Code": "cok",
+      "countryCode": "184",
+      "isoCode": "ISO 3166-2:CK",
+      "region": {
+        "id": "9",
+        "name": "Oceania"
+      },
+      "subRegion": {
+        "id": "61",
+        "name": "Polynesia"
+      },
+      "nativeName": "Cook Islands",
+      "capitalName": "Avarua",
+      "continentId": "oc",
+      "currencies": [
+        "NZD"
+      ],
+      "languages": [
+        "en"
+      ],
+      "internationalPrefixes": [
+        "682"
+      ],
+      "emoji": "🇨🇰",
+      "emojiU": "U+1F1E8 U+1F1F0"
+    },
+    {
+      "id": "cr",
+      "name": {
+        "en": "Costa Rica",
+        "it": "Costa Rica",
+        "de": "Costa Rica",
+        "fr": "Costa Rica",
+        "es": "Costa Rica"
+      },
+      "englishName": "Costa Rica",
+      "alpha2Code": "cr",
+      "alpha3Code": "cri",
+      "countryCode": "188",
+      "isoCode": "ISO 3166-2:CR",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "13",
+        "name": "Central America"
+      },
+      "nativeName": "Costa Rica",
+      "capitalName": "San José",
+      "continentId": "na",
+      "currencies": [
+        "CRC"
+      ],
+      "languages": [
+        "es"
+      ],
+      "internationalPrefixes": [
+        "506"
+      ],
+      "emoji": "🇨🇷",
+      "emojiU": "U+1F1E8 U+1F1F7"
+    },
+    {
+      "id": "ci",
+      "name": {
+        "en": "Cote D'Ivoire",
+        "it": "Costa d'Avorio",
+        "de": "Elfenbeinküste",
+        "fr": "Côte-d'Ivoire",
+        "es": "Costa de Marfil"
+      },
+      "englishName": "Côte d'Ivoire",
+      "alpha2Code": "ci",
+      "alpha3Code": "civ",
+      "countryCode": "384",
+      "isoCode": "ISO 3166-2:CI",
+      "region": {
+        "id": "2",
+        "name": "Africa"
+      },
+      "subRegion": {
+        "id": "202",
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediateRegion": {
+        "id": "11",
+        "name": "Western Africa"
+      },
+      "nativeName": "Côte d'Ivoire",
+      "capitalName": "Yamoussoukro",
+      "continentId": "af",
+      "currencies": [
+        "XOF"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "internationalPrefixes": [
+        "225"
+      ],
+      "emoji": "🇨🇮",
+      "emojiU": "U+1F1E8 U+1F1EE"
+    },
+    {
+      "id": "hr",
+      "name": {
+        "en": "Croatia",
+        "it": "Croazia",
+        "de": "Kroatien",
+        "fr": "Croatie",
+        "es": "Croacia"
+      },
+      "englishName": "Croatia",
+      "alpha2Code": "hr",
+      "alpha3Code": "hrv",
+      "countryCode": "191",
+      "isoCode": "ISO 3166-2:HR",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "39",
+        "name": "Southern Europe"
+      },
+      "nativeName": "Hrvatska",
+      "capitalName": "Zagreb",
+      "continentId": "eu",
+      "currencies": [
+        "HRK"
+      ],
+      "languages": [
+        "hr"
+      ],
+      "internationalPrefixes": [
+        "385"
+      ],
+      "emoji": "🇭🇷",
+      "emojiU": "U+1F1ED U+1F1F7"
+    },
+    {
+      "id": "cu",
+      "name": {
+        "en": "Cuba",
+        "it": "Cuba",
+        "de": "Kuba",
+        "fr": "Cuba",
+        "es": "Cuba"
+      },
+      "englishName": "Cuba",
+      "alpha2Code": "cu",
+      "alpha3Code": "cub",
+      "countryCode": "192",
+      "isoCode": "ISO 3166-2:CU",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Cuba",
+      "capitalName": "Havana",
+      "continentId": "na",
+      "currencies": [
+        "CUC",
+        "CUP"
+      ],
+      "languages": [
+        "es"
+      ],
+      "internationalPrefixes": [
+        "53"
+      ],
+      "emoji": "🇨🇺",
+      "emojiU": "U+1F1E8 U+1F1FA"
+    },
+    {
+      "id": "cy",
+      "name": {
+        "en": "Cyprus",
+        "it": "Cipro",
+        "de": "Zypern",
+        "fr": "Chypre",
+        "es": "Chipre"
+      },
+      "englishName": "Cyprus",
+      "alpha2Code": "cy",
+      "alpha3Code": "cyp",
+      "countryCode": "196",
+      "isoCode": "ISO 3166-2:CY",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "145",
+        "name": "Western Asia"
+      },
+      "nativeName": "Κύπρος",
+      "capitalName": "Nicosia",
+      "continentId": "eu",
+      "currencies": [
+        "EUR"
+      ],
+      "languages": [
+        "el",
+        "tr",
+        "hy"
+      ],
+      "internationalPrefixes": [
+        "357"
+      ],
+      "emoji": "🇨🇾",
+      "emojiU": "U+1F1E8 U+1F1FE"
+    },
+    {
+      "id": "cz",
+      "name": {
+        "en": "Czech Republic",
+        "it": "Repubblica Ceca",
+        "de": "Tschechische Republik",
+        "fr": "République Tchèque",
+        "es": "República Checa"
+      },
+      "englishName": "Czechia",
+      "alpha2Code": "cz",
+      "alpha3Code": "cze",
+      "countryCode": "203",
+      "isoCode": "ISO 3166-2:CZ",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "151",
+        "name": "Eastern Europe"
+      },
+      "nativeName": "Česká republika",
+      "capitalName": "Prague",
+      "continentId": "eu",
+      "currencies": [
+        "CZK"
+      ],
+      "languages": [
+        "cs",
+        "sk"
+      ],
+      "internationalPrefixes": [
+        "420"
+      ],
+      "emoji": "🇨🇿",
+      "emojiU": "U+1F1E8 U+1F1FF"
+    },
+    {
       "id": "dk",
-      "name": "Denmark",
+      "name": {
+        "en": "Denmark",
+        "it": "Danimarca",
+        "de": "Dänemark",
+        "fr": "Danemark",
+        "es": "Dinamarca"
+      },
       "englishName": "Denmark",
       "alpha2Code": "dk",
       "alpha3Code": "dnk",
@@ -1958,7 +2301,13 @@
     },
     {
       "id": "dj",
-      "name": "Djibouti",
+      "name": {
+        "en": "Djibouti",
+        "it": "Gibuti",
+        "de": "Dschibuti",
+        "fr": "Djibouti",
+        "es": "Yibuti"
+      },
       "englishName": "Djibouti",
       "alpha2Code": "dj",
       "alpha3Code": "dji",
@@ -1994,7 +2343,13 @@
     },
     {
       "id": "dm",
-      "name": "Dominica",
+      "name": {
+        "en": "Dominica",
+        "it": "Dominica",
+        "de": "Dominica",
+        "fr": "Dominique",
+        "es": "Dominica"
+      },
       "englishName": "Dominica",
       "alpha2Code": "dm",
       "alpha3Code": "dma",
@@ -2029,7 +2384,13 @@
     },
     {
       "id": "do",
-      "name": "Dominican Republic",
+      "name": {
+        "en": "Dominican Republic",
+        "it": "Repubblica Dominicana",
+        "de": "Dominikanische Republik",
+        "fr": "République Dominicaine",
+        "es": "República Dominicana"
+      },
       "englishName": "Dominican Republic",
       "alpha2Code": "do",
       "alpha3Code": "dom",
@@ -2066,7 +2427,13 @@
     },
     {
       "id": "ec",
-      "name": "Ecuador",
+      "name": {
+        "en": "Ecuador",
+        "it": "Ecuador",
+        "de": "Ecuador",
+        "fr": "Équateur",
+        "es": "Ecuador"
+      },
       "englishName": "Ecuador",
       "alpha2Code": "ec",
       "alpha3Code": "ecu",
@@ -2101,7 +2468,13 @@
     },
     {
       "id": "eg",
-      "name": "Egypt",
+      "name": {
+        "en": "Egypt",
+        "it": "Egitto",
+        "de": "Ägypten",
+        "fr": "Égypte",
+        "es": "Egipto"
+      },
       "englishName": "Egypt",
       "alpha2Code": "eg",
       "alpha3Code": "egy",
@@ -2132,7 +2505,13 @@
     },
     {
       "id": "sv",
-      "name": "El Salvador",
+      "name": {
+        "en": "El Salvador",
+        "it": "El Salvador",
+        "de": "El Salvador",
+        "fr": "El Salvador",
+        "es": "El Salvador"
+      },
       "englishName": "El Salvador",
       "alpha2Code": "sv",
       "alpha3Code": "slv",
@@ -2168,7 +2547,13 @@
     },
     {
       "id": "gq",
-      "name": "Equatorial Guinea",
+      "name": {
+        "en": "Equatorial Guinea",
+        "it": "Guinea Equatoriale",
+        "de": "Äquatorialguinea",
+        "fr": "Guinée équatoriale",
+        "es": "Guinea Ecuatorial"
+      },
       "englishName": "Equatorial Guinea",
       "alpha2Code": "gq",
       "alpha3Code": "gnq",
@@ -2204,7 +2589,13 @@
     },
     {
       "id": "er",
-      "name": "Eritrea",
+      "name": {
+        "en": "Eritrea",
+        "it": "Eritrea",
+        "de": "Eritrea",
+        "fr": "Érythrée",
+        "es": "Eritrea"
+      },
       "englishName": "Eritrea",
       "alpha2Code": "er",
       "alpha3Code": "eri",
@@ -2241,7 +2632,13 @@
     },
     {
       "id": "ee",
-      "name": "Estonia",
+      "name": {
+        "en": "Estonia",
+        "it": "Estonia",
+        "de": "Estland",
+        "fr": "Estonie",
+        "es": "Estonia"
+      },
       "englishName": "Estonia",
       "alpha2Code": "ee",
       "alpha3Code": "est",
@@ -2271,44 +2668,14 @@
       "emojiU": "U+1F1EA U+1F1EA"
     },
     {
-      "id": "sz",
-      "name": "Eswatini",
-      "englishName": "Eswatini",
-      "alpha2Code": "sz",
-      "alpha3Code": "swz",
-      "countryCode": "748",
-      "isoCode": "ISO 3166-2:SZ",
-      "region": {
-        "id": "2",
-        "name": "Africa"
-      },
-      "subRegion": {
-        "id": "202",
-        "name": "Sub-Saharan Africa"
-      },
-      "intermediateRegion": {
-        "id": "18",
-        "name": "Southern Africa"
-      },
-      "nativeName": "Swaziland",
-      "capitalName": "Lobamba",
-      "continentId": "af",
-      "currencies": [
-        "SZL"
-      ],
-      "languages": [
-        "en",
-        "ss"
-      ],
-      "internationalPrefixes": [
-        "268"
-      ],
-      "emoji": "🇸🇿",
-      "emojiU": "U+1F1F8 U+1F1FF"
-    },
-    {
       "id": "et",
-      "name": "Ethiopia",
+      "name": {
+        "en": "Ethiopia",
+        "it": "Etiopia",
+        "de": "Äthiopien",
+        "fr": "Éthiopie",
+        "es": "Etiopía"
+      },
       "englishName": "Ethiopia",
       "alpha2Code": "et",
       "alpha3Code": "eth",
@@ -2343,7 +2710,13 @@
     },
     {
       "id": "fk",
-      "name": "Falkland Islands (Malvinas)",
+      "name": {
+        "en": "Falkland Islands (Malvinas)",
+        "it": "Isole Falkland",
+        "de": "Falklandinseln",
+        "fr": "Îles Malouines",
+        "es": "Islas Malvinas"
+      },
       "englishName": "Falkland Islands (Malvinas)",
       "alpha2Code": "fk",
       "alpha3Code": "flk",
@@ -2378,7 +2751,13 @@
     },
     {
       "id": "fo",
-      "name": "Faroe Islands",
+      "name": {
+        "en": "Faroe Islands",
+        "it": "Isole Fær Øer",
+        "de": "Färöer",
+        "fr": "Îles Féroé",
+        "es": "Islas Feroe"
+      },
       "englishName": "Faroe Islands",
       "alpha2Code": "fo",
       "alpha3Code": "fro",
@@ -2409,7 +2788,13 @@
     },
     {
       "id": "fj",
-      "name": "Fiji",
+      "name": {
+        "en": "Fiji",
+        "it": "Figi",
+        "de": "Fidschi",
+        "fr": "Fidji",
+        "es": "Fiji"
+      },
       "englishName": "Fiji",
       "alpha2Code": "fj",
       "alpha3Code": "fji",
@@ -2443,7 +2828,13 @@
     },
     {
       "id": "fi",
-      "name": "Finland",
+      "name": {
+        "en": "Finland",
+        "it": "Finlandia",
+        "de": "Finnland",
+        "fr": "Finlande",
+        "es": "Finlandia"
+      },
       "englishName": "Finland",
       "alpha2Code": "fi",
       "alpha3Code": "fin",
@@ -2475,7 +2866,13 @@
     },
     {
       "id": "fr",
-      "name": "France",
+      "name": {
+        "en": "France",
+        "it": "Francia",
+        "de": "Frankreich",
+        "fr": "France",
+        "es": "Francia"
+      },
       "englishName": "France",
       "alpha2Code": "fr",
       "alpha3Code": "fra",
@@ -2506,7 +2903,13 @@
     },
     {
       "id": "gf",
-      "name": "French Guiana",
+      "name": {
+        "en": "French Guiana",
+        "it": "Guyana Francese",
+        "de": "Französisch-Guayana",
+        "fr": "Guyane française",
+        "es": "Guayana Francesa"
+      },
       "englishName": "French Guiana",
       "alpha2Code": "gf",
       "alpha3Code": "guf",
@@ -2541,7 +2944,13 @@
     },
     {
       "id": "pf",
-      "name": "French Polynesia",
+      "name": {
+        "en": "French Polynesia",
+        "it": "Polinesia Francese",
+        "de": "Französisch-Polynesien",
+        "fr": "Polynésie française",
+        "es": "Polinesia Francesa"
+      },
       "englishName": "French Polynesia",
       "alpha2Code": "pf",
       "alpha3Code": "pyf",
@@ -2572,7 +2981,13 @@
     },
     {
       "id": "tf",
-      "name": "French Southern Territories",
+      "name": {
+        "en": "French Southern Territories",
+        "it": "Territori Francesi del Sud",
+        "de": "Französische Süd- und Antarktisgebiete",
+        "fr": "Terres australes françaises",
+        "es": "Tierras Australes Francesas"
+      },
       "englishName": "French Southern Territories",
       "alpha2Code": "tf",
       "alpha3Code": "atf",
@@ -2607,7 +3022,13 @@
     },
     {
       "id": "ga",
-      "name": "Gabon",
+      "name": {
+        "en": "Gabon",
+        "it": "Gabon",
+        "de": "Gabun",
+        "fr": "Gabon",
+        "es": "Gabón"
+      },
       "englishName": "Gabon",
       "alpha2Code": "ga",
       "alpha3Code": "gab",
@@ -2641,8 +3062,55 @@
       "emojiU": "U+1F1EC U+1F1E6"
     },
     {
+      "id": "gm",
+      "name": {
+        "en": "Republic of The Gambia",
+        "it": "Gambia",
+        "de": "Gambia",
+        "fr": "Gambie",
+        "es": "Gambia"
+      },
+      "englishName": "Gambia",
+      "alpha2Code": "gm",
+      "alpha3Code": "gmb",
+      "countryCode": "270",
+      "isoCode": "ISO 3166-2:GM",
+      "region": {
+        "id": "2",
+        "name": "Africa"
+      },
+      "subRegion": {
+        "id": "202",
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediateRegion": {
+        "id": "11",
+        "name": "Western Africa"
+      },
+      "nativeName": "Gambia",
+      "capitalName": "Banjul",
+      "continentId": "af",
+      "currencies": [
+        "GMD"
+      ],
+      "languages": [
+        "en"
+      ],
+      "internationalPrefixes": [
+        "220"
+      ],
+      "emoji": "🇬🇲",
+      "emojiU": "U+1F1EC U+1F1F2"
+    },
+    {
       "id": "ge",
-      "name": "Georgia",
+      "name": {
+        "en": "Georgia",
+        "it": "Georgia",
+        "de": "Georgien",
+        "fr": "Géorgie",
+        "es": "Georgia"
+      },
       "englishName": "Georgia",
       "alpha2Code": "ge",
       "alpha3Code": "geo",
@@ -2673,7 +3141,13 @@
     },
     {
       "id": "de",
-      "name": "Germany",
+      "name": {
+        "en": "Germany",
+        "it": "Germania",
+        "de": "Deutschland",
+        "fr": "Allemagne",
+        "es": "Alemania"
+      },
       "englishName": "Germany",
       "alpha2Code": "de",
       "alpha3Code": "deu",
@@ -2704,7 +3178,13 @@
     },
     {
       "id": "gh",
-      "name": "Ghana",
+      "name": {
+        "en": "Ghana",
+        "it": "Ghana",
+        "de": "Ghana",
+        "fr": "Ghana",
+        "es": "Ghana"
+      },
       "englishName": "Ghana",
       "alpha2Code": "gh",
       "alpha3Code": "gha",
@@ -2739,7 +3219,13 @@
     },
     {
       "id": "gi",
-      "name": "Gibraltar",
+      "name": {
+        "en": "Gibraltar",
+        "it": "Gibilterra",
+        "de": "Gibraltar",
+        "fr": "Gibraltar",
+        "es": "Gibraltar"
+      },
       "englishName": "Gibraltar",
       "alpha2Code": "gi",
       "alpha3Code": "gib",
@@ -2770,7 +3256,13 @@
     },
     {
       "id": "gr",
-      "name": "Greece",
+      "name": {
+        "en": "Greece",
+        "it": "Grecia",
+        "de": "Griechenland",
+        "fr": "Grèce",
+        "es": "Grecia"
+      },
       "englishName": "Greece",
       "alpha2Code": "gr",
       "alpha3Code": "grc",
@@ -2801,7 +3293,13 @@
     },
     {
       "id": "gl",
-      "name": "Greenland",
+      "name": {
+        "en": "Greenland",
+        "it": "Groenlandia",
+        "de": "Grönland",
+        "fr": "Groenland",
+        "es": "Groenlandia"
+      },
       "englishName": "Greenland",
       "alpha2Code": "gl",
       "alpha3Code": "grl",
@@ -2832,7 +3330,13 @@
     },
     {
       "id": "gd",
-      "name": "Grenada",
+      "name": {
+        "en": "Grenada",
+        "it": "Grenada",
+        "de": "Grenada",
+        "fr": "Grenade",
+        "es": "Granada"
+      },
       "englishName": "Grenada",
       "alpha2Code": "gd",
       "alpha3Code": "grd",
@@ -2867,7 +3371,13 @@
     },
     {
       "id": "gp",
-      "name": "Guadeloupe",
+      "name": {
+        "en": "Guadeloupe",
+        "it": "Guadalupa",
+        "de": "Guadeloupe",
+        "fr": "Guadeloupe",
+        "es": "Guadalupe"
+      },
       "englishName": "Guadeloupe",
       "alpha2Code": "gp",
       "alpha3Code": "glp",
@@ -2902,7 +3412,13 @@
     },
     {
       "id": "gu",
-      "name": "Guam",
+      "name": {
+        "en": "Guam",
+        "it": "Guam",
+        "de": "Guam",
+        "fr": "Guam",
+        "es": "Guam"
+      },
       "englishName": "Guam",
       "alpha2Code": "gu",
       "alpha3Code": "gum",
@@ -2935,7 +3451,13 @@
     },
     {
       "id": "gt",
-      "name": "Guatemala",
+      "name": {
+        "en": "Guatemala",
+        "it": "Guatemala",
+        "de": "Guatemala",
+        "fr": "Guatemala",
+        "es": "Guatemala"
+      },
       "englishName": "Guatemala",
       "alpha2Code": "gt",
       "alpha3Code": "gtm",
@@ -2969,44 +3491,14 @@
       "emojiU": "U+1F1EC U+1F1F9"
     },
     {
-      "id": "gg",
-      "name": "Guernsey",
-      "englishName": "Guernsey",
-      "alpha2Code": "gg",
-      "alpha3Code": "ggy",
-      "countryCode": "831",
-      "isoCode": "ISO 3166-2:GG",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "154",
-        "name": "Northern Europe"
-      },
-      "intermediateRegion": {
-        "id": "830",
-        "name": "Channel Islands"
-      },
-      "nativeName": "Guernsey",
-      "capitalName": "St. Peter Port",
-      "continentId": "eu",
-      "currencies": [
-        "GBP"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "internationalPrefixes": [
-        "44"
-      ],
-      "emoji": "🇬🇬",
-      "emojiU": "U+1F1EC U+1F1EC"
-    },
-    {
       "id": "gn",
-      "name": "Guinea",
+      "name": {
+        "en": "Guinea",
+        "it": "Guinea",
+        "de": "Guinea",
+        "fr": "Guinée",
+        "es": "Guinea"
+      },
       "englishName": "Guinea",
       "alpha2Code": "gn",
       "alpha3Code": "gin",
@@ -3042,7 +3534,13 @@
     },
     {
       "id": "gw",
-      "name": "Guinea-Bissau",
+      "name": {
+        "en": "Guinea-Bissau",
+        "it": "Guinea-Bissau",
+        "de": "Guinea-Bissau",
+        "fr": "Guinée-Bissau",
+        "es": "Guinea Bissau"
+      },
       "englishName": "Guinea-Bissau",
       "alpha2Code": "gw",
       "alpha3Code": "gnb",
@@ -3077,7 +3575,13 @@
     },
     {
       "id": "gy",
-      "name": "Guyana",
+      "name": {
+        "en": "Guyana",
+        "it": "Guyana",
+        "de": "Guyana",
+        "fr": "Guyana",
+        "es": "Guyana"
+      },
       "englishName": "Guyana",
       "alpha2Code": "gy",
       "alpha3Code": "guy",
@@ -3112,7 +3616,13 @@
     },
     {
       "id": "ht",
-      "name": "Haiti",
+      "name": {
+        "en": "Haiti",
+        "it": "Haiti",
+        "de": "Haiti",
+        "fr": "Haïti",
+        "es": "Haití"
+      },
       "englishName": "Haiti",
       "alpha2Code": "ht",
       "alpha3Code": "hti",
@@ -3149,7 +3659,13 @@
     },
     {
       "id": "hm",
-      "name": "Heard Island and McDonald Islands",
+      "name": {
+        "en": "Heard Island and McDonald Islands",
+        "it": "Isole Heard e McDonald",
+        "de": "Heard und McDonaldinseln",
+        "fr": "Îles Heard-et-MacDonald",
+        "es": "Heard e Islas McDonald"
+      },
       "englishName": "Heard Island and McDonald Islands",
       "alpha2Code": "hm",
       "alpha3Code": "hmd",
@@ -3180,7 +3696,13 @@
     },
     {
       "id": "va",
-      "name": "Holy See (Vatican City State)",
+      "name": {
+        "en": "Holy See (Vatican City State)",
+        "it": "Città del Vaticano",
+        "de": "Vatikanstadt",
+        "fr": "Saint-Siège (Vatican)",
+        "es": "Santa Sede"
+      },
       "englishName": "Holy See",
       "alpha2Code": "va",
       "alpha3Code": "vat",
@@ -3212,7 +3734,13 @@
     },
     {
       "id": "hn",
-      "name": "Honduras",
+      "name": {
+        "en": "Honduras",
+        "it": "Honduras",
+        "de": "Honduras",
+        "fr": "Honduras",
+        "es": "Honduras"
+      },
       "englishName": "Honduras",
       "alpha2Code": "hn",
       "alpha3Code": "hnd",
@@ -3247,7 +3775,13 @@
     },
     {
       "id": "hk",
-      "name": "Hong Kong",
+      "name": {
+        "en": "Hong Kong",
+        "it": "Hong Kong",
+        "de": "Hongkong",
+        "fr": "Hong Kong",
+        "es": "Hong Kong"
+      },
       "englishName": "Hong Kong",
       "alpha2Code": "hk",
       "alpha3Code": "hkg",
@@ -3279,7 +3813,13 @@
     },
     {
       "id": "hu",
-      "name": "Hungary",
+      "name": {
+        "en": "Hungary",
+        "it": "Ungheria",
+        "de": "Ungarn",
+        "fr": "Hongrie",
+        "es": "Hungría"
+      },
       "englishName": "Hungary",
       "alpha2Code": "hu",
       "alpha3Code": "hun",
@@ -3310,7 +3850,13 @@
     },
     {
       "id": "is",
-      "name": "Iceland",
+      "name": {
+        "en": "Iceland",
+        "it": "Islanda",
+        "de": "Island",
+        "fr": "Islande",
+        "es": "Islandia"
+      },
       "englishName": "Iceland",
       "alpha2Code": "is",
       "alpha3Code": "isl",
@@ -3341,7 +3887,13 @@
     },
     {
       "id": "in",
-      "name": "India",
+      "name": {
+        "en": "India",
+        "it": "India",
+        "de": "Indien",
+        "fr": "Inde",
+        "es": "India"
+      },
       "englishName": "India",
       "alpha2Code": "in",
       "alpha3Code": "ind",
@@ -3373,7 +3925,13 @@
     },
     {
       "id": "id",
-      "name": "Indonesia",
+      "name": {
+        "en": "Indonesia",
+        "it": "Indonesia",
+        "de": "Indonesien",
+        "fr": "Indonésie",
+        "es": "Indonesia"
+      },
       "englishName": "Indonesia",
       "alpha2Code": "id",
       "alpha3Code": "idn",
@@ -3403,8 +3961,51 @@
       "emojiU": "U+1F1EE U+1F1E9"
     },
     {
+      "id": "ir",
+      "name": {
+        "en": "Islamic Republic of Iran",
+        "it": "Iran",
+        "de": "Iran",
+        "fr": "Iran",
+        "es": "Irán"
+      },
+      "englishName": "Iran (Islamic Republic of)",
+      "alpha2Code": "ir",
+      "alpha3Code": "irn",
+      "countryCode": "364",
+      "isoCode": "ISO 3166-2:IR",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "34",
+        "name": "Southern Asia"
+      },
+      "nativeName": "ایران",
+      "capitalName": "Tehran",
+      "continentId": "as",
+      "currencies": [
+        "IRR"
+      ],
+      "languages": [
+        "fa"
+      ],
+      "internationalPrefixes": [
+        "98"
+      ],
+      "emoji": "🇮🇷",
+      "emojiU": "U+1F1EE U+1F1F7"
+    },
+    {
       "id": "iq",
-      "name": "Iraq",
+      "name": {
+        "en": "Iraq",
+        "it": "Iraq",
+        "de": "Irak",
+        "fr": "Irak",
+        "es": "Iraq"
+      },
       "englishName": "Iraq",
       "alpha2Code": "iq",
       "alpha3Code": "irq",
@@ -3436,7 +4037,13 @@
     },
     {
       "id": "ie",
-      "name": "Ireland",
+      "name": {
+        "en": "Ireland",
+        "it": "Irlanda",
+        "de": "Irland",
+        "fr": "Irlande",
+        "es": "Irlanda"
+      },
       "englishName": "Ireland",
       "alpha2Code": "ie",
       "alpha3Code": "irl",
@@ -3467,71 +4074,14 @@
       "emojiU": "U+1F1EE U+1F1EA"
     },
     {
-      "id": "ir",
-      "name": "Islamic Republic of Iran",
-      "englishName": "Iran (Islamic Republic of)",
-      "alpha2Code": "ir",
-      "alpha3Code": "irn",
-      "countryCode": "364",
-      "isoCode": "ISO 3166-2:IR",
-      "region": {
-        "id": "142",
-        "name": "Asia"
-      },
-      "subRegion": {
-        "id": "34",
-        "name": "Southern Asia"
-      },
-      "nativeName": "ایران",
-      "capitalName": "Tehran",
-      "continentId": "as",
-      "currencies": [
-        "IRR"
-      ],
-      "languages": [
-        "fa"
-      ],
-      "internationalPrefixes": [
-        "98"
-      ],
-      "emoji": "🇮🇷",
-      "emojiU": "U+1F1EE U+1F1F7"
-    },
-    {
-      "id": "im",
-      "name": "Isle of Man",
-      "englishName": "Isle of Man",
-      "alpha2Code": "im",
-      "alpha3Code": "imn",
-      "countryCode": "833",
-      "isoCode": "ISO 3166-2:IM",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "154",
-        "name": "Northern Europe"
-      },
-      "nativeName": "Isle of Man",
-      "capitalName": "Douglas",
-      "continentId": "eu",
-      "currencies": [
-        "GBP"
-      ],
-      "languages": [
-        "en",
-        "gv"
-      ],
-      "internationalPrefixes": [
-        "44"
-      ],
-      "emoji": "🇮🇲",
-      "emojiU": "U+1F1EE U+1F1F2"
-    },
-    {
       "id": "il",
-      "name": "Israel",
+      "name": {
+        "en": "Israel",
+        "it": "Israele",
+        "de": "Israel",
+        "fr": "Israël",
+        "es": "Israel"
+      },
       "englishName": "Israel",
       "alpha2Code": "il",
       "alpha3Code": "isr",
@@ -3563,7 +4113,13 @@
     },
     {
       "id": "it",
-      "name": "Italy",
+      "name": {
+        "en": "Italy",
+        "it": "Italia",
+        "de": "Italien",
+        "fr": "Italie",
+        "es": "Italia"
+      },
       "englishName": "Italy",
       "alpha2Code": "it",
       "alpha3Code": "ita",
@@ -3594,7 +4150,13 @@
     },
     {
       "id": "jm",
-      "name": "Jamaica",
+      "name": {
+        "en": "Jamaica",
+        "it": "Giamaica",
+        "de": "Jamaika",
+        "fr": "Jamaïque",
+        "es": "Jamaica"
+      },
       "englishName": "Jamaica",
       "alpha2Code": "jm",
       "alpha3Code": "jam",
@@ -3629,7 +4191,13 @@
     },
     {
       "id": "jp",
-      "name": "Japan",
+      "name": {
+        "en": "Japan",
+        "it": "Giappone",
+        "de": "Japan",
+        "fr": "Japon",
+        "es": "Japón"
+      },
       "englishName": "Japan",
       "alpha2Code": "jp",
       "alpha3Code": "jpn",
@@ -3659,44 +4227,14 @@
       "emojiU": "U+1F1EF U+1F1F5"
     },
     {
-      "id": "je",
-      "name": "Jersey",
-      "englishName": "Jersey",
-      "alpha2Code": "je",
-      "alpha3Code": "jey",
-      "countryCode": "832",
-      "isoCode": "ISO 3166-2:JE",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "154",
-        "name": "Northern Europe"
-      },
-      "intermediateRegion": {
-        "id": "830",
-        "name": "Channel Islands"
-      },
-      "nativeName": "Jersey",
-      "capitalName": "Saint Helier",
-      "continentId": "eu",
-      "currencies": [
-        "GBP"
-      ],
-      "languages": [
-        "en",
-        "fr"
-      ],
-      "internationalPrefixes": [
-        "44"
-      ],
-      "emoji": "🇯🇪",
-      "emojiU": "U+1F1EF U+1F1EA"
-    },
-    {
       "id": "jo",
-      "name": "Jordan",
+      "name": {
+        "en": "Jordan",
+        "it": "Giordania",
+        "de": "Jordanien",
+        "fr": "Jordanie",
+        "es": "Jordania"
+      },
       "englishName": "Jordan",
       "alpha2Code": "jo",
       "alpha3Code": "jor",
@@ -3727,7 +4265,13 @@
     },
     {
       "id": "kz",
-      "name": "Kazakhstan",
+      "name": {
+        "en": "Kazakhstan",
+        "it": "Kazakistan",
+        "de": "Kasachstan",
+        "fr": "Kazakhstan",
+        "es": "Kazajistán"
+      },
       "englishName": "Kazakhstan",
       "alpha2Code": "kz",
       "alpha3Code": "kaz",
@@ -3760,7 +4304,13 @@
     },
     {
       "id": "ke",
-      "name": "Kenya",
+      "name": {
+        "en": "Kenya",
+        "it": "Kenya",
+        "de": "Kenia",
+        "fr": "Kenya",
+        "es": "Kenia"
+      },
       "englishName": "Kenya",
       "alpha2Code": "ke",
       "alpha3Code": "ken",
@@ -3796,7 +4346,13 @@
     },
     {
       "id": "ki",
-      "name": "Kiribati",
+      "name": {
+        "en": "Kiribati",
+        "it": "Kiribati",
+        "de": "Kiribati",
+        "fr": "Kiribati",
+        "es": "Kiribati"
+      },
       "englishName": "Kiribati",
       "alpha2Code": "ki",
       "alpha3Code": "kir",
@@ -3826,30 +4382,88 @@
       "emojiU": "U+1F1F0 U+1F1EE"
     },
     {
-      "id": "xk",
-      "name": "Kosovo",
-      "nativeName": "Republika e Kosovës",
-      "capitalName": "Pristina",
-      "continentId": "eu",
+      "id": "kp",
+      "name": {
+        "en": "North Korea",
+        "it": "Corea del Nord",
+        "de": "Nordkorea",
+        "fr": "Corée du Nord",
+        "es": "República Popular Democrática de Corea"
+      },
+      "englishName": "Korea (Democratic People's Republic of)",
+      "alpha2Code": "kp",
+      "alpha3Code": "prk",
+      "countryCode": "408",
+      "isoCode": "ISO 3166-2:KP",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "30",
+        "name": "Eastern Asia"
+      },
+      "nativeName": "북한",
+      "capitalName": "Pyongyang",
+      "continentId": "as",
       "currencies": [
-        "EUR"
+        "KPW"
       ],
       "languages": [
-        "sq",
-        "sr"
+        "ko"
       ],
       "internationalPrefixes": [
-        "377",
-        "381",
-        "383",
-        "386"
+        "850"
       ],
-      "emoji": "🇽🇰",
-      "emojiU": "U+1F1FD U+1F1F0"
+      "emoji": "🇰🇵",
+      "emojiU": "U+1F1F0 U+1F1F5"
+    },
+    {
+      "id": "kr",
+      "name": {
+        "en": "South Korea",
+        "it": "Corea del Sud",
+        "de": "Südkorea",
+        "fr": "Corée du Sud",
+        "es": "República de Corea"
+      },
+      "englishName": "Korea, Republic of",
+      "alpha2Code": "kr",
+      "alpha3Code": "kor",
+      "countryCode": "410",
+      "isoCode": "ISO 3166-2:KR",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "30",
+        "name": "Eastern Asia"
+      },
+      "nativeName": "대한민국",
+      "capitalName": "Seoul",
+      "continentId": "as",
+      "currencies": [
+        "KRW"
+      ],
+      "languages": [
+        "ko"
+      ],
+      "internationalPrefixes": [
+        "82"
+      ],
+      "emoji": "🇰🇷",
+      "emojiU": "U+1F1F0 U+1F1F7"
     },
     {
       "id": "kw",
-      "name": "Kuwait",
+      "name": {
+        "en": "Kuwait",
+        "it": "Kuwait",
+        "de": "Kuwait",
+        "fr": "Koweït",
+        "es": "Kuwait"
+      },
       "englishName": "Kuwait",
       "alpha2Code": "kw",
       "alpha3Code": "kwt",
@@ -3880,7 +4494,13 @@
     },
     {
       "id": "kg",
-      "name": "Kyrgyzstan",
+      "name": {
+        "en": "Kyrgyzstan",
+        "it": "Kirghizistan",
+        "de": "Kirgisistan",
+        "fr": "Kirghizistan",
+        "es": "Kirguistán"
+      },
       "englishName": "Kyrgyzstan",
       "alpha2Code": "kg",
       "alpha3Code": "kgz",
@@ -3912,7 +4532,13 @@
     },
     {
       "id": "la",
-      "name": "Lao People's Democratic Republic",
+      "name": {
+        "en": "Lao People's Democratic Republic",
+        "it": "Laos",
+        "de": "Laos",
+        "fr": "Laos",
+        "es": "República Democrática Popular de Lao"
+      },
       "englishName": "Lao People's Democratic Republic",
       "alpha2Code": "la",
       "alpha3Code": "lao",
@@ -3943,7 +4569,13 @@
     },
     {
       "id": "lv",
-      "name": "Latvia",
+      "name": {
+        "en": "Latvia",
+        "it": "Lettonia",
+        "de": "Lettland",
+        "fr": "Lettonie",
+        "es": "Letonia"
+      },
       "englishName": "Latvia",
       "alpha2Code": "lv",
       "alpha3Code": "lva",
@@ -3974,7 +4606,13 @@
     },
     {
       "id": "lb",
-      "name": "Lebanon",
+      "name": {
+        "en": "Lebanon",
+        "it": "Libano",
+        "de": "Libanon",
+        "fr": "Liban",
+        "es": "Líbano"
+      },
       "englishName": "Lebanon",
       "alpha2Code": "lb",
       "alpha3Code": "lbn",
@@ -4006,7 +4644,13 @@
     },
     {
       "id": "ls",
-      "name": "Lesotho",
+      "name": {
+        "en": "Lesotho",
+        "it": "Lesotho",
+        "de": "Lesotho",
+        "fr": "Lesotho",
+        "es": "Lesoto"
+      },
       "englishName": "Lesotho",
       "alpha2Code": "ls",
       "alpha3Code": "lso",
@@ -4043,7 +4687,13 @@
     },
     {
       "id": "lr",
-      "name": "Liberia",
+      "name": {
+        "en": "Liberia",
+        "it": "Liberia",
+        "de": "Liberia",
+        "fr": "Libéria",
+        "es": "Liberia"
+      },
       "englishName": "Liberia",
       "alpha2Code": "lr",
       "alpha3Code": "lbr",
@@ -4078,7 +4728,13 @@
     },
     {
       "id": "ly",
-      "name": "Libya",
+      "name": {
+        "en": "Libya",
+        "it": "Libia",
+        "de": "Libyen",
+        "fr": "Libye",
+        "es": "Libia"
+      },
       "englishName": "Libya",
       "alpha2Code": "ly",
       "alpha3Code": "lby",
@@ -4109,7 +4765,13 @@
     },
     {
       "id": "li",
-      "name": "Liechtenstein",
+      "name": {
+        "en": "Liechtenstein",
+        "it": "Liechtenstein",
+        "de": "Liechtenstein",
+        "fr": "Liechtenstein",
+        "es": "Liechtenstein"
+      },
       "englishName": "Liechtenstein",
       "alpha2Code": "li",
       "alpha3Code": "lie",
@@ -4140,7 +4802,13 @@
     },
     {
       "id": "lt",
-      "name": "Lithuania",
+      "name": {
+        "en": "Lithuania",
+        "it": "Lituania",
+        "de": "Litauen",
+        "fr": "Lituanie",
+        "es": "Lituania"
+      },
       "englishName": "Lithuania",
       "alpha2Code": "lt",
       "alpha3Code": "ltu",
@@ -4171,7 +4839,13 @@
     },
     {
       "id": "lu",
-      "name": "Luxembourg",
+      "name": {
+        "en": "Luxembourg",
+        "it": "Lussemburgo",
+        "de": "Luxemburg",
+        "fr": "Luxembourg",
+        "es": "Luxemburgo"
+      },
       "englishName": "Luxembourg",
       "alpha2Code": "lu",
       "alpha3Code": "lux",
@@ -4204,7 +4878,13 @@
     },
     {
       "id": "mo",
-      "name": "Macao",
+      "name": {
+        "en": "Macao",
+        "it": "Macao",
+        "de": "Macao",
+        "fr": "Macao",
+        "es": "Macao"
+      },
       "englishName": "Macao",
       "alpha2Code": "mo",
       "alpha3Code": "mac",
@@ -4236,7 +4916,13 @@
     },
     {
       "id": "mg",
-      "name": "Madagascar",
+      "name": {
+        "en": "Madagascar",
+        "it": "Madagascar",
+        "de": "Madagaskar",
+        "fr": "Madagascar",
+        "es": "Madagascar"
+      },
       "englishName": "Madagascar",
       "alpha2Code": "mg",
       "alpha3Code": "mdg",
@@ -4272,7 +4958,13 @@
     },
     {
       "id": "mw",
-      "name": "Malawi",
+      "name": {
+        "en": "Malawi",
+        "it": "Malawi",
+        "de": "Malawi",
+        "fr": "Malawi",
+        "es": "Malaui"
+      },
       "englishName": "Malawi",
       "alpha2Code": "mw",
       "alpha3Code": "mwi",
@@ -4308,7 +5000,13 @@
     },
     {
       "id": "my",
-      "name": "Malaysia",
+      "name": {
+        "en": "Malaysia",
+        "it": "Malesia",
+        "de": "Malaysia",
+        "fr": "Malaisie",
+        "es": "Malasia"
+      },
       "englishName": "Malaysia",
       "alpha2Code": "my",
       "alpha3Code": "mys",
@@ -4339,7 +5037,13 @@
     },
     {
       "id": "mv",
-      "name": "Maldives",
+      "name": {
+        "en": "Maldives",
+        "it": "Maldive",
+        "de": "Malediven",
+        "fr": "Maldives",
+        "es": "Maldivas"
+      },
       "englishName": "Maldives",
       "alpha2Code": "mv",
       "alpha3Code": "mdv",
@@ -4370,7 +5074,13 @@
     },
     {
       "id": "ml",
-      "name": "Mali",
+      "name": {
+        "en": "Mali",
+        "it": "Mali",
+        "de": "Mali",
+        "fr": "Mali",
+        "es": "Malí"
+      },
       "englishName": "Mali",
       "alpha2Code": "ml",
       "alpha3Code": "mli",
@@ -4405,7 +5115,13 @@
     },
     {
       "id": "mt",
-      "name": "Malta",
+      "name": {
+        "en": "Malta",
+        "it": "Malta",
+        "de": "Malta",
+        "fr": "Malte",
+        "es": "Malta"
+      },
       "englishName": "Malta",
       "alpha2Code": "mt",
       "alpha3Code": "mlt",
@@ -4437,7 +5153,13 @@
     },
     {
       "id": "mh",
-      "name": "Marshall Islands",
+      "name": {
+        "en": "Marshall Islands",
+        "it": "Isole Marshall",
+        "de": "Marshallinseln",
+        "fr": "Îles Marshall",
+        "es": "Islas Marshall"
+      },
       "englishName": "Marshall Islands",
       "alpha2Code": "mh",
       "alpha3Code": "mhl",
@@ -4469,7 +5191,13 @@
     },
     {
       "id": "mq",
-      "name": "Martinique",
+      "name": {
+        "en": "Martinique",
+        "it": "Martinica",
+        "de": "Martinique",
+        "fr": "Martinique",
+        "es": "Martinica"
+      },
       "englishName": "Martinique",
       "alpha2Code": "mq",
       "alpha3Code": "mtq",
@@ -4504,7 +5232,13 @@
     },
     {
       "id": "mr",
-      "name": "Mauritania",
+      "name": {
+        "en": "Mauritania",
+        "it": "Mauritania",
+        "de": "Mauretanien",
+        "fr": "Mauritanie",
+        "es": "Mauritania"
+      },
       "englishName": "Mauritania",
       "alpha2Code": "mr",
       "alpha3Code": "mrt",
@@ -4539,7 +5273,13 @@
     },
     {
       "id": "mu",
-      "name": "Mauritius",
+      "name": {
+        "en": "Mauritius",
+        "it": "Mauritius",
+        "de": "Mauritius",
+        "fr": "Maurice",
+        "es": "Mauricio"
+      },
       "englishName": "Mauritius",
       "alpha2Code": "mu",
       "alpha3Code": "mus",
@@ -4574,7 +5314,13 @@
     },
     {
       "id": "yt",
-      "name": "Mayotte",
+      "name": {
+        "en": "Mayotte",
+        "it": "Mayotte",
+        "de": "Mayotte",
+        "fr": "Mayotte",
+        "es": "Mayotte"
+      },
       "englishName": "Mayotte",
       "alpha2Code": "yt",
       "alpha3Code": "myt",
@@ -4609,7 +5355,13 @@
     },
     {
       "id": "mx",
-      "name": "Mexico",
+      "name": {
+        "en": "Mexico",
+        "it": "Messico",
+        "de": "Mexiko",
+        "fr": "Mexique",
+        "es": "México"
+      },
       "englishName": "Mexico",
       "alpha2Code": "mx",
       "alpha3Code": "mex",
@@ -4644,7 +5396,13 @@
     },
     {
       "id": "fm",
-      "name": "Micronesia, Federated States of",
+      "name": {
+        "en": "Micronesia, Federated States of",
+        "it": "Stati Federati di Micronesia",
+        "de": "Mikronesien",
+        "fr": "Micronésie",
+        "es": "Micronesia"
+      },
       "englishName": "Micronesia (Federated States of)",
       "alpha2Code": "fm",
       "alpha3Code": "fsm",
@@ -4675,7 +5433,13 @@
     },
     {
       "id": "md",
-      "name": "Moldova, Republic of",
+      "name": {
+        "en": "Moldova, Republic of",
+        "it": "Moldavia",
+        "de": "Moldawien",
+        "fr": "Moldavie",
+        "es": "Moldavia"
+      },
       "englishName": "Moldova, Republic of",
       "alpha2Code": "md",
       "alpha3Code": "mda",
@@ -4706,7 +5470,13 @@
     },
     {
       "id": "mc",
-      "name": "Monaco",
+      "name": {
+        "en": "Monaco",
+        "it": "Monaco",
+        "de": "Monaco",
+        "fr": "Monaco",
+        "es": "Mónaco"
+      },
       "englishName": "Monaco",
       "alpha2Code": "mc",
       "alpha3Code": "mco",
@@ -4737,7 +5507,13 @@
     },
     {
       "id": "mn",
-      "name": "Mongolia",
+      "name": {
+        "en": "Mongolia",
+        "it": "Mongolia",
+        "de": "Mongolei",
+        "fr": "Mongolie",
+        "es": "Mongolia"
+      },
       "englishName": "Mongolia",
       "alpha2Code": "mn",
       "alpha3Code": "mng",
@@ -4767,42 +5543,14 @@
       "emojiU": "U+1F1F2 U+1F1F3"
     },
     {
-      "id": "me",
-      "name": "Montenegro",
-      "englishName": "Montenegro",
-      "alpha2Code": "me",
-      "alpha3Code": "mne",
-      "countryCode": "499",
-      "isoCode": "ISO 3166-2:ME",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "39",
-        "name": "Southern Europe"
-      },
-      "nativeName": "Црна Гора",
-      "capitalName": "Podgorica",
-      "continentId": "eu",
-      "currencies": [
-        "EUR"
-      ],
-      "languages": [
-        "sr",
-        "bs",
-        "sq",
-        "hr"
-      ],
-      "internationalPrefixes": [
-        "382"
-      ],
-      "emoji": "🇲🇪",
-      "emojiU": "U+1F1F2 U+1F1EA"
-    },
-    {
       "id": "ms",
-      "name": "Montserrat",
+      "name": {
+        "en": "Montserrat",
+        "it": "Montserrat",
+        "de": "Montserrat",
+        "fr": "Montserrat",
+        "es": "Montserrat"
+      },
       "englishName": "Montserrat",
       "alpha2Code": "ms",
       "alpha3Code": "msr",
@@ -4837,7 +5585,13 @@
     },
     {
       "id": "ma",
-      "name": "Morocco",
+      "name": {
+        "en": "Morocco",
+        "it": "Marocco",
+        "de": "Marokko",
+        "fr": "Maroc",
+        "es": "Marruecos"
+      },
       "englishName": "Morocco",
       "alpha2Code": "ma",
       "alpha3Code": "mar",
@@ -4868,7 +5622,13 @@
     },
     {
       "id": "mz",
-      "name": "Mozambique",
+      "name": {
+        "en": "Mozambique",
+        "it": "Mozambico",
+        "de": "Mosambik",
+        "fr": "Mozambique",
+        "es": "Mozambique"
+      },
       "englishName": "Mozambique",
       "alpha2Code": "mz",
       "alpha3Code": "moz",
@@ -4903,7 +5663,13 @@
     },
     {
       "id": "mm",
-      "name": "Myanmar",
+      "name": {
+        "en": "Myanmar",
+        "it": "Birmania  Myanmar",
+        "de": "Myanmar",
+        "fr": "Myanmar",
+        "es": "Myanmar"
+      },
       "englishName": "Myanmar",
       "alpha2Code": "mm",
       "alpha3Code": "mmr",
@@ -4934,7 +5700,13 @@
     },
     {
       "id": "na",
-      "name": "Namibia",
+      "name": {
+        "en": "Namibia",
+        "it": "Namibia",
+        "de": "Namibia",
+        "fr": "Namibie",
+        "es": "Namibia"
+      },
       "englishName": "Namibia",
       "alpha2Code": "na",
       "alpha3Code": "nam",
@@ -4971,7 +5743,13 @@
     },
     {
       "id": "nr",
-      "name": "Nauru",
+      "name": {
+        "en": "Nauru",
+        "it": "Nauru",
+        "de": "Nauru",
+        "fr": "Nauru",
+        "es": "Nauru"
+      },
       "englishName": "Nauru",
       "alpha2Code": "nr",
       "alpha3Code": "nru",
@@ -5003,7 +5781,13 @@
     },
     {
       "id": "np",
-      "name": "Nepal",
+      "name": {
+        "en": "Nepal",
+        "it": "Nepal",
+        "de": "Nepal",
+        "fr": "Népal",
+        "es": "Nepal"
+      },
       "englishName": "Nepal",
       "alpha2Code": "np",
       "alpha3Code": "npl",
@@ -5034,7 +5818,13 @@
     },
     {
       "id": "nl",
-      "name": "Netherlands",
+      "name": {
+        "en": "Netherlands",
+        "it": "Paesi Bassi",
+        "de": "Niederlande",
+        "fr": "Pays-Bas",
+        "es": "Países Bajos"
+      },
       "englishName": "Netherlands",
       "alpha2Code": "nl",
       "alpha3Code": "nld",
@@ -5065,7 +5855,13 @@
     },
     {
       "id": "nc",
-      "name": "New Caledonia",
+      "name": {
+        "en": "New Caledonia",
+        "it": "Nuova Caledonia",
+        "de": "Neukaledonien",
+        "fr": "Nouvelle-Calédonie",
+        "es": "Nueva Caledonia"
+      },
       "englishName": "New Caledonia",
       "alpha2Code": "nc",
       "alpha3Code": "ncl",
@@ -5096,7 +5892,13 @@
     },
     {
       "id": "nz",
-      "name": "New Zealand",
+      "name": {
+        "en": "New Zealand",
+        "it": "Nuova Zelanda",
+        "de": "Neuseeland",
+        "fr": "Nouvelle-Zélande",
+        "es": "Nueva Zelanda"
+      },
       "englishName": "New Zealand",
       "alpha2Code": "nz",
       "alpha3Code": "nzl",
@@ -5128,7 +5930,13 @@
     },
     {
       "id": "ni",
-      "name": "Nicaragua",
+      "name": {
+        "en": "Nicaragua",
+        "it": "Nicaragua",
+        "de": "Nicaragua",
+        "fr": "Nicaragua",
+        "es": "Nicaragua"
+      },
       "englishName": "Nicaragua",
       "alpha2Code": "ni",
       "alpha3Code": "nic",
@@ -5163,7 +5971,13 @@
     },
     {
       "id": "ne",
-      "name": "Niger",
+      "name": {
+        "en": "Niger",
+        "it": "Niger",
+        "de": "Niger",
+        "fr": "Niger",
+        "es": "Níger"
+      },
       "englishName": "Niger",
       "alpha2Code": "ne",
       "alpha3Code": "ner",
@@ -5198,7 +6012,13 @@
     },
     {
       "id": "ng",
-      "name": "Nigeria",
+      "name": {
+        "en": "Nigeria",
+        "it": "Nigeria",
+        "de": "Nigeria",
+        "fr": "Nigéria",
+        "es": "Nigeria"
+      },
       "englishName": "Nigeria",
       "alpha2Code": "ng",
       "alpha3Code": "nga",
@@ -5233,7 +6053,13 @@
     },
     {
       "id": "nu",
-      "name": "Niue",
+      "name": {
+        "en": "Niue",
+        "it": "Niue",
+        "de": "Niue",
+        "fr": "Niué",
+        "es": "Niue"
+      },
       "englishName": "Niue",
       "alpha2Code": "nu",
       "alpha3Code": "niu",
@@ -5264,7 +6090,13 @@
     },
     {
       "id": "nf",
-      "name": "Norfolk Island",
+      "name": {
+        "en": "Norfolk Island",
+        "it": "Isola Norfolk",
+        "de": "Norfolkinsel",
+        "fr": "Île Norfolk",
+        "es": "Isla Norfolk"
+      },
       "englishName": "Norfolk Island",
       "alpha2Code": "nf",
       "alpha3Code": "nfk",
@@ -5294,39 +6126,51 @@
       "emojiU": "U+1F1F3 U+1F1EB"
     },
     {
-      "id": "kp",
-      "name": "North Korea",
-      "englishName": "Korea (Democratic People's Republic of)",
-      "alpha2Code": "kp",
-      "alpha3Code": "prk",
-      "countryCode": "408",
-      "isoCode": "ISO 3166-2:KP",
+      "id": "mk",
+      "name": {
+        "en": "The Republic of North Macedonia",
+        "it": "Macedonia del Nord",
+        "de": "Nordmazedonien",
+        "fr": "Macédoine du Nord",
+        "es": "Macedonia del Norte"
+      },
+      "englishName": "North Macedonia",
+      "alpha2Code": "mk",
+      "alpha3Code": "mkd",
+      "countryCode": "807",
+      "isoCode": "ISO 3166-2:MK",
       "region": {
-        "id": "142",
-        "name": "Asia"
+        "id": "150",
+        "name": "Europe"
       },
       "subRegion": {
-        "id": "30",
-        "name": "Eastern Asia"
+        "id": "39",
+        "name": "Southern Europe"
       },
-      "nativeName": "북한",
-      "capitalName": "Pyongyang",
-      "continentId": "as",
+      "nativeName": "Северна Македонија",
+      "capitalName": "Skopje",
+      "continentId": "eu",
       "currencies": [
-        "KPW"
+        "MKD"
       ],
       "languages": [
-        "ko"
+        "mk"
       ],
       "internationalPrefixes": [
-        "850"
+        "389"
       ],
-      "emoji": "🇰🇵",
-      "emojiU": "U+1F1F0 U+1F1F5"
+      "emoji": "🇲🇰",
+      "emojiU": "U+1F1F2 U+1F1F0"
     },
     {
       "id": "mp",
-      "name": "Northern Mariana Islands",
+      "name": {
+        "en": "Northern Mariana Islands",
+        "it": "Isole Marianne Settentrionali",
+        "de": "Nördliche Marianen",
+        "fr": "Îles Mariannes du Nord",
+        "es": "Islas Marianas del Norte"
+      },
       "englishName": "Northern Mariana Islands",
       "alpha2Code": "mp",
       "alpha3Code": "mnp",
@@ -5358,7 +6202,13 @@
     },
     {
       "id": "no",
-      "name": "Norway",
+      "name": {
+        "en": "Norway",
+        "it": "Norvegia",
+        "de": "Norwegen",
+        "fr": "Norvège",
+        "es": "Noruega"
+      },
       "englishName": "Norway",
       "alpha2Code": "no",
       "alpha3Code": "nor",
@@ -5391,7 +6241,13 @@
     },
     {
       "id": "om",
-      "name": "Oman",
+      "name": {
+        "en": "Oman",
+        "it": "Oman",
+        "de": "Oman",
+        "fr": "Oman",
+        "es": "Omán"
+      },
       "englishName": "Oman",
       "alpha2Code": "om",
       "alpha3Code": "omn",
@@ -5422,7 +6278,13 @@
     },
     {
       "id": "pk",
-      "name": "Pakistan",
+      "name": {
+        "en": "Pakistan",
+        "it": "Pakistan",
+        "de": "Pakistan",
+        "fr": "Pakistan",
+        "es": "Pakistán"
+      },
       "englishName": "Pakistan",
       "alpha2Code": "pk",
       "alpha3Code": "pak",
@@ -5454,7 +6316,13 @@
     },
     {
       "id": "pw",
-      "name": "Palau",
+      "name": {
+        "en": "Palau",
+        "it": "Palau",
+        "de": "Palau",
+        "fr": "Palaos",
+        "es": "Palau"
+      },
       "englishName": "Palau",
       "alpha2Code": "pw",
       "alpha3Code": "plw",
@@ -5484,8 +6352,51 @@
       "emojiU": "U+1F1F5 U+1F1FC"
     },
     {
+      "id": "ps",
+      "name": {
+        "en": "State of Palestine",
+        "it": "Stato di Palestina",
+        "de": "Staat Palästina",
+        "fr": "Palestine",
+        "es": "Palestina"
+      },
+      "englishName": "Palestine, State of",
+      "alpha2Code": "ps",
+      "alpha3Code": "pse",
+      "countryCode": "275",
+      "isoCode": "ISO 3166-2:PS",
+      "region": {
+        "id": "142",
+        "name": "Asia"
+      },
+      "subRegion": {
+        "id": "145",
+        "name": "Western Asia"
+      },
+      "nativeName": "فلسطين",
+      "capitalName": "Ramallah",
+      "continentId": "as",
+      "currencies": [
+        "ILS"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "internationalPrefixes": [
+        "970"
+      ],
+      "emoji": "🇵🇸",
+      "emojiU": "U+1F1F5 U+1F1F8"
+    },
+    {
       "id": "pa",
-      "name": "Panama",
+      "name": {
+        "en": "Panama",
+        "it": "Panamá",
+        "de": "Panama",
+        "fr": "Panama",
+        "es": "Panamá"
+      },
       "englishName": "Panama",
       "alpha2Code": "pa",
       "alpha3Code": "pan",
@@ -5521,7 +6432,13 @@
     },
     {
       "id": "pg",
-      "name": "Papua New Guinea",
+      "name": {
+        "en": "Papua New Guinea",
+        "it": "Papua Nuova Guinea",
+        "de": "Papua-Neuguinea",
+        "fr": "Papouasie-Nouvelle-Guinée",
+        "es": "Papua Nueva Guinea"
+      },
       "englishName": "Papua New Guinea",
       "alpha2Code": "pg",
       "alpha3Code": "png",
@@ -5552,7 +6469,13 @@
     },
     {
       "id": "py",
-      "name": "Paraguay",
+      "name": {
+        "en": "Paraguay",
+        "it": "Paraguay",
+        "de": "Paraguay",
+        "fr": "Paraguay",
+        "es": "Paraguay"
+      },
       "englishName": "Paraguay",
       "alpha2Code": "py",
       "alpha3Code": "pry",
@@ -5587,39 +6510,14 @@
       "emojiU": "U+1F1F5 U+1F1FE"
     },
     {
-      "id": "cn",
-      "name": "People's Republic of China",
-      "englishName": "China",
-      "alpha2Code": "cn",
-      "alpha3Code": "chn",
-      "countryCode": "156",
-      "isoCode": "ISO 3166-2:CN",
-      "region": {
-        "id": "142",
-        "name": "Asia"
-      },
-      "subRegion": {
-        "id": "30",
-        "name": "Eastern Asia"
-      },
-      "nativeName": "中国",
-      "capitalName": "Beijing",
-      "continentId": "as",
-      "currencies": [
-        "CNY"
-      ],
-      "languages": [
-        "zh"
-      ],
-      "internationalPrefixes": [
-        "86"
-      ],
-      "emoji": "🇨🇳",
-      "emojiU": "U+1F1E8 U+1F1F3"
-    },
-    {
       "id": "pe",
-      "name": "Peru",
+      "name": {
+        "en": "Peru",
+        "it": "Perù",
+        "de": "Peru",
+        "fr": "Pérou",
+        "es": "Perú"
+      },
       "englishName": "Peru",
       "alpha2Code": "pe",
       "alpha3Code": "per",
@@ -5654,7 +6552,13 @@
     },
     {
       "id": "ph",
-      "name": "Philippines",
+      "name": {
+        "en": "Philippines",
+        "it": "Filippine",
+        "de": "Philippinen",
+        "fr": "Philippines",
+        "es": "Filipinas"
+      },
       "englishName": "Philippines",
       "alpha2Code": "ph",
       "alpha3Code": "phl",
@@ -5685,7 +6589,13 @@
     },
     {
       "id": "pn",
-      "name": "Pitcairn",
+      "name": {
+        "en": "Pitcairn",
+        "it": "Isole Pitcairn",
+        "de": "Pitcairninseln",
+        "fr": "Îles Pitcairn",
+        "es": "Pitcairn"
+      },
       "englishName": "Pitcairn",
       "alpha2Code": "pn",
       "alpha3Code": "pcn",
@@ -5716,7 +6626,13 @@
     },
     {
       "id": "pl",
-      "name": "Poland",
+      "name": {
+        "en": "Poland",
+        "it": "Polonia",
+        "de": "Polen",
+        "fr": "Pologne",
+        "es": "Polonia"
+      },
       "englishName": "Poland",
       "alpha2Code": "pl",
       "alpha3Code": "pol",
@@ -5747,7 +6663,13 @@
     },
     {
       "id": "pt",
-      "name": "Portugal",
+      "name": {
+        "en": "Portugal",
+        "it": "Portogallo",
+        "de": "Portugal",
+        "fr": "Portugal",
+        "es": "Portugal"
+      },
       "englishName": "Portugal",
       "alpha2Code": "pt",
       "alpha3Code": "prt",
@@ -5778,7 +6700,13 @@
     },
     {
       "id": "pr",
-      "name": "Puerto Rico",
+      "name": {
+        "en": "Puerto Rico",
+        "it": "Porto Rico",
+        "de": "Puerto Rico",
+        "fr": "Porto Rico",
+        "es": "Puerto Rico"
+      },
       "englishName": "Puerto Rico",
       "alpha2Code": "pr",
       "alpha3Code": "pri",
@@ -5815,7 +6743,13 @@
     },
     {
       "id": "qa",
-      "name": "Qatar",
+      "name": {
+        "en": "Qatar",
+        "it": "Qatar",
+        "de": "Katar",
+        "fr": "Qatar",
+        "es": "Catar"
+      },
       "englishName": "Qatar",
       "alpha2Code": "qa",
       "alpha3Code": "qat",
@@ -5845,79 +6779,14 @@
       "emojiU": "U+1F1F6 U+1F1E6"
     },
     {
-      "id": "gm",
-      "name": "Republic of The Gambia",
-      "englishName": "Gambia",
-      "alpha2Code": "gm",
-      "alpha3Code": "gmb",
-      "countryCode": "270",
-      "isoCode": "ISO 3166-2:GM",
-      "region": {
-        "id": "2",
-        "name": "Africa"
-      },
-      "subRegion": {
-        "id": "202",
-        "name": "Sub-Saharan Africa"
-      },
-      "intermediateRegion": {
-        "id": "11",
-        "name": "Western Africa"
-      },
-      "nativeName": "Gambia",
-      "capitalName": "Banjul",
-      "continentId": "af",
-      "currencies": [
-        "GMD"
-      ],
-      "languages": [
-        "en"
-      ],
-      "internationalPrefixes": [
-        "220"
-      ],
-      "emoji": "🇬🇲",
-      "emojiU": "U+1F1EC U+1F1F2"
-    },
-    {
-      "id": "cg",
-      "name": "Republic of the Congo",
-      "englishName": "Congo",
-      "alpha2Code": "cg",
-      "alpha3Code": "cog",
-      "countryCode": "178",
-      "isoCode": "ISO 3166-2:CG",
-      "region": {
-        "id": "2",
-        "name": "Africa"
-      },
-      "subRegion": {
-        "id": "202",
-        "name": "Sub-Saharan Africa"
-      },
-      "intermediateRegion": {
-        "id": "17",
-        "name": "Middle Africa"
-      },
-      "nativeName": "République du Congo",
-      "capitalName": "Brazzaville",
-      "continentId": "af",
-      "currencies": [
-        "XAF"
-      ],
-      "languages": [
-        "fr",
-        "ln"
-      ],
-      "internationalPrefixes": [
-        "242"
-      ],
-      "emoji": "🇨🇬",
-      "emojiU": "U+1F1E8 U+1F1EC"
-    },
-    {
       "id": "re",
-      "name": "Reunion",
+      "name": {
+        "en": "Reunion",
+        "it": "Réunion",
+        "de": "Réunion",
+        "fr": "Réunion",
+        "es": "Reunión"
+      },
       "englishName": "Réunion",
       "alpha2Code": "re",
       "alpha3Code": "reu",
@@ -5952,7 +6821,13 @@
     },
     {
       "id": "ro",
-      "name": "Romania",
+      "name": {
+        "en": "Romania",
+        "it": "Romania",
+        "de": "Rumänien",
+        "fr": "Roumanie",
+        "es": "Rumanía"
+      },
       "englishName": "Romania",
       "alpha2Code": "ro",
       "alpha3Code": "rou",
@@ -5983,7 +6858,13 @@
     },
     {
       "id": "ru",
-      "name": "Russian Federation",
+      "name": {
+        "en": "Russian Federation",
+        "it": "Russia",
+        "de": "Russische Föderation",
+        "fr": "Russie",
+        "es": "Rusia"
+      },
       "englishName": "Russian Federation",
       "alpha2Code": "ru",
       "alpha3Code": "rus",
@@ -6014,7 +6895,13 @@
     },
     {
       "id": "rw",
-      "name": "Rwanda",
+      "name": {
+        "en": "Rwanda",
+        "it": "Ruanda",
+        "de": "Ruanda",
+        "fr": "Rwanda",
+        "es": "Ruanda"
+      },
       "englishName": "Rwanda",
       "alpha2Code": "rw",
       "alpha3Code": "rwa",
@@ -6050,43 +6937,14 @@
       "emojiU": "U+1F1F7 U+1F1FC"
     },
     {
-      "id": "bl",
-      "name": "Saint Barthélemy",
-      "englishName": "Saint Barthélemy",
-      "alpha2Code": "bl",
-      "alpha3Code": "blm",
-      "countryCode": "652",
-      "isoCode": "ISO 3166-2:BL",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Saint-Barthélemy",
-      "capitalName": "Gustavia",
-      "continentId": "na",
-      "currencies": [
-        "EUR"
-      ],
-      "languages": [
-        "fr"
-      ],
-      "internationalPrefixes": [
-        "590"
-      ],
-      "emoji": "🇧🇱",
-      "emojiU": "U+1F1E7 U+1F1F1"
-    },
-    {
       "id": "sh",
-      "name": "Saint Helena",
+      "name": {
+        "en": "Saint Helena",
+        "it": "Sant'Elena, Isola di Ascensione e Tristan da Cunha",
+        "de": "St. Helena",
+        "fr": "Sainte-Hélène",
+        "es": "Santa Helena, Ascensión y Tristán de Acuña"
+      },
       "englishName": "Saint Helena, Ascension and Tristan da Cunha",
       "alpha2Code": "sh",
       "alpha3Code": "shn",
@@ -6121,7 +6979,13 @@
     },
     {
       "id": "kn",
-      "name": "Saint Kitts and Nevis",
+      "name": {
+        "en": "Saint Kitts and Nevis",
+        "it": "Saint Kitts e Nevis",
+        "de": "St. Kitts und Nevis",
+        "fr": "Saint-Christophe-et-Niévès",
+        "es": "Saint Kitts y Nevis"
+      },
       "englishName": "Saint Kitts and Nevis",
       "alpha2Code": "kn",
       "alpha3Code": "kna",
@@ -6156,7 +7020,13 @@
     },
     {
       "id": "lc",
-      "name": "Saint Lucia",
+      "name": {
+        "en": "Saint Lucia",
+        "it": "Santa Lucia",
+        "de": "St. Lucia",
+        "fr": "Sainte-Lucie",
+        "es": "Santa Lucía"
+      },
       "englishName": "Saint Lucia",
       "alpha2Code": "lc",
       "alpha3Code": "lca",
@@ -6190,45 +7060,14 @@
       "emojiU": "U+1F1F1 U+1F1E8"
     },
     {
-      "id": "mf",
-      "name": "Saint Martin (French part)",
-      "englishName": "Saint Martin (French part)",
-      "alpha2Code": "mf",
-      "alpha3Code": "maf",
-      "countryCode": "663",
-      "isoCode": "ISO 3166-2:MF",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Saint-Martin",
-      "capitalName": "Marigot",
-      "continentId": "na",
-      "currencies": [
-        "EUR"
-      ],
-      "languages": [
-        "en",
-        "fr",
-        "nl"
-      ],
-      "internationalPrefixes": [
-        "590"
-      ],
-      "emoji": "🇲🇫",
-      "emojiU": "U+1F1F2 U+1F1EB"
-    },
-    {
       "id": "pm",
-      "name": "Saint Pierre and Miquelon",
+      "name": {
+        "en": "Saint Pierre and Miquelon",
+        "it": "Saint Pierre e Miquelon",
+        "de": "Saint-Pierre und Miquelon",
+        "fr": "Saint-Pierre-et-Miquelon",
+        "es": "San Pedro y Miquelón"
+      },
       "englishName": "Saint Pierre and Miquelon",
       "alpha2Code": "pm",
       "alpha3Code": "spm",
@@ -6259,7 +7098,13 @@
     },
     {
       "id": "vc",
-      "name": "Saint Vincent and the Grenadines",
+      "name": {
+        "en": "Saint Vincent and the Grenadines",
+        "it": "Saint Vincent e Grenadine",
+        "de": "St. Vincent und die Grenadinen",
+        "fr": "Saint-Vincent-et-les-Grenadines",
+        "es": "San Vicente y las Granadinas"
+      },
       "englishName": "Saint Vincent and the Grenadines",
       "alpha2Code": "vc",
       "alpha3Code": "vct",
@@ -6294,7 +7139,13 @@
     },
     {
       "id": "ws",
-      "name": "Samoa",
+      "name": {
+        "en": "Samoa",
+        "it": "Samoa",
+        "de": "Samoa",
+        "fr": "Samoa",
+        "es": "Samoa"
+      },
       "englishName": "Samoa",
       "alpha2Code": "ws",
       "alpha3Code": "wsm",
@@ -6326,7 +7177,13 @@
     },
     {
       "id": "sm",
-      "name": "San Marino",
+      "name": {
+        "en": "San Marino",
+        "it": "San Marino",
+        "de": "San Marino",
+        "fr": "Saint-Marin",
+        "es": "San Marino"
+      },
       "englishName": "San Marino",
       "alpha2Code": "sm",
       "alpha3Code": "smr",
@@ -6357,7 +7214,13 @@
     },
     {
       "id": "st",
-      "name": "Sao Tome and Principe",
+      "name": {
+        "en": "Sao Tome and Principe",
+        "it": "São Tomé e Príncipe",
+        "de": "São Tomé und Príncipe",
+        "fr": "São Tomé-et-Principe",
+        "es": "Santo Tomé y Príncipe"
+      },
       "englishName": "Sao Tome and Principe",
       "alpha2Code": "st",
       "alpha3Code": "stp",
@@ -6392,7 +7255,13 @@
     },
     {
       "id": "sa",
-      "name": "Saudi Arabia",
+      "name": {
+        "en": "Saudi Arabia",
+        "it": "Arabia Saudita",
+        "de": "Saudi-Arabien",
+        "fr": "Arabie Saoudite",
+        "es": "Arabia Saudita"
+      },
       "englishName": "Saudi Arabia",
       "alpha2Code": "sa",
       "alpha3Code": "sau",
@@ -6423,7 +7292,13 @@
     },
     {
       "id": "sn",
-      "name": "Senegal",
+      "name": {
+        "en": "Senegal",
+        "it": "Senegal",
+        "de": "Senegal",
+        "fr": "Sénégal",
+        "es": "Senegal"
+      },
       "englishName": "Senegal",
       "alpha2Code": "sn",
       "alpha3Code": "sen",
@@ -6457,39 +7332,14 @@
       "emojiU": "U+1F1F8 U+1F1F3"
     },
     {
-      "id": "rs",
-      "name": "Serbia",
-      "englishName": "Serbia",
-      "alpha2Code": "rs",
-      "alpha3Code": "srb",
-      "countryCode": "688",
-      "isoCode": "ISO 3166-2:RS",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "39",
-        "name": "Southern Europe"
-      },
-      "nativeName": "Србија",
-      "capitalName": "Belgrade",
-      "continentId": "eu",
-      "currencies": [
-        "RSD"
-      ],
-      "languages": [
-        "sr"
-      ],
-      "internationalPrefixes": [
-        "381"
-      ],
-      "emoji": "🇷🇸",
-      "emojiU": "U+1F1F7 U+1F1F8"
-    },
-    {
       "id": "sc",
-      "name": "Seychelles",
+      "name": {
+        "en": "Seychelles",
+        "it": "Seychelles",
+        "de": "Seychellen",
+        "fr": "Seychelles",
+        "es": "Seychelles"
+      },
       "englishName": "Seychelles",
       "alpha2Code": "sc",
       "alpha3Code": "syc",
@@ -6525,7 +7375,13 @@
     },
     {
       "id": "sl",
-      "name": "Sierra Leone",
+      "name": {
+        "en": "Sierra Leone",
+        "it": "Sierra Leone",
+        "de": "Sierra Leone",
+        "fr": "Sierra Leone",
+        "es": "Sierra Leona"
+      },
       "englishName": "Sierra Leone",
       "alpha2Code": "sl",
       "alpha3Code": "sle",
@@ -6560,7 +7416,13 @@
     },
     {
       "id": "sg",
-      "name": "Singapore",
+      "name": {
+        "en": "Singapore",
+        "it": "Singapore",
+        "de": "Singapur",
+        "fr": "Singapour",
+        "es": "Singapur"
+      },
       "englishName": "Singapore",
       "alpha2Code": "sg",
       "alpha3Code": "sgp",
@@ -6593,44 +7455,14 @@
       "emojiU": "U+1F1F8 U+1F1EC"
     },
     {
-      "id": "sx",
-      "name": "Sint Maarten (Dutch part)",
-      "englishName": "Sint Maarten (Dutch part)",
-      "alpha2Code": "sx",
-      "alpha3Code": "sxm",
-      "countryCode": "534",
-      "isoCode": "ISO 3166-2:SX",
-      "region": {
-        "id": "19",
-        "name": "Americas"
-      },
-      "subRegion": {
-        "id": "419",
-        "name": "Latin America and the Caribbean"
-      },
-      "intermediateRegion": {
-        "id": "29",
-        "name": "Caribbean"
-      },
-      "nativeName": "Sint Maarten",
-      "capitalName": "Philipsburg",
-      "continentId": "na",
-      "currencies": [
-        "ANG"
-      ],
-      "languages": [
-        "nl",
-        "en"
-      ],
-      "internationalPrefixes": [
-        "1721"
-      ],
-      "emoji": "🇸🇽",
-      "emojiU": "U+1F1F8 U+1F1FD"
-    },
-    {
       "id": "sk",
-      "name": "Slovakia",
+      "name": {
+        "en": "Slovakia",
+        "it": "Slovacchia",
+        "de": "Slowakei",
+        "fr": "Slovaquie",
+        "es": "Eslovaquia"
+      },
       "englishName": "Slovakia",
       "alpha2Code": "sk",
       "alpha3Code": "svk",
@@ -6661,7 +7493,13 @@
     },
     {
       "id": "si",
-      "name": "Slovenia",
+      "name": {
+        "en": "Slovenia",
+        "it": "Slovenia",
+        "de": "Slowenien",
+        "fr": "Slovénie",
+        "es": "Eslovenia"
+      },
       "englishName": "Slovenia",
       "alpha2Code": "si",
       "alpha3Code": "svn",
@@ -6692,7 +7530,13 @@
     },
     {
       "id": "sb",
-      "name": "Solomon Islands",
+      "name": {
+        "en": "Solomon Islands",
+        "it": "Isole Salomone",
+        "de": "Salomonen",
+        "fr": "Îles Salomon",
+        "es": "Islas Salomón"
+      },
       "englishName": "Solomon Islands",
       "alpha2Code": "sb",
       "alpha3Code": "slb",
@@ -6723,7 +7567,13 @@
     },
     {
       "id": "so",
-      "name": "Somalia",
+      "name": {
+        "en": "Somalia",
+        "it": "Somalia",
+        "de": "Somalia",
+        "fr": "Somalie",
+        "es": "Somalia"
+      },
       "englishName": "Somalia",
       "alpha2Code": "so",
       "alpha3Code": "som",
@@ -6759,7 +7609,13 @@
     },
     {
       "id": "za",
-      "name": "South Africa",
+      "name": {
+        "en": "South Africa",
+        "it": "Sudafrica",
+        "de": "Südafrika",
+        "fr": "Afrique du Sud",
+        "es": "Sudáfrica"
+      },
       "englishName": "South Africa",
       "alpha2Code": "za",
       "alpha3Code": "zaf",
@@ -6803,7 +7659,13 @@
     },
     {
       "id": "gs",
-      "name": "South Georgia and the South Sandwich Islands",
+      "name": {
+        "en": "South Georgia and the South Sandwich Islands",
+        "it": "Georgia del Sud e isole Sandwich meridionali",
+        "de": "Südgeorgien und die Südlichen Sandwichinseln",
+        "fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+        "es": "Georgia del Sur y las Islas Sandwich del Sur"
+      },
       "englishName": "South Georgia and the South Sandwich Islands",
       "alpha2Code": "gs",
       "alpha3Code": "sgs",
@@ -6837,74 +7699,14 @@
       "emojiU": "U+1F1EC U+1F1F8"
     },
     {
-      "id": "kr",
-      "name": "South Korea",
-      "englishName": "Korea, Republic of",
-      "alpha2Code": "kr",
-      "alpha3Code": "kor",
-      "countryCode": "410",
-      "isoCode": "ISO 3166-2:KR",
-      "region": {
-        "id": "142",
-        "name": "Asia"
-      },
-      "subRegion": {
-        "id": "30",
-        "name": "Eastern Asia"
-      },
-      "nativeName": "대한민국",
-      "capitalName": "Seoul",
-      "continentId": "as",
-      "currencies": [
-        "KRW"
-      ],
-      "languages": [
-        "ko"
-      ],
-      "internationalPrefixes": [
-        "82"
-      ],
-      "emoji": "🇰🇷",
-      "emojiU": "U+1F1F0 U+1F1F7"
-    },
-    {
-      "id": "ss",
-      "name": "South Sudan",
-      "englishName": "South Sudan",
-      "alpha2Code": "ss",
-      "alpha3Code": "ssd",
-      "countryCode": "728",
-      "isoCode": "ISO 3166-2:SS",
-      "region": {
-        "id": "2",
-        "name": "Africa"
-      },
-      "subRegion": {
-        "id": "202",
-        "name": "Sub-Saharan Africa"
-      },
-      "intermediateRegion": {
-        "id": "14",
-        "name": "Eastern Africa"
-      },
-      "nativeName": "South Sudan",
-      "capitalName": "Juba",
-      "continentId": "af",
-      "currencies": [
-        "SSP"
-      ],
-      "languages": [
-        "en"
-      ],
-      "internationalPrefixes": [
-        "211"
-      ],
-      "emoji": "🇸🇸",
-      "emojiU": "U+1F1F8 U+1F1F8"
-    },
-    {
       "id": "es",
-      "name": "Spain",
+      "name": {
+        "en": "Spain",
+        "it": "Spagna",
+        "de": "Spanien",
+        "fr": "Espagne",
+        "es": "España"
+      },
       "englishName": "Spain",
       "alpha2Code": "es",
       "alpha3Code": "esp",
@@ -6939,7 +7741,13 @@
     },
     {
       "id": "lk",
-      "name": "Sri Lanka",
+      "name": {
+        "en": "Sri Lanka",
+        "it": "Sri Lanka",
+        "de": "Sri Lanka",
+        "fr": "Sri Lanka",
+        "es": "Sri Lanka"
+      },
       "englishName": "Sri Lanka",
       "alpha2Code": "lk",
       "alpha3Code": "lka",
@@ -6970,39 +7778,14 @@
       "emojiU": "U+1F1F1 U+1F1F0"
     },
     {
-      "id": "ps",
-      "name": "State of Palestine",
-      "englishName": "Palestine, State of",
-      "alpha2Code": "ps",
-      "alpha3Code": "pse",
-      "countryCode": "275",
-      "isoCode": "ISO 3166-2:PS",
-      "region": {
-        "id": "142",
-        "name": "Asia"
-      },
-      "subRegion": {
-        "id": "145",
-        "name": "Western Asia"
-      },
-      "nativeName": "فلسطين",
-      "capitalName": "Ramallah",
-      "continentId": "as",
-      "currencies": [
-        "ILS"
-      ],
-      "languages": [
-        "ar"
-      ],
-      "internationalPrefixes": [
-        "970"
-      ],
-      "emoji": "🇵🇸",
-      "emojiU": "U+1F1F5 U+1F1F8"
-    },
-    {
       "id": "sd",
-      "name": "Sudan",
+      "name": {
+        "en": "Sudan",
+        "it": "Sudan",
+        "de": "Sudan",
+        "fr": "Soudan",
+        "es": "Sudán"
+      },
       "englishName": "Sudan",
       "alpha2Code": "sd",
       "alpha3Code": "sdn",
@@ -7034,7 +7817,13 @@
     },
     {
       "id": "sr",
-      "name": "Suriname",
+      "name": {
+        "en": "Suriname",
+        "it": "Suriname",
+        "de": "Suriname",
+        "fr": "Suriname",
+        "es": "Suriname"
+      },
       "englishName": "Suriname",
       "alpha2Code": "sr",
       "alpha3Code": "sur",
@@ -7069,7 +7858,13 @@
     },
     {
       "id": "sj",
-      "name": "Svalbard and Jan Mayen",
+      "name": {
+        "en": "Svalbard and Jan Mayen",
+        "it": "Svalbard e Jan Mayen",
+        "de": "Svalbard und Jan Mayen",
+        "fr": "Svalbard et Île Jan Mayen",
+        "es": "Svalbard y Jan Mayen"
+      },
       "englishName": "Svalbard and Jan Mayen",
       "alpha2Code": "sj",
       "alpha3Code": "sjm",
@@ -7099,8 +7894,56 @@
       "emojiU": "U+1F1F8 U+1F1EF"
     },
     {
+      "id": "sz",
+      "name": {
+        "en": "Eswatini",
+        "it": "Eswatini",
+        "de": "Eswatini",
+        "fr": "Royaume d'Eswatini",
+        "es": "Suazilandia"
+      },
+      "englishName": "Eswatini",
+      "alpha2Code": "sz",
+      "alpha3Code": "swz",
+      "countryCode": "748",
+      "isoCode": "ISO 3166-2:SZ",
+      "region": {
+        "id": "2",
+        "name": "Africa"
+      },
+      "subRegion": {
+        "id": "202",
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediateRegion": {
+        "id": "18",
+        "name": "Southern Africa"
+      },
+      "nativeName": "Swaziland",
+      "capitalName": "Lobamba",
+      "continentId": "af",
+      "currencies": [
+        "SZL"
+      ],
+      "languages": [
+        "en",
+        "ss"
+      ],
+      "internationalPrefixes": [
+        "268"
+      ],
+      "emoji": "🇸🇿",
+      "emojiU": "U+1F1F8 U+1F1FF"
+    },
+    {
       "id": "se",
-      "name": "Sweden",
+      "name": {
+        "en": "Sweden",
+        "it": "Svezia",
+        "de": "Schweden",
+        "fr": "Suède",
+        "es": "Suecia"
+      },
       "englishName": "Sweden",
       "alpha2Code": "se",
       "alpha3Code": "swe",
@@ -7131,7 +7974,13 @@
     },
     {
       "id": "ch",
-      "name": "Switzerland",
+      "name": {
+        "en": "Switzerland",
+        "it": "Svizzera",
+        "de": "Schweiz",
+        "fr": "Suisse",
+        "es": "Suiza"
+      },
       "englishName": "Switzerland",
       "alpha2Code": "ch",
       "alpha3Code": "che",
@@ -7166,7 +8015,13 @@
     },
     {
       "id": "sy",
-      "name": "Syrian Arab Republic",
+      "name": {
+        "en": "Syrian Arab Republic",
+        "it": "Siria",
+        "de": "Syrien, Arabische Republik",
+        "fr": "Syrie",
+        "es": "República Árabe Siria"
+      },
       "englishName": "Syrian Arab Republic",
       "alpha2Code": "sy",
       "alpha3Code": "syr",
@@ -7197,7 +8052,13 @@
     },
     {
       "id": "tw",
-      "name": "Taiwan, Province of China",
+      "name": {
+        "en": "Taiwan, Province of China",
+        "it": "Repubblica di Cina",
+        "de": "Taiwan",
+        "fr": "Taïwan",
+        "es": "Taiwán"
+      },
       "englishName": "Taiwan, Province of China",
       "alpha2Code": "tw",
       "alpha3Code": "twn",
@@ -7228,7 +8089,13 @@
     },
     {
       "id": "tj",
-      "name": "Tajikistan",
+      "name": {
+        "en": "Tajikistan",
+        "it": "Tagikistan",
+        "de": "Tadschikistan",
+        "fr": "Tadjikistan",
+        "es": "Tayikistán"
+      },
       "englishName": "Tajikistan",
       "alpha2Code": "tj",
       "alpha3Code": "tjk",
@@ -7259,8 +8126,56 @@
       "emojiU": "U+1F1F9 U+1F1EF"
     },
     {
+      "id": "tz",
+      "name": {
+        "en": "United Republic of Tanzania",
+        "it": "Tanzania",
+        "de": "Tansania, Vereinigte Republik",
+        "fr": "République unie de Tanzanie",
+        "es": "Tanzania"
+      },
+      "englishName": "Tanzania, United Republic of",
+      "alpha2Code": "tz",
+      "alpha3Code": "tza",
+      "countryCode": "834",
+      "isoCode": "ISO 3166-2:TZ",
+      "region": {
+        "id": "2",
+        "name": "Africa"
+      },
+      "subRegion": {
+        "id": "202",
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediateRegion": {
+        "id": "14",
+        "name": "Eastern Africa"
+      },
+      "nativeName": "Tanzania",
+      "capitalName": "Dodoma",
+      "continentId": "af",
+      "currencies": [
+        "TZS"
+      ],
+      "languages": [
+        "sw",
+        "en"
+      ],
+      "internationalPrefixes": [
+        "255"
+      ],
+      "emoji": "🇹🇿",
+      "emojiU": "U+1F1F9 U+1F1FF"
+    },
+    {
       "id": "th",
-      "name": "Thailand",
+      "name": {
+        "en": "Thailand",
+        "it": "Thailandia",
+        "de": "Thailand",
+        "fr": "Thaïlande",
+        "es": "Tailandia"
+      },
       "englishName": "Thailand",
       "alpha2Code": "th",
       "alpha3Code": "tha",
@@ -7290,39 +8205,14 @@
       "emojiU": "U+1F1F9 U+1F1ED"
     },
     {
-      "id": "mk",
-      "name": "The Republic of North Macedonia",
-      "englishName": "North Macedonia",
-      "alpha2Code": "mk",
-      "alpha3Code": "mkd",
-      "countryCode": "807",
-      "isoCode": "ISO 3166-2:MK",
-      "region": {
-        "id": "150",
-        "name": "Europe"
-      },
-      "subRegion": {
-        "id": "39",
-        "name": "Southern Europe"
-      },
-      "nativeName": "Северна Македонија",
-      "capitalName": "Skopje",
-      "continentId": "eu",
-      "currencies": [
-        "MKD"
-      ],
-      "languages": [
-        "mk"
-      ],
-      "internationalPrefixes": [
-        "389"
-      ],
-      "emoji": "🇲🇰",
-      "emojiU": "U+1F1F2 U+1F1F0"
-    },
-    {
       "id": "tl",
-      "name": "Timor-Leste",
+      "name": {
+        "en": "Timor-Leste",
+        "it": "Timor Est",
+        "de": "Osttimor",
+        "fr": "Timor-Leste",
+        "es": "Timor-Leste"
+      },
       "englishName": "Timor-Leste",
       "alpha2Code": "tl",
       "alpha3Code": "tls",
@@ -7353,7 +8243,13 @@
     },
     {
       "id": "tg",
-      "name": "Togo",
+      "name": {
+        "en": "Togo",
+        "it": "Togo",
+        "de": "Togo",
+        "fr": "Togo",
+        "es": "Togo"
+      },
       "englishName": "Togo",
       "alpha2Code": "tg",
       "alpha3Code": "tgo",
@@ -7388,7 +8284,13 @@
     },
     {
       "id": "tk",
-      "name": "Tokelau",
+      "name": {
+        "en": "Tokelau",
+        "it": "Tokelau",
+        "de": "Tokelau",
+        "fr": "Tokelau",
+        "es": "Tokelau"
+      },
       "englishName": "Tokelau",
       "alpha2Code": "tk",
       "alpha3Code": "tkl",
@@ -7419,7 +8321,13 @@
     },
     {
       "id": "to",
-      "name": "Tonga",
+      "name": {
+        "en": "Tonga",
+        "it": "Tonga",
+        "de": "Tonga",
+        "fr": "Tonga",
+        "es": "Tonga"
+      },
       "englishName": "Tonga",
       "alpha2Code": "to",
       "alpha3Code": "ton",
@@ -7451,7 +8359,13 @@
     },
     {
       "id": "tt",
-      "name": "Trinidad and Tobago",
+      "name": {
+        "en": "Trinidad and Tobago",
+        "it": "Trinidad e Tobago",
+        "de": "Trinidad und Tobago",
+        "fr": "Trinité-et-Tobago",
+        "es": "Trinidad y Tobago"
+      },
       "englishName": "Trinidad and Tobago",
       "alpha2Code": "tt",
       "alpha3Code": "tto",
@@ -7486,7 +8400,13 @@
     },
     {
       "id": "tn",
-      "name": "Tunisia",
+      "name": {
+        "en": "Tunisia",
+        "it": "Tunisia",
+        "de": "Tunesien",
+        "fr": "Tunisie",
+        "es": "Túnez"
+      },
       "englishName": "Tunisia",
       "alpha2Code": "tn",
       "alpha3Code": "tun",
@@ -7517,7 +8437,13 @@
     },
     {
       "id": "tr",
-      "name": "Turkey",
+      "name": {
+        "en": "Turkey",
+        "it": "Turchia",
+        "de": "Türkei",
+        "fr": "Turquie",
+        "es": "Turquía"
+      },
       "englishName": "Turkey",
       "alpha2Code": "tr",
       "alpha3Code": "tur",
@@ -7548,7 +8474,13 @@
     },
     {
       "id": "tm",
-      "name": "Turkmenistan",
+      "name": {
+        "en": "Turkmenistan",
+        "it": "Turkmenistan",
+        "de": "Turkmenistan",
+        "fr": "Turkménistan",
+        "es": "Turkmenistán"
+      },
       "englishName": "Turkmenistan",
       "alpha2Code": "tm",
       "alpha3Code": "tkm",
@@ -7580,7 +8512,13 @@
     },
     {
       "id": "tc",
-      "name": "Turks and Caicos Islands",
+      "name": {
+        "en": "Turks and Caicos Islands",
+        "it": "Isole Turks e Caicos",
+        "de": "Turks- und Caicosinseln",
+        "fr": "Îles Turques-et-Caïques",
+        "es": "Islas Turcas y Caicos"
+      },
       "englishName": "Turks and Caicos Islands",
       "alpha2Code": "tc",
       "alpha3Code": "tca",
@@ -7615,7 +8553,13 @@
     },
     {
       "id": "tv",
-      "name": "Tuvalu",
+      "name": {
+        "en": "Tuvalu",
+        "it": "Tuvalu",
+        "de": "Tuvalu",
+        "fr": "Tuvalu",
+        "es": "Tuvalu"
+      },
       "englishName": "Tuvalu",
       "alpha2Code": "tv",
       "alpha3Code": "tuv",
@@ -7646,7 +8590,13 @@
     },
     {
       "id": "ug",
-      "name": "Uganda",
+      "name": {
+        "en": "Uganda",
+        "it": "Uganda",
+        "de": "Uganda",
+        "fr": "Ouganda",
+        "es": "Uganda"
+      },
       "englishName": "Uganda",
       "alpha2Code": "ug",
       "alpha3Code": "uga",
@@ -7682,7 +8632,13 @@
     },
     {
       "id": "ua",
-      "name": "Ukraine",
+      "name": {
+        "en": "Ukraine",
+        "it": "Ucraina",
+        "de": "Ukraine",
+        "fr": "Ukraine",
+        "es": "Ucrania"
+      },
       "englishName": "Ukraine",
       "alpha2Code": "ua",
       "alpha3Code": "ukr",
@@ -7713,7 +8669,13 @@
     },
     {
       "id": "ae",
-      "name": "United Arab Emirates",
+      "name": {
+        "en": "United Arab Emirates",
+        "it": "Emirati Arabi Uniti",
+        "de": "Vereinigte Arabische Emirate",
+        "fr": "Émirats Arabes Unis",
+        "es": "Emiratos Árabes Unidos"
+      },
       "englishName": "United Arab Emirates",
       "alpha2Code": "ae",
       "alpha3Code": "are",
@@ -7744,7 +8706,13 @@
     },
     {
       "id": "gb",
-      "name": "United Kingdom",
+      "name": {
+        "en": "United Kingdom",
+        "it": "Regno Unito",
+        "de": "Vereinigtes Königreich",
+        "fr": "Royaume-Uni",
+        "es": "Reino Unido"
+      },
       "englishName": "United Kingdom of Great Britain and Northern Ireland",
       "alpha2Code": "gb",
       "alpha3Code": "gbr",
@@ -7774,75 +8742,14 @@
       "emojiU": "U+1F1EC U+1F1E7"
     },
     {
-      "id": "tz",
-      "name": "United Republic of Tanzania",
-      "englishName": "Tanzania, United Republic of",
-      "alpha2Code": "tz",
-      "alpha3Code": "tza",
-      "countryCode": "834",
-      "isoCode": "ISO 3166-2:TZ",
-      "region": {
-        "id": "2",
-        "name": "Africa"
-      },
-      "subRegion": {
-        "id": "202",
-        "name": "Sub-Saharan Africa"
-      },
-      "intermediateRegion": {
-        "id": "14",
-        "name": "Eastern Africa"
-      },
-      "nativeName": "Tanzania",
-      "capitalName": "Dodoma",
-      "continentId": "af",
-      "currencies": [
-        "TZS"
-      ],
-      "languages": [
-        "sw",
-        "en"
-      ],
-      "internationalPrefixes": [
-        "255"
-      ],
-      "emoji": "🇹🇿",
-      "emojiU": "U+1F1F9 U+1F1FF"
-    },
-    {
-      "id": "um",
-      "name": "United States Minor Outlying Islands",
-      "englishName": "United States Minor Outlying Islands",
-      "alpha2Code": "um",
-      "alpha3Code": "umi",
-      "countryCode": "581",
-      "isoCode": "ISO 3166-2:UM",
-      "region": {
-        "id": "9",
-        "name": "Oceania"
-      },
-      "subRegion": {
-        "id": "57",
-        "name": "Micronesia"
-      },
-      "nativeName": "United States Minor Outlying Islands",
-      "capitalName": "",
-      "continentId": "oc",
-      "currencies": [
-        "USD"
-      ],
-      "languages": [
-        "en"
-      ],
-      "internationalPrefixes": [
-        "1"
-      ],
-      "emoji": "🇺🇲",
-      "emojiU": "U+1F1FA U+1F1F2"
-    },
-    {
       "id": "us",
-      "name": "United States of America",
+      "name": {
+        "en": "United States of America",
+        "it": "Stati Uniti d'America",
+        "de": "Vereinigte Staaten von Amerika",
+        "fr": "États-Unis d'Amérique",
+        "es": "Estados Unidos"
+      },
       "englishName": "United States of America",
       "alpha2Code": "us",
       "alpha3Code": "usa",
@@ -7874,8 +8781,51 @@
       "emojiU": "U+1F1FA U+1F1F8"
     },
     {
+      "id": "um",
+      "name": {
+        "en": "United States Minor Outlying Islands",
+        "it": "Isole minori esterne degli Stati Uniti",
+        "de": "United States Minor Outlying Islands",
+        "fr": "Îles mineures éloignées des États-Unis",
+        "es": "Islas Ultramarinas Menores de los Estados Unidos"
+      },
+      "englishName": "United States Minor Outlying Islands",
+      "alpha2Code": "um",
+      "alpha3Code": "umi",
+      "countryCode": "581",
+      "isoCode": "ISO 3166-2:UM",
+      "region": {
+        "id": "9",
+        "name": "Oceania"
+      },
+      "subRegion": {
+        "id": "57",
+        "name": "Micronesia"
+      },
+      "nativeName": "United States Minor Outlying Islands",
+      "capitalName": "",
+      "continentId": "oc",
+      "currencies": [
+        "USD"
+      ],
+      "languages": [
+        "en"
+      ],
+      "internationalPrefixes": [
+        "1"
+      ],
+      "emoji": "🇺🇲",
+      "emojiU": "U+1F1FA U+1F1F2"
+    },
+    {
       "id": "uy",
-      "name": "Uruguay",
+      "name": {
+        "en": "Uruguay",
+        "it": "Uruguay",
+        "de": "Uruguay",
+        "fr": "Uruguay",
+        "es": "Uruguay"
+      },
       "englishName": "Uruguay",
       "alpha2Code": "uy",
       "alpha3Code": "ury",
@@ -7911,7 +8861,13 @@
     },
     {
       "id": "uz",
-      "name": "Uzbekistan",
+      "name": {
+        "en": "Uzbekistan",
+        "it": "Uzbekistan",
+        "de": "Usbekistan",
+        "fr": "Ouzbékistan",
+        "es": "Uzbekistán"
+      },
       "englishName": "Uzbekistan",
       "alpha2Code": "uz",
       "alpha3Code": "uzb",
@@ -7943,7 +8899,13 @@
     },
     {
       "id": "vu",
-      "name": "Vanuatu",
+      "name": {
+        "en": "Vanuatu",
+        "it": "Vanuatu",
+        "de": "Vanuatu",
+        "fr": "Vanuatu",
+        "es": "Vanuatu"
+      },
       "englishName": "Vanuatu",
       "alpha2Code": "vu",
       "alpha3Code": "vut",
@@ -7976,7 +8938,13 @@
     },
     {
       "id": "ve",
-      "name": "Venezuela",
+      "name": {
+        "en": "Venezuela",
+        "it": "Venezuela",
+        "de": "Venezuela",
+        "fr": "Venezuela",
+        "es": "Venezuela"
+      },
       "englishName": "Venezuela (Bolivarian Republic of)",
       "alpha2Code": "ve",
       "alpha3Code": "ven",
@@ -8011,7 +8979,13 @@
     },
     {
       "id": "vn",
-      "name": "Vietnam",
+      "name": {
+        "en": "Vietnam",
+        "it": "Vietnam",
+        "de": "Vietnam",
+        "fr": "Vietnam",
+        "es": "Vietnam"
+      },
       "englishName": "Viet Nam",
       "alpha2Code": "vn",
       "alpha3Code": "vnm",
@@ -8042,7 +9016,13 @@
     },
     {
       "id": "vg",
-      "name": "Virgin Islands, British",
+      "name": {
+        "en": "Virgin Islands, British",
+        "it": "Isole Vergini Britanniche",
+        "de": "Britische Jungferninseln",
+        "fr": "Îles vierges britanniques",
+        "es": "Islas Vírgenes británicas"
+      },
       "englishName": "Virgin Islands (British)",
       "alpha2Code": "vg",
       "alpha3Code": "vgb",
@@ -8077,7 +9057,13 @@
     },
     {
       "id": "vi",
-      "name": "Virgin Islands, U.S.",
+      "name": {
+        "en": "Virgin Islands, U.S.",
+        "it": "Isole Vergini Americane",
+        "de": "Amerikanische Jungferninseln",
+        "fr": "Îles vierges américaines",
+        "es": "Islas Vírgenes de los Estados Unidos"
+      },
       "englishName": "Virgin Islands (U.S.)",
       "alpha2Code": "vi",
       "alpha3Code": "vir",
@@ -8112,7 +9098,13 @@
     },
     {
       "id": "wf",
-      "name": "Wallis and Futuna",
+      "name": {
+        "en": "Wallis and Futuna",
+        "it": "Wallis e Futuna",
+        "de": "Wallis und Futuna",
+        "fr": "Wallis-et-Futuna",
+        "es": "Wallis y Futuna"
+      },
       "englishName": "Wallis and Futuna",
       "alpha2Code": "wf",
       "alpha3Code": "wlf",
@@ -8143,7 +9135,13 @@
     },
     {
       "id": "eh",
-      "name": "Western Sahara",
+      "name": {
+        "en": "Western Sahara",
+        "it": "Sahara Occidentale",
+        "de": "Westsahara",
+        "fr": "Sahara occidental",
+        "es": "Sahara Occidental"
+      },
       "englishName": "Western Sahara",
       "alpha2Code": "eh",
       "alpha3Code": "esh",
@@ -8176,7 +9174,13 @@
     },
     {
       "id": "ye",
-      "name": "Yemen",
+      "name": {
+        "en": "Yemen",
+        "it": "Yemen",
+        "de": "Jemen",
+        "fr": "Yémen",
+        "es": "Yemen"
+      },
       "englishName": "Yemen",
       "alpha2Code": "ye",
       "alpha3Code": "yem",
@@ -8207,7 +9211,13 @@
     },
     {
       "id": "zm",
-      "name": "Zambia",
+      "name": {
+        "en": "Zambia",
+        "it": "Zambia",
+        "de": "Sambia",
+        "fr": "Zambie",
+        "es": "Zambia"
+      },
       "englishName": "Zambia",
       "alpha2Code": "zm",
       "alpha3Code": "zmb",
@@ -8242,7 +9252,13 @@
     },
     {
       "id": "zw",
-      "name": "Zimbabwe",
+      "name": {
+        "en": "Zimbabwe",
+        "it": "Zimbabwe",
+        "de": "Simbabwe",
+        "fr": "Zimbabwe",
+        "es": "Zimbabue"
+      },
       "englishName": "Zimbabwe",
       "alpha2Code": "zw",
       "alpha3Code": "zwe",
@@ -8286,7 +9302,13 @@
     },
     {
       "id": "ax",
-      "name": "Åland Islands",
+      "name": {
+        "en": "Åland Islands",
+        "it": "Isole Åland",
+        "de": "Åland",
+        "fr": "Åland",
+        "es": "Islas Åland"
+      },
       "englishName": "Åland Islands",
       "alpha2Code": "ax",
       "alpha3Code": "ala",
@@ -8314,6 +9336,485 @@
       ],
       "emoji": "🇦🇽",
       "emojiU": "U+1F1E6 U+1F1FD"
+    },
+    {
+      "id": "bq",
+      "name": {
+        "en": "Bonaire, Sint Eustatius and Saba",
+        "it": "Isole BES",
+        "de": "Bonaire",
+        "fr": "Bonaire, Saint-Eustache et Saba",
+        "es": "Bonaire, San Eustaquio y Saba"
+      },
+      "englishName": "Bonaire, Sint Eustatius and Saba",
+      "alpha2Code": "bq",
+      "alpha3Code": "bes",
+      "countryCode": "535",
+      "isoCode": "ISO 3166-2:BQ",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Bonaire",
+      "capitalName": "Kralendijk",
+      "continentId": "na",
+      "currencies": [
+        "USD"
+      ],
+      "languages": [
+        "nl"
+      ],
+      "internationalPrefixes": [
+        "5997"
+      ],
+      "emoji": "🇧🇶",
+      "emojiU": "U+1F1E7 U+1F1F6"
+    },
+    {
+      "id": "cw",
+      "name": {
+        "en": "Curaçao",
+        "it": "Curaçao",
+        "de": "Curaçao",
+        "fr": "Curaçao",
+        "es": "Curaçao"
+      },
+      "englishName": "Curaçao",
+      "alpha2Code": "cw",
+      "alpha3Code": "cuw",
+      "countryCode": "531",
+      "isoCode": "ISO 3166-2:CW",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Curaçao",
+      "capitalName": "Willemstad",
+      "continentId": "na",
+      "currencies": [
+        "ANG"
+      ],
+      "languages": [
+        "nl",
+        "pa",
+        "en"
+      ],
+      "internationalPrefixes": [
+        "5999"
+      ],
+      "emoji": "🇨🇼",
+      "emojiU": "U+1F1E8 U+1F1FC"
+    },
+    {
+      "id": "gg",
+      "name": {
+        "en": "Guernsey",
+        "it": "Guernsey",
+        "de": "Guernsey",
+        "fr": "Guernesey",
+        "es": "Guernsey"
+      },
+      "englishName": "Guernsey",
+      "alpha2Code": "gg",
+      "alpha3Code": "ggy",
+      "countryCode": "831",
+      "isoCode": "ISO 3166-2:GG",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "154",
+        "name": "Northern Europe"
+      },
+      "intermediateRegion": {
+        "id": "830",
+        "name": "Channel Islands"
+      },
+      "nativeName": "Guernsey",
+      "capitalName": "St. Peter Port",
+      "continentId": "eu",
+      "currencies": [
+        "GBP"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "internationalPrefixes": [
+        "44"
+      ],
+      "emoji": "🇬🇬",
+      "emojiU": "U+1F1EC U+1F1EC"
+    },
+    {
+      "id": "im",
+      "name": {
+        "en": "Isle of Man",
+        "it": "Isola di Man",
+        "de": "Insel Man",
+        "fr": "Île de Man",
+        "es": "Isla de Man"
+      },
+      "englishName": "Isle of Man",
+      "alpha2Code": "im",
+      "alpha3Code": "imn",
+      "countryCode": "833",
+      "isoCode": "ISO 3166-2:IM",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "154",
+        "name": "Northern Europe"
+      },
+      "nativeName": "Isle of Man",
+      "capitalName": "Douglas",
+      "continentId": "eu",
+      "currencies": [
+        "GBP"
+      ],
+      "languages": [
+        "en",
+        "gv"
+      ],
+      "internationalPrefixes": [
+        "44"
+      ],
+      "emoji": "🇮🇲",
+      "emojiU": "U+1F1EE U+1F1F2"
+    },
+    {
+      "id": "je",
+      "name": {
+        "en": "Jersey",
+        "it": "Jersey",
+        "de": "Jersey",
+        "fr": "Jersey",
+        "es": "Jersey"
+      },
+      "englishName": "Jersey",
+      "alpha2Code": "je",
+      "alpha3Code": "jey",
+      "countryCode": "832",
+      "isoCode": "ISO 3166-2:JE",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "154",
+        "name": "Northern Europe"
+      },
+      "intermediateRegion": {
+        "id": "830",
+        "name": "Channel Islands"
+      },
+      "nativeName": "Jersey",
+      "capitalName": "Saint Helier",
+      "continentId": "eu",
+      "currencies": [
+        "GBP"
+      ],
+      "languages": [
+        "en",
+        "fr"
+      ],
+      "internationalPrefixes": [
+        "44"
+      ],
+      "emoji": "🇯🇪",
+      "emojiU": "U+1F1EF U+1F1EA"
+    },
+    {
+      "id": "me",
+      "name": {
+        "en": "Montenegro",
+        "it": "Montenegro",
+        "de": "Montenegro",
+        "fr": "Monténégro",
+        "es": "Montenegro"
+      },
+      "englishName": "Montenegro",
+      "alpha2Code": "me",
+      "alpha3Code": "mne",
+      "countryCode": "499",
+      "isoCode": "ISO 3166-2:ME",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "39",
+        "name": "Southern Europe"
+      },
+      "nativeName": "Црна Гора",
+      "capitalName": "Podgorica",
+      "continentId": "eu",
+      "currencies": [
+        "EUR"
+      ],
+      "languages": [
+        "sr",
+        "bs",
+        "sq",
+        "hr"
+      ],
+      "internationalPrefixes": [
+        "382"
+      ],
+      "emoji": "🇲🇪",
+      "emojiU": "U+1F1F2 U+1F1EA"
+    },
+    {
+      "id": "bl",
+      "name": {
+        "en": "Saint Barthélemy",
+        "it": "Saint-Barthélemy",
+        "de": "Saint-Barthélemy",
+        "fr": "Saint-Barthélemy",
+        "es": "Saint Barthélemy"
+      },
+      "englishName": "Saint Barthélemy",
+      "alpha2Code": "bl",
+      "alpha3Code": "blm",
+      "countryCode": "652",
+      "isoCode": "ISO 3166-2:BL",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Saint-Barthélemy",
+      "capitalName": "Gustavia",
+      "continentId": "na",
+      "currencies": [
+        "EUR"
+      ],
+      "languages": [
+        "fr"
+      ],
+      "internationalPrefixes": [
+        "590"
+      ],
+      "emoji": "🇧🇱",
+      "emojiU": "U+1F1E7 U+1F1F1"
+    },
+    {
+      "id": "mf",
+      "name": {
+        "en": "Saint Martin (French part)",
+        "it": "Saint-Martin",
+        "de": "Saint-Martin",
+        "fr": "Saint-Martin (partie française)",
+        "es": "Saint Martin (francesa)"
+      },
+      "englishName": "Saint Martin (French part)",
+      "alpha2Code": "mf",
+      "alpha3Code": "maf",
+      "countryCode": "663",
+      "isoCode": "ISO 3166-2:MF",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Saint-Martin",
+      "capitalName": "Marigot",
+      "continentId": "na",
+      "currencies": [
+        "EUR"
+      ],
+      "languages": [
+        "en",
+        "fr",
+        "nl"
+      ],
+      "internationalPrefixes": [
+        "590"
+      ],
+      "emoji": "🇲🇫",
+      "emojiU": "U+1F1F2 U+1F1EB"
+    },
+    {
+      "id": "rs",
+      "name": {
+        "en": "Serbia",
+        "it": "Serbia",
+        "de": "Serbien",
+        "fr": "Serbie",
+        "es": "Serbia"
+      },
+      "englishName": "Serbia",
+      "alpha2Code": "rs",
+      "alpha3Code": "srb",
+      "countryCode": "688",
+      "isoCode": "ISO 3166-2:RS",
+      "region": {
+        "id": "150",
+        "name": "Europe"
+      },
+      "subRegion": {
+        "id": "39",
+        "name": "Southern Europe"
+      },
+      "nativeName": "Србија",
+      "capitalName": "Belgrade",
+      "continentId": "eu",
+      "currencies": [
+        "RSD"
+      ],
+      "languages": [
+        "sr"
+      ],
+      "internationalPrefixes": [
+        "381"
+      ],
+      "emoji": "🇷🇸",
+      "emojiU": "U+1F1F7 U+1F1F8"
+    },
+    {
+      "id": "sx",
+      "name": {
+        "en": "Sint Maarten (Dutch part)",
+        "it": "Sint Maarten",
+        "de": "Sint Maarten",
+        "fr": "Saint-Martin (partie néerlandaise)",
+        "es": "Sint Maarten (neerlandesa)"
+      },
+      "englishName": "Sint Maarten (Dutch part)",
+      "alpha2Code": "sx",
+      "alpha3Code": "sxm",
+      "countryCode": "534",
+      "isoCode": "ISO 3166-2:SX",
+      "region": {
+        "id": "19",
+        "name": "Americas"
+      },
+      "subRegion": {
+        "id": "419",
+        "name": "Latin America and the Caribbean"
+      },
+      "intermediateRegion": {
+        "id": "29",
+        "name": "Caribbean"
+      },
+      "nativeName": "Sint Maarten",
+      "capitalName": "Philipsburg",
+      "continentId": "na",
+      "currencies": [
+        "ANG"
+      ],
+      "languages": [
+        "nl",
+        "en"
+      ],
+      "internationalPrefixes": [
+        "1721"
+      ],
+      "emoji": "🇸🇽",
+      "emojiU": "U+1F1F8 U+1F1FD"
+    },
+    {
+      "id": "ss",
+      "name": {
+        "en": "South Sudan",
+        "it": "Sudan del Sud",
+        "de": "Südsudan",
+        "fr": "Soudan du Sud",
+        "es": "Sudán del Sur"
+      },
+      "englishName": "South Sudan",
+      "alpha2Code": "ss",
+      "alpha3Code": "ssd",
+      "countryCode": "728",
+      "isoCode": "ISO 3166-2:SS",
+      "region": {
+        "id": "2",
+        "name": "Africa"
+      },
+      "subRegion": {
+        "id": "202",
+        "name": "Sub-Saharan Africa"
+      },
+      "intermediateRegion": {
+        "id": "14",
+        "name": "Eastern Africa"
+      },
+      "nativeName": "South Sudan",
+      "capitalName": "Juba",
+      "continentId": "af",
+      "currencies": [
+        "SSP"
+      ],
+      "languages": [
+        "en"
+      ],
+      "internationalPrefixes": [
+        "211"
+      ],
+      "emoji": "🇸🇸",
+      "emojiU": "U+1F1F8 U+1F1F8"
+    },
+    {
+      "id": "xk",
+      "name": {
+        "en": "Kosovo",
+        "it": "Kosovo",
+        "de": "Kosovo",
+        "fr": "Kosovo",
+        "es": "Kosovo"
+      },
+      "englishName": "Kosovo",
+      "nativeName": "Republika e Kosovës",
+      "capitalName": "Pristina",
+      "continentId": "eu",
+      "currencies": [
+        "EUR"
+      ],
+      "languages": [
+        "sq",
+        "sr"
+      ],
+      "internationalPrefixes": [
+        "377",
+        "381",
+        "383",
+        "386"
+      ],
+      "emoji": "🇽🇰",
+      "emojiU": "U+1F1FD U+1F1F0"
     }
   ]
 }

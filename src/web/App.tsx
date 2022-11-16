@@ -1,29 +1,50 @@
 import { useState } from 'react';
-import { Library } from '../types';
+import { IExtendedOption, Library } from '../types';
 import { Code } from './Code';
 import './styles.scss';
 
-import language from '../../dist/language/it.json';
-// import nationality from '../dist/nationality/it.json';
-import country from '../../dist/country/it.json';
-import municipality from '../../dist/municipality.json';
-import province from '../../dist/province.json';
-import region from '../../dist/region.json';
+import language from '../data/language.json';
+// import nationality from '../data/nationality.json';
+import continent from '../data/continent.json';
+import country from '../data/country.json';
+import municipality from '../data/municipality.json';
+import province from '../data/province.json';
+import region from '../data/region.json';
+import { localizedToString, sortByName } from '../generator/utils';
 
 const libraries = [
   language,
   // nationality,
+  continent,
   country,
   region,
   province,
   municipality,
 ];
 
+const localize = (value: any) => {
+  if (typeof value === 'string') {
+    return value;
+  } else {
+    return localizedToString(value, 'it');
+  }
+}
+
+function localizeItems(items: IExtendedOption[]) {
+  items.forEach(item => {
+    item.name = localize(item.name);
+  });
+  sortByName(items as { name: string }[]);
+  return items;
+}
+
 export default function App() {
 
   const [library, setLibrary] = useState<Library>(libraries[0]);
 
   console.log('library', library.id, library.items);
+
+  const localizedItesm = localizeItems(library.items);
 
   return (
     <div className="app">
@@ -44,15 +65,15 @@ export default function App() {
             <div className="libraries__item">
               <div className="head">
                 <div className="title">{library.id}</div>
-                <div className="title">{library.items.length}</div>
+                <div className="title">{localizedItesm.length}</div>
               </div>
               <div className="content">
-                <Code value={library.items[0]} />
+                <Code value={localizedItesm[0]} />
                 <ul className="list">
-                  {library.items.filter((x, i) => i < 200).map((item) => (
+                  {localizedItesm.filter((x, i) => i < 200).map((item) => (
                     <li key={library.name + '-' + item.id} className="list__item">
                       <span className="key">{item.id}</span>
-                      <span className="value">{item.name}</span>
+                      <span className="value">{item.name as string}</span>
                     </li>
                   ))}
                 </ul>

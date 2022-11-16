@@ -1,0 +1,67 @@
+{
+  "id": "language",
+  "name": "@cospired/i18n-iso-languages",
+  "localized": true,
+  "items": [
+    {
+      "id": "de",
+      "name": {
+        "en": "German",
+        "it": "Tedesco",
+        "de": "Deutsch",
+        "fr": "Allemand",
+        "es": "Alemán"
+      },
+      "englishName": "German",
+      "nativeName": "Deutsch"
+    },
+    {
+      "id": "en",
+      "name": {
+        "en": "English",
+        "it": "Inglese",
+        "de": "Englisch",
+        "fr": "Anglais",
+        "es": "Inglés"
+      },
+      "englishName": "English",
+      "nativeName": "English"
+    },
+    {
+      "id": "es",
+      "name": {
+        "en": "Spanish",
+        "it": "Spagnolo",
+        "de": "Spanisch",
+        "fr": "Espagnol",
+        "es": "Español"
+      },
+      "englishName": "Spanish",
+      "nativeName": "Español"
+    },
+    {
+      "id": "fr",
+      "name": {
+        "en": "French",
+        "it": "Francese",
+        "de": "Französisch",
+        "fr": "Français",
+        "es": "Frances"
+      },
+      "englishName": "French",
+      "nativeName": "Français"
+    },
+    {
+      "id": "it",
+      "name": {
+        "en": "Italian",
+        "it": "Italiano",
+        "de": "Italienisch",
+        "fr": "Italien",
+        "es": "Italiano"
+      },
+      "englishName": "Italian",
+      "nativeName": "Italiano"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ import { sortByName } from '../utils';
 export const region: LibraryConfig = {
   id: 'region',
   name: 'comuni-province-regioni-italia',
-  generator: async (locale: string) => {
+  generator: async () => {
     // console.log('comuni-province-regioni-italia/regioni', regioni[0]);
     const regions = regioniData.map(x => ({
       id: x.id.toLowerCase(),
@@ -27,7 +27,7 @@ export const region: LibraryConfig = {
 export const province: LibraryConfig = {
   id: 'province',
   name: 'comuni-province-regioni-italia',
-  generator: async (locale: string) => {
+  generator: async () => {
     // console.log('comuni-province-regioni-italia/province', province[0]);
     const provinces = provinceData.map(x => ({
       id: x.sigla.toLowerCase(),
@@ -44,7 +44,7 @@ export const province: LibraryConfig = {
 export const municipality: LibraryConfig = {
   id: 'municipality',
   name: 'comuni-province-regioni-italia',
-  generator: async (locale: string) => {
+  generator: async () => {
     // console.log('comuni-province-regioni-italia/comuni', comuni[0]);
     const items = comuniData.map((x, i) => ({ ...x, id: '', name: x.nome }));
     sortByName(items);
