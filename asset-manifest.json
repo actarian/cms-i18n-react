@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cms-i18n-react/static/css/main.7d39d42e.css",
+    "main.js": "/cms-i18n-react/static/js/main.949b98cf.js",
+    "index.html": "/cms-i18n-react/index.html",
+    "main.7d39d42e.css.map": "/cms-i18n-react/static/css/main.7d39d42e.css.map",
+    "main.949b98cf.js.map": "/cms-i18n-react/static/js/main.949b98cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d39d42e.css",
+    "static/js/main.949b98cf.js"
+  ]
+}
