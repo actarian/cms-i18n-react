@@ -12,6 +12,7 @@ const libraryNames = [
   'continent',
   'subContinent',
   'country',
+  'countryZone',
   'region',
   'province',
   'municipality',
@@ -44,6 +45,8 @@ export default function App() {
 
   const [items, setItems] = useState<IExtendedOption[]>([]);
 
+  const [code, setCode] = useState<IExtendedOption>(items[0]);
+
   useEffect(() => {
     const getLibraries = async () => {
       const promises = libraryNames.map(x => axios.get(`api/${x}.json`));
@@ -67,6 +70,7 @@ export default function App() {
     const items = localizeItems(library.items, currentLocale);
     setLibrary(library);
     setItems(items);
+    setCode(items[0]);
     console.log('onSelect', library.id, currentLocale, items, library.items);
   }
 
@@ -115,7 +119,7 @@ export default function App() {
               <div className="content">
                 <ul className="list">
                   {items.filter((x, i) => i < 200).map((item) => (
-                    <li key={library.name + '-' + item.id + '-' + locale} className="list__item">
+                    <li key={library.name + '-' + item.id + '-' + locale} className="list__item" onMouseOver={() => setCode(item)}>
                       <span className="key">
                         {item.id}
                       </span>
@@ -123,7 +127,7 @@ export default function App() {
                     </li>
                   ))}
                 </ul>
-                <Code value={items[0]} />
+                <Code value={code} />
               </div>
             </div>
           )}

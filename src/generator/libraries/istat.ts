@@ -20,7 +20,7 @@ function istatMapper(items: any[]): IExtendedOption[] {
     id: item['Codice Comune formato alfanumerico'].toString(),
     name: item['Denominazione in italiano'],
     code: item['Codice Catastale del comune'].toString(),
-    geographicRegion: {
+    countryZone: {
       id: item['Codice Ripartizione Geografica'].toString(),
       name: item['Ripartizione geografica'],
     },
@@ -66,22 +66,22 @@ function istatMapper(items: any[]): IExtendedOption[] {
   */
 }
 
-export const geographicRegion: LibraryConfig = {
-  id: 'geographicRegion',
+export const countryZone: LibraryConfig = {
+  id: 'countryZone',
   name: 'Elenco-comuni-italiani.csv',
   generator: async () => {
     const istat = await getIstat();
-    const geographicRegions: IOption[] = [];
+    const countryZones: IOption[] = [];
     istat.forEach(x => {
-      if (!geographicRegions.find(r => r.id === x.geographicRegion.id)) {
-        geographicRegions.push({
-          ...x.geographicRegion,
+      if (!countryZones.find(r => r.id === x.countryZone.id)) {
+        countryZones.push({
+          ...x.countryZone,
         });
       }
     });
-    // sortByName(geographicRegions);
-    // console.log('geographicRegions', geographicRegions[0]);
-    return geographicRegions;
+    // sortByName(countryZones);
+    // console.log('countryZones', countryZones[0]);
+    return countryZones;
   }
 };
 
@@ -95,7 +95,7 @@ export const region: LibraryConfig = {
       if (!regions.find(r => r.id === x.region.id)) {
         regions.push({
           ...x.region,
-          geographicRegionId: x.geographicRegion.id,
+          countryZoneId: x.countryZone.id,
         });
       }
     });
@@ -115,7 +115,7 @@ export const province: LibraryConfig = {
       if (!provinces.find(p => p.id === x.province.id)) {
         provinces.push({
           ...x.province,
-          geographicRegionId: x.geographicRegion.id,
+          countryZoneId: x.countryZone.id,
           regionId: x.region.id,
         });
       }
@@ -135,7 +135,7 @@ export const municipality: LibraryConfig = {
       id: x.id,
       name: x.name,
       code: x.code,
-      geographicRegionId: x.geographicRegion.id,
+      countryZoneId: x.countryZone.id,
       regionId: x.region.id,
       provinceId: x.province.id,
     }));
@@ -149,4 +149,5 @@ export const municipality: LibraryConfig = {
  * reference
  * https://www.istat.it/it/archivio/6789
  * permalink https://www.istat.it/storage/codici-unita-amministrative/Elenco-comuni-italiani.csv
+ * todo comuni caps -> https://github.com/matteocontrini/comuni-json
  */
