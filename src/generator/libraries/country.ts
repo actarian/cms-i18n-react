@@ -8,15 +8,74 @@ import { isoKeyMapper } from '../utils';
 // "iso-3166-countries": "https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes#master",
 i18nCountries.registerLocale(i18nCountriesIt);
 
+let COUNTRIES: IExtendedLocalizedOption[] | null = null;
+
+export const continent: LibraryConfig = {
+  id: 'continent',
+  name: 'i18n-iso-countries',
+  generator: async () => {
+    const items = getExtendedCountries();
+    const continents: IOption[] = [];
+    items.forEach(x => {
+      if (!continents.find(c => c.id === x.continent.id)) {
+        continents.push({
+          ...x.continent,
+        });
+      }
+    });
+    // console.log('continents', continents[0]);
+    return continents;
+  }
+}
+
+export const subContinent: LibraryConfig = {
+  id: 'subContinent',
+  name: 'i18n-iso-countries',
+  generator: async () => {
+    const items = getExtendedCountries();
+    const subContinents: IOption[] = [];
+    items.forEach(x => {
+      if (!subContinents.find(c => c.id === x.subContinent.id)) {
+        subContinents.push({
+          ...x.subContinent,
+          continentId: x.continent.id,
+        });
+      }
+    });
+    // console.log('subContinents', subContinents[0]);
+    return subContinents;
+  }
+}
+
 export const country: LibraryConfig = {
   id: 'country',
   name: 'i18n-iso-countries',
   localized: true,
   generator: async () => {
-    const countries = getLocalizedCountries();
-    const extendedCountries = extendCountries(countries);
-    return extendedCountries;
+    const items = getExtendedCountries();
+    const countries: IExtendedLocalizedOption[] = items.map(x => {
+      const country: IExtendedLocalizedOption = {
+        ...x,
+        continentId: x.continent.id,
+        subContinentId: x.subContinent.id,
+      };
+      delete country.continent;
+      delete country.subContinent;
+      return country;
+    });
+    // sortByName(countries);
+    // console.log('countries', countries[0]);
+    return countries;
   }
+}
+
+function getExtendedCountries(): IExtendedLocalizedOption[] {
+  if (COUNTRIES) {
+    return COUNTRIES;
+  }
+  const countries = getLocalizedCountries();
+  COUNTRIES = extendCountries(countries);
+  return COUNTRIES;
 }
 
 function getLocalizedCountries(): ILocalizedOption[] {
@@ -57,14 +116,39 @@ function extendCountries(items: ILocalizedOption[]): IExtendedLocalizedOption[] 
       item.alpha3Code = isoCountry['alpha-3'].toLowerCase();
       item.countryCode = parseInt(isoCountry['country-code']).toString();
       item.isoCode = isoCountry['iso_3166-2'];
-      item.region = {
+      if (!isoCountry['region-code']) {
+        console.log(`country.extendCountries continent not found ${item.id} - ${item.englishName}`);
+      }
+      item.continent = {
         id: parseInt(isoCountry['region-code']).toString(),
         name: isoCountry['region'],
       };
-      item.subRegion = {
+      item.subContinent = {
         id: parseInt(isoCountry['sub-region-code']).toString(),
         name: isoCountry['sub-region'],
       };
+      switch (item.id) {
+        case 'aq':
+          item.continent = {
+            id: '999',
+            name: 'Antarctica',
+          };
+          item.subContinent = {
+            id: '999',
+            name: 'Antarctica',
+          };
+          break;
+        case 'xk':
+          item.continent = {
+            id: '150',
+            name: 'Europe',
+          };
+          item.subContinent = {
+            id: '151',
+            name: 'Eastern Europe',
+          };
+          break;
+      }
       if (isoCountry['intermediate-region-code']) {
         item.intermediateRegion = {
           id: parseInt(isoCountry['intermediate-region-code']).toString(),
@@ -90,5 +174,5 @@ function extendCountries(items: ILocalizedOption[]): IExtendedLocalizedOption[] 
     }
     return item;
   });
-  return extendedItems;
+  return extendedItems.filter(x => x.continent != null);
 }

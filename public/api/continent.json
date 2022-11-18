@@ -1,34 +1,30 @@
 {
   "id": "continent",
-  "name": "countries-list",
+  "name": "i18n-iso-countries",
   "items": [
     {
-      "id": "af",
-      "name": "Africa"
-    },
-    {
-      "id": "an",
-      "name": "Antarctica"
-    },
-    {
-      "id": "as",
+      "id": "142",
       "name": "Asia"
     },
     {
-      "id": "eu",
+      "id": "150",
       "name": "Europe"
     },
     {
-      "id": "na",
-      "name": "North America"
+      "id": "2",
+      "name": "Africa"
     },
     {
-      "id": "oc",
+      "id": "9",
       "name": "Oceania"
     },
     {
-      "id": "sa",
-      "name": "South America"
+      "id": "19",
+      "name": "Americas"
+    },
+    {
+      "id": "999",
+      "name": "Antarctica"
     }
   ]
 }

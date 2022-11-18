@@ -1,7 +1,6 @@
 import { availableLocales } from '../config';
 import { ILocalizedStringKey, Library, LibraryConfig } from '../types';
-import { continent } from './libraries/continent';
-import { country } from './libraries/country';
+import { continent, country, subContinent } from './libraries/country';
 import { geographicRegion, municipality, province, region } from './libraries/istat';
 import { language } from './libraries/language';
 // const pluralize = require('pluralize');
@@ -10,6 +9,7 @@ const configs: LibraryConfig[] = [
   language,
   // nationality,
   continent,
+  subContinent,
   country,
   geographicRegion,
   region,

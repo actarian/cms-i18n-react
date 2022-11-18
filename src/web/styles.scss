@@ -48,7 +48,7 @@ body {
 
 .content {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: flex-start;
   gap: 1rem;
 
@@ -60,6 +60,7 @@ body {
 .code {
   display: block;
   padding: 20px;
+  margin: 0;
   border: 1px solid grey;
   border-radius: 0.5rem;
 }
