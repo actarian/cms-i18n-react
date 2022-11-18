@@ -6,7 +6,7 @@
       "id": "201",
       "name": "Torino",
       "code": "TO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -14,7 +14,7 @@
       "id": "002",
       "name": "Vercelli",
       "code": "VC",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -22,7 +22,7 @@
       "id": "003",
       "name": "Novara",
       "code": "NO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -30,7 +30,7 @@
       "id": "004",
       "name": "Cuneo",
       "code": "CN",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -38,7 +38,7 @@
       "id": "005",
       "name": "Asti",
       "code": "AT",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -46,7 +46,7 @@
       "id": "006",
       "name": "Alessandria",
       "code": "AL",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -54,7 +54,7 @@
       "id": "096",
       "name": "Biella",
       "code": "BI",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -62,7 +62,7 @@
       "id": "103",
       "name": "Verbano-Cusio-Ossola",
       "code": "VB",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "01",
       "countryId": "it"
     },
@@ -70,7 +70,7 @@
       "id": "007",
       "name": "Valle d'Aosta/Vallée d'Aoste",
       "code": "AO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "02",
       "countryId": "it"
     },
@@ -78,7 +78,7 @@
       "id": "012",
       "name": "Varese",
       "code": "VA",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -86,7 +86,7 @@
       "id": "013",
       "name": "Como",
       "code": "CO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -94,7 +94,7 @@
       "id": "014",
       "name": "Sondrio",
       "code": "SO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -102,7 +102,7 @@
       "id": "215",
       "name": "Milano",
       "code": "MI",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -110,7 +110,7 @@
       "id": "016",
       "name": "Bergamo",
       "code": "BG",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -118,7 +118,7 @@
       "id": "017",
       "name": "Brescia",
       "code": "BS",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -126,7 +126,7 @@
       "id": "018",
       "name": "Pavia",
       "code": "PV",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -134,7 +134,7 @@
       "id": "019",
       "name": "Cremona",
       "code": "CR",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -142,7 +142,7 @@
       "id": "020",
       "name": "Mantova",
       "code": "MN",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -150,7 +150,7 @@
       "id": "097",
       "name": "Lecco",
       "code": "LC",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -158,7 +158,7 @@
       "id": "098",
       "name": "Lodi",
       "code": "LO",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -166,7 +166,7 @@
       "id": "108",
       "name": "Monza e della Brianza",
       "code": "MB",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "03",
       "countryId": "it"
     },
@@ -174,7 +174,7 @@
       "id": "021",
       "name": "Bolzano/Bozen",
       "code": "BZ",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "04",
       "countryId": "it"
     },
@@ -182,7 +182,7 @@
       "id": "022",
       "name": "Trento",
       "code": "TN",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "04",
       "countryId": "it"
     },
@@ -190,7 +190,7 @@
       "id": "023",
       "name": "Verona",
       "code": "VR",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -198,7 +198,7 @@
       "id": "024",
       "name": "Vicenza",
       "code": "VI",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -206,7 +206,7 @@
       "id": "025",
       "name": "Belluno",
       "code": "BL",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -214,7 +214,7 @@
       "id": "026",
       "name": "Treviso",
       "code": "TV",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -222,7 +222,7 @@
       "id": "227",
       "name": "Venezia",
       "code": "VE",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -230,7 +230,7 @@
       "id": "028",
       "name": "Padova",
       "code": "PD",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -238,7 +238,7 @@
       "id": "029",
       "name": "Rovigo",
       "code": "RO",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "05",
       "countryId": "it"
     },
@@ -246,7 +246,7 @@
       "id": "030",
       "name": "Udine",
       "code": "UD",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "06",
       "countryId": "it"
     },
@@ -254,7 +254,7 @@
       "id": "031",
       "name": "Gorizia",
       "code": "GO",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "06",
       "countryId": "it"
     },
@@ -262,7 +262,7 @@
       "id": "032",
       "name": "Trieste",
       "code": "TS",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "06",
       "countryId": "it"
     },
@@ -270,7 +270,7 @@
       "id": "093",
       "name": "Pordenone",
       "code": "PN",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "06",
       "countryId": "it"
     },
@@ -278,7 +278,7 @@
       "id": "008",
       "name": "Imperia",
       "code": "IM",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "07",
       "countryId": "it"
     },
@@ -286,7 +286,7 @@
       "id": "009",
       "name": "Savona",
       "code": "SV",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "07",
       "countryId": "it"
     },
@@ -294,7 +294,7 @@
       "id": "210",
       "name": "Genova",
       "code": "GE",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "07",
       "countryId": "it"
     },
@@ -302,7 +302,7 @@
       "id": "011",
       "name": "La Spezia",
       "code": "SP",
-      "geographicRegionId": "1",
+      "countryZoneId": "1",
       "regionId": "07",
       "countryId": "it"
     },
@@ -310,7 +310,7 @@
       "id": "033",
       "name": "Piacenza",
       "code": "PC",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -318,7 +318,7 @@
       "id": "034",
       "name": "Parma",
       "code": "PR",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -326,7 +326,7 @@
       "id": "035",
       "name": "Reggio nell'Emilia",
       "code": "RE",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -334,7 +334,7 @@
       "id": "036",
       "name": "Modena",
       "code": "MO",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -342,7 +342,7 @@
       "id": "237",
       "name": "Bologna",
       "code": "BO",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -350,7 +350,7 @@
       "id": "038",
       "name": "Ferrara",
       "code": "FE",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -358,7 +358,7 @@
       "id": "039",
       "name": "Ravenna",
       "code": "RA",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -366,7 +366,7 @@
       "id": "040",
       "name": "Forlì-Cesena",
       "code": "FC",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -374,7 +374,7 @@
       "id": "099",
       "name": "Rimini",
       "code": "RN",
-      "geographicRegionId": "2",
+      "countryZoneId": "2",
       "regionId": "08",
       "countryId": "it"
     },
@@ -382,7 +382,7 @@
       "id": "045",
       "name": "Massa-Carrara",
       "code": "MS",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -390,7 +390,7 @@
       "id": "046",
       "name": "Lucca",
       "code": "LU",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -398,7 +398,7 @@
       "id": "047",
       "name": "Pistoia",
       "code": "PT",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -406,7 +406,7 @@
       "id": "248",
       "name": "Firenze",
       "code": "FI",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -414,7 +414,7 @@
       "id": "049",
       "name": "Livorno",
       "code": "LI",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -422,7 +422,7 @@
       "id": "050",
       "name": "Pisa",
       "code": "PI",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -430,7 +430,7 @@
       "id": "051",
       "name": "Arezzo",
       "code": "AR",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -438,7 +438,7 @@
       "id": "052",
       "name": "Siena",
       "code": "SI",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -446,7 +446,7 @@
       "id": "053",
       "name": "Grosseto",
       "code": "GR",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -454,7 +454,7 @@
       "id": "100",
       "name": "Prato",
       "code": "PO",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "09",
       "countryId": "it"
     },
@@ -462,7 +462,7 @@
       "id": "054",
       "name": "Perugia",
       "code": "PG",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "10",
       "countryId": "it"
     },
@@ -470,7 +470,7 @@
       "id": "055",
       "name": "Terni",
       "code": "TR",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "10",
       "countryId": "it"
     },
@@ -478,7 +478,7 @@
       "id": "041",
       "name": "Pesaro e Urbino",
       "code": "PU",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "11",
       "countryId": "it"
     },
@@ -486,7 +486,7 @@
       "id": "042",
       "name": "Ancona",
       "code": "AN",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "11",
       "countryId": "it"
     },
@@ -494,7 +494,7 @@
       "id": "043",
       "name": "Macerata",
       "code": "MC",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "11",
       "countryId": "it"
     },
@@ -502,7 +502,7 @@
       "id": "044",
       "name": "Ascoli Piceno",
       "code": "AP",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "11",
       "countryId": "it"
     },
@@ -510,7 +510,7 @@
       "id": "109",
       "name": "Fermo",
       "code": "FM",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "11",
       "countryId": "it"
     },
@@ -518,7 +518,7 @@
       "id": "056",
       "name": "Viterbo",
       "code": "VT",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "12",
       "countryId": "it"
     },
@@ -526,7 +526,7 @@
       "id": "057",
       "name": "Rieti",
       "code": "RI",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "12",
       "countryId": "it"
     },
@@ -534,7 +534,7 @@
       "id": "258",
       "name": "Roma",
       "code": "RM",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "12",
       "countryId": "it"
     },
@@ -542,7 +542,7 @@
       "id": "059",
       "name": "Latina",
       "code": "LT",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "12",
       "countryId": "it"
     },
@@ -550,7 +550,7 @@
       "id": "060",
       "name": "Frosinone",
       "code": "FR",
-      "geographicRegionId": "3",
+      "countryZoneId": "3",
       "regionId": "12",
       "countryId": "it"
     },
@@ -558,7 +558,7 @@
       "id": "066",
       "name": "L'Aquila",
       "code": "AQ",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "13",
       "countryId": "it"
     },
@@ -566,7 +566,7 @@
       "id": "067",
       "name": "Teramo",
       "code": "TE",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "13",
       "countryId": "it"
     },
@@ -574,7 +574,7 @@
       "id": "068",
       "name": "Pescara",
       "code": "PE",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "13",
       "countryId": "it"
     },
@@ -582,7 +582,7 @@
       "id": "069",
       "name": "Chieti",
       "code": "CH",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "13",
       "countryId": "it"
     },
@@ -590,7 +590,7 @@
       "id": "070",
       "name": "Campobasso",
       "code": "CB",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "14",
       "countryId": "it"
     },
@@ -598,7 +598,7 @@
       "id": "094",
       "name": "Isernia",
       "code": "IS",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "14",
       "countryId": "it"
     },
@@ -606,7 +606,7 @@
       "id": "061",
       "name": "Caserta",
       "code": "CE",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "15",
       "countryId": "it"
     },
@@ -614,7 +614,7 @@
       "id": "062",
       "name": "Benevento",
       "code": "BN",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "15",
       "countryId": "it"
     },
@@ -622,7 +622,7 @@
       "id": "263",
       "name": "Napoli",
       "code": "NA",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "15",
       "countryId": "it"
     },
@@ -630,7 +630,7 @@
       "id": "064",
       "name": "Avellino",
       "code": "AV",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "15",
       "countryId": "it"
     },
@@ -638,7 +638,7 @@
       "id": "065",
       "name": "Salerno",
       "code": "SA",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "15",
       "countryId": "it"
     },
@@ -646,7 +646,7 @@
       "id": "071",
       "name": "Foggia",
       "code": "FG",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -654,7 +654,7 @@
       "id": "272",
       "name": "Bari",
       "code": "BA",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -662,7 +662,7 @@
       "id": "073",
       "name": "Taranto",
       "code": "TA",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -670,7 +670,7 @@
       "id": "074",
       "name": "Brindisi",
       "code": "BR",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -678,7 +678,7 @@
       "id": "075",
       "name": "Lecce",
       "code": "LE",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -686,7 +686,7 @@
       "id": "110",
       "name": "Barletta-Andria-Trani",
       "code": "BT",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "16",
       "countryId": "it"
     },
@@ -694,7 +694,7 @@
       "id": "076",
       "name": "Potenza",
       "code": "PZ",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "17",
       "countryId": "it"
     },
@@ -702,7 +702,7 @@
       "id": "077",
       "name": "Matera",
       "code": "MT",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "17",
       "countryId": "it"
     },
@@ -710,7 +710,7 @@
       "id": "078",
       "name": "Cosenza",
       "code": "CS",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "18",
       "countryId": "it"
     },
@@ -718,7 +718,7 @@
       "id": "079",
       "name": "Catanzaro",
       "code": "CZ",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "18",
       "countryId": "it"
     },
@@ -726,7 +726,7 @@
       "id": "280",
       "name": "Reggio Calabria",
       "code": "RC",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "18",
       "countryId": "it"
     },
@@ -734,7 +734,7 @@
       "id": "101",
       "name": "Crotone",
       "code": "KR",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "18",
       "countryId": "it"
     },
@@ -742,7 +742,7 @@
       "id": "102",
       "name": "Vibo Valentia",
       "code": "VV",
-      "geographicRegionId": "4",
+      "countryZoneId": "4",
       "regionId": "18",
       "countryId": "it"
     },
@@ -750,7 +750,7 @@
       "id": "081",
       "name": "Trapani",
       "code": "TP",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -758,7 +758,7 @@
       "id": "282",
       "name": "Palermo",
       "code": "PA",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -766,7 +766,7 @@
       "id": "283",
       "name": "Messina",
       "code": "ME",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -774,7 +774,7 @@
       "id": "084",
       "name": "Agrigento",
       "code": "AG",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -782,7 +782,7 @@
       "id": "085",
       "name": "Caltanissetta",
       "code": "CL",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -790,7 +790,7 @@
       "id": "086",
       "name": "Enna",
       "code": "EN",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -798,7 +798,7 @@
       "id": "287",
       "name": "Catania",
       "code": "CT",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -806,7 +806,7 @@
       "id": "088",
       "name": "Ragusa",
       "code": "RG",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -814,7 +814,7 @@
       "id": "089",
       "name": "Siracusa",
       "code": "SR",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "19",
       "countryId": "it"
     },
@@ -822,7 +822,7 @@
       "id": "090",
       "name": "Sassari",
       "code": "SS",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "20",
       "countryId": "it"
     },
@@ -830,7 +830,7 @@
       "id": "091",
       "name": "Nuoro",
       "code": "NU",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "20",
       "countryId": "it"
     },
@@ -838,7 +838,7 @@
       "id": "292",
       "name": "Cagliari",
       "code": "CA",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "20",
       "countryId": "it"
     },
@@ -846,7 +846,7 @@
       "id": "095",
       "name": "Oristano",
       "code": "OR",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "20",
       "countryId": "it"
     },
@@ -854,7 +854,7 @@
       "id": "111",
       "name": "Sud Sardegna",
       "code": "SU",
-      "geographicRegionId": "5",
+      "countryZoneId": "5",
       "regionId": "20",
       "countryId": "it"
     }
