@@ -8,8 +8,8 @@
       "name": {
         "en": "German",
         "it": "Tedesco",
-        "de": "Deutsch",
         "fr": "Allemand",
+        "de": "Deutsch",
         "es": "Alemán"
       },
       "englishName": "German",
@@ -20,8 +20,8 @@
       "name": {
         "en": "English",
         "it": "Inglese",
-        "de": "Englisch",
         "fr": "Anglais",
+        "de": "Englisch",
         "es": "Inglés"
       },
       "englishName": "English",
@@ -32,8 +32,8 @@
       "name": {
         "en": "Spanish",
         "it": "Spagnolo",
-        "de": "Spanisch",
         "fr": "Espagnol",
+        "de": "Spanisch",
         "es": "Español"
       },
       "englishName": "Spanish",
@@ -44,8 +44,8 @@
       "name": {
         "en": "French",
         "it": "Francese",
-        "de": "Französisch",
         "fr": "Français",
+        "de": "Französisch",
         "es": "Frances"
       },
       "englishName": "French",
@@ -56,8 +56,8 @@
       "name": {
         "en": "Italian",
         "it": "Italiano",
-        "de": "Italienisch",
         "fr": "Italien",
+        "de": "Italienisch",
         "es": "Italiano"
       },
       "englishName": "Italian",
