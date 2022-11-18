@@ -43,6 +43,14 @@ body {
       font-size: 0.9em;
       font-weight: normal;
     }
+
+    .head {
+      &>.title {
+        display: flex;
+        align-items: center;
+        gap: 0.5em;
+      }
+    }
   }
 }
 
@@ -107,9 +115,9 @@ body {
   display: flex;
   align-items: center;
   gap: 0.5em;
+  font-size: 0.7em;
 
   &__item {
-    font-size: 0.8em;
     border-radius: 3px;
     padding: 0.2em 0.5em;
     text-transform: uppercase;
