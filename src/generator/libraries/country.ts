@@ -38,7 +38,7 @@ export const subContinent: LibraryConfig = {
       if (!subContinents.find(c => c.id === x.subContinent.id)) {
         subContinents.push({
           ...x.subContinent,
-          continentId: x.continent.id,
+          continent: x.continent.id,
         });
       }
     });
@@ -56,11 +56,9 @@ export const country: LibraryConfig = {
     const countries: IExtendedLocalizedOption[] = items.map(x => {
       const country: IExtendedLocalizedOption = {
         ...x,
-        continentId: x.continent.id,
-        subContinentId: x.subContinent.id,
+        continent: x.continent.id,
+        subContinent: x.subContinent.id,
       };
-      delete country.continent;
-      delete country.subContinent;
       return country;
     });
     // sortByName(countries);
@@ -163,7 +161,7 @@ function extendCountries(items: ILocalizedOption[]): IExtendedLocalizedOption[] 
     if (clCountry) {
       item.nativeName = clCountry.native;
       item.capitalName = clCountry.capital;
-      item.continentId = clCountry.continent.toLowerCase();
+      item.continentCode = clCountry.continent.toLowerCase();
       item.currencies = Array.isArray(clCountry.currency) ? clCountry.currency : (clCountry.currency.indexOf(',') !== -1 ? clCountry.currency.split(',') : [clCountry.currency]);
       item.languages = Array.isArray(clCountry.languages) ? clCountry.languages : [clCountry.languages];
       item.internationalPrefixes = Array.isArray(clCountry.phone) ? clCountry.phone : (clCountry.phone.indexOf(',') !== -1 ? clCountry.phone.split(',') : [clCountry.phone]);

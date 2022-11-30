@@ -17,9 +17,11 @@
       "alpha3Code": "afg",
       "countryCode": "4",
       "isoCode": "ISO 3166-2:AF",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "افغانستان",
       "capitalName": "Kabul",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "AFN"
       ],
@@ -32,8 +34,7 @@
         "93"
       ],
       "emoji": "🇦🇫",
-      "emojiU": "U+1F1E6 U+1F1EB",
-      "subContinentId": "34"
+      "emojiU": "U+1F1E6 U+1F1EB"
     },
     {
       "id": "al",
@@ -49,9 +50,11 @@
       "alpha3Code": "alb",
       "countryCode": "8",
       "isoCode": "ISO 3166-2:AL",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Shqipëria",
       "capitalName": "Tirana",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "ALL"
       ],
@@ -62,8 +65,7 @@
         "355"
       ],
       "emoji": "🇦🇱",
-      "emojiU": "U+1F1E6 U+1F1F1",
-      "subContinentId": "39"
+      "emojiU": "U+1F1E6 U+1F1F1"
     },
     {
       "id": "dz",
@@ -79,9 +81,11 @@
       "alpha3Code": "dza",
       "countryCode": "12",
       "isoCode": "ISO 3166-2:DZ",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "الجزائر",
       "capitalName": "Algiers",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "DZD"
       ],
@@ -92,8 +96,7 @@
         "213"
       ],
       "emoji": "🇩🇿",
-      "emojiU": "U+1F1E9 U+1F1FF",
-      "subContinentId": "15"
+      "emojiU": "U+1F1E9 U+1F1FF"
     },
     {
       "id": "as",
@@ -109,9 +112,11 @@
       "alpha3Code": "asm",
       "countryCode": "16",
       "isoCode": "ISO 3166-2:AS",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "American Samoa",
       "capitalName": "Pago Pago",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -123,8 +128,7 @@
         "1684"
       ],
       "emoji": "🇦🇸",
-      "emojiU": "U+1F1E6 U+1F1F8",
-      "subContinentId": "61"
+      "emojiU": "U+1F1E6 U+1F1F8"
     },
     {
       "id": "ad",
@@ -140,9 +144,11 @@
       "alpha3Code": "and",
       "countryCode": "20",
       "isoCode": "ISO 3166-2:AD",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Andorra",
       "capitalName": "Andorra la Vella",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -153,8 +159,7 @@
         "376"
       ],
       "emoji": "🇦🇩",
-      "emojiU": "U+1F1E6 U+1F1E9",
-      "subContinentId": "39"
+      "emojiU": "U+1F1E6 U+1F1E9"
     },
     {
       "id": "ao",
@@ -170,13 +175,15 @@
       "alpha3Code": "ago",
       "countryCode": "24",
       "isoCode": "ISO 3166-2:AO",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Angola",
       "capitalName": "Luanda",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "AOA"
       ],
@@ -187,8 +194,7 @@
         "244"
       ],
       "emoji": "🇦🇴",
-      "emojiU": "U+1F1E6 U+1F1F4",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E6 U+1F1F4"
     },
     {
       "id": "ai",
@@ -204,13 +210,15 @@
       "alpha3Code": "aia",
       "countryCode": "660",
       "isoCode": "ISO 3166-2:AI",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Anguilla",
       "capitalName": "The Valley",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -221,8 +229,7 @@
         "1264"
       ],
       "emoji": "🇦🇮",
-      "emojiU": "U+1F1E6 U+1F1EE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E6 U+1F1EE"
     },
     {
       "id": "aq",
@@ -238,9 +245,11 @@
       "alpha3Code": "ata",
       "countryCode": "10",
       "isoCode": "ISO 3166-2:AQ",
+      "continent": "999",
+      "subContinent": "999",
       "nativeName": "Antarctica",
       "capitalName": "",
-      "continentId": "999",
+      "continentCode": "an",
       "currencies": [
         ""
       ],
@@ -249,8 +258,7 @@
         "672"
       ],
       "emoji": "🇦🇶",
-      "emojiU": "U+1F1E6 U+1F1F6",
-      "subContinentId": "999"
+      "emojiU": "U+1F1E6 U+1F1F6"
     },
     {
       "id": "ag",
@@ -266,13 +274,15 @@
       "alpha3Code": "atg",
       "countryCode": "28",
       "isoCode": "ISO 3166-2:AG",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Antigua and Barbuda",
       "capitalName": "Saint John's",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -283,8 +293,7 @@
         "1268"
       ],
       "emoji": "🇦🇬",
-      "emojiU": "U+1F1E6 U+1F1EC",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E6 U+1F1EC"
     },
     {
       "id": "ar",
@@ -300,13 +309,15 @@
       "alpha3Code": "arg",
       "countryCode": "32",
       "isoCode": "ISO 3166-2:AR",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Argentina",
       "capitalName": "Buenos Aires",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "ARS"
       ],
@@ -318,8 +329,7 @@
         "54"
       ],
       "emoji": "🇦🇷",
-      "emojiU": "U+1F1E6 U+1F1F7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E6 U+1F1F7"
     },
     {
       "id": "am",
@@ -335,9 +345,11 @@
       "alpha3Code": "arm",
       "countryCode": "51",
       "isoCode": "ISO 3166-2:AM",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "Հայաստան",
       "capitalName": "Yerevan",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "AMD"
       ],
@@ -349,8 +361,7 @@
         "374"
       ],
       "emoji": "🇦🇲",
-      "emojiU": "U+1F1E6 U+1F1F2",
-      "subContinentId": "145"
+      "emojiU": "U+1F1E6 U+1F1F2"
     },
     {
       "id": "aw",
@@ -366,13 +377,15 @@
       "alpha3Code": "abw",
       "countryCode": "533",
       "isoCode": "ISO 3166-2:AW",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Aruba",
       "capitalName": "Oranjestad",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "AWG"
       ],
@@ -384,8 +397,7 @@
         "297"
       ],
       "emoji": "🇦🇼",
-      "emojiU": "U+1F1E6 U+1F1FC",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E6 U+1F1FC"
     },
     {
       "id": "au",
@@ -401,9 +413,11 @@
       "alpha3Code": "aus",
       "countryCode": "36",
       "isoCode": "ISO 3166-2:AU",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "Australia",
       "capitalName": "Canberra",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "AUD"
       ],
@@ -414,8 +428,7 @@
         "61"
       ],
       "emoji": "🇦🇺",
-      "emojiU": "U+1F1E6 U+1F1FA",
-      "subContinentId": "53"
+      "emojiU": "U+1F1E6 U+1F1FA"
     },
     {
       "id": "at",
@@ -431,9 +444,11 @@
       "alpha3Code": "aut",
       "countryCode": "40",
       "isoCode": "ISO 3166-2:AT",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Österreich",
       "capitalName": "Vienna",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -444,8 +459,7 @@
         "43"
       ],
       "emoji": "🇦🇹",
-      "emojiU": "U+1F1E6 U+1F1F9",
-      "subContinentId": "155"
+      "emojiU": "U+1F1E6 U+1F1F9"
     },
     {
       "id": "az",
@@ -461,9 +475,11 @@
       "alpha3Code": "aze",
       "countryCode": "31",
       "isoCode": "ISO 3166-2:AZ",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "Azərbaycan",
       "capitalName": "Baku",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "AZN"
       ],
@@ -474,8 +490,7 @@
         "994"
       ],
       "emoji": "🇦🇿",
-      "emojiU": "U+1F1E6 U+1F1FF",
-      "subContinentId": "145"
+      "emojiU": "U+1F1E6 U+1F1FF"
     },
     {
       "id": "bs",
@@ -491,13 +506,15 @@
       "alpha3Code": "bhs",
       "countryCode": "44",
       "isoCode": "ISO 3166-2:BS",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Bahamas",
       "capitalName": "Nassau",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "BSD"
       ],
@@ -508,8 +525,7 @@
         "1242"
       ],
       "emoji": "🇧🇸",
-      "emojiU": "U+1F1E7 U+1F1F8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1F8"
     },
     {
       "id": "bh",
@@ -525,9 +541,11 @@
       "alpha3Code": "bhr",
       "countryCode": "48",
       "isoCode": "ISO 3166-2:BH",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "‏البحرين",
       "capitalName": "Manama",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "BHD"
       ],
@@ -538,8 +556,7 @@
         "973"
       ],
       "emoji": "🇧🇭",
-      "emojiU": "U+1F1E7 U+1F1ED",
-      "subContinentId": "145"
+      "emojiU": "U+1F1E7 U+1F1ED"
     },
     {
       "id": "bd",
@@ -555,9 +572,11 @@
       "alpha3Code": "bgd",
       "countryCode": "50",
       "isoCode": "ISO 3166-2:BD",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "Bangladesh",
       "capitalName": "Dhaka",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "BDT"
       ],
@@ -568,8 +587,7 @@
         "880"
       ],
       "emoji": "🇧🇩",
-      "emojiU": "U+1F1E7 U+1F1E9",
-      "subContinentId": "34"
+      "emojiU": "U+1F1E7 U+1F1E9"
     },
     {
       "id": "bb",
@@ -585,13 +603,15 @@
       "alpha3Code": "brb",
       "countryCode": "52",
       "isoCode": "ISO 3166-2:BB",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Barbados",
       "capitalName": "Bridgetown",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "BBD"
       ],
@@ -602,8 +622,7 @@
         "1246"
       ],
       "emoji": "🇧🇧",
-      "emojiU": "U+1F1E7 U+1F1E7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1E7"
     },
     {
       "id": "by",
@@ -619,9 +638,11 @@
       "alpha3Code": "blr",
       "countryCode": "112",
       "isoCode": "ISO 3166-2:BY",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Белару́сь",
       "capitalName": "Minsk",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "BYN"
       ],
@@ -633,8 +654,7 @@
         "375"
       ],
       "emoji": "🇧🇾",
-      "emojiU": "U+1F1E7 U+1F1FE",
-      "subContinentId": "151"
+      "emojiU": "U+1F1E7 U+1F1FE"
     },
     {
       "id": "be",
@@ -650,9 +670,11 @@
       "alpha3Code": "bel",
       "countryCode": "56",
       "isoCode": "ISO 3166-2:BE",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "België",
       "capitalName": "Brussels",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -665,8 +687,7 @@
         "32"
       ],
       "emoji": "🇧🇪",
-      "emojiU": "U+1F1E7 U+1F1EA",
-      "subContinentId": "155"
+      "emojiU": "U+1F1E7 U+1F1EA"
     },
     {
       "id": "bz",
@@ -682,13 +703,15 @@
       "alpha3Code": "blz",
       "countryCode": "84",
       "isoCode": "ISO 3166-2:BZ",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Belize",
       "capitalName": "Belmopan",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "BZD"
       ],
@@ -700,8 +723,7 @@
         "501"
       ],
       "emoji": "🇧🇿",
-      "emojiU": "U+1F1E7 U+1F1FF",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1FF"
     },
     {
       "id": "bj",
@@ -717,13 +739,15 @@
       "alpha3Code": "ben",
       "countryCode": "204",
       "isoCode": "ISO 3166-2:BJ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Bénin",
       "capitalName": "Porto-Novo",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -734,8 +758,7 @@
         "229"
       ],
       "emoji": "🇧🇯",
-      "emojiU": "U+1F1E7 U+1F1EF",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E7 U+1F1EF"
     },
     {
       "id": "bm",
@@ -751,9 +774,11 @@
       "alpha3Code": "bmu",
       "countryCode": "60",
       "isoCode": "ISO 3166-2:BM",
+      "continent": "19",
+      "subContinent": "21",
       "nativeName": "Bermuda",
       "capitalName": "Hamilton",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "BMD"
       ],
@@ -764,8 +789,7 @@
         "1441"
       ],
       "emoji": "🇧🇲",
-      "emojiU": "U+1F1E7 U+1F1F2",
-      "subContinentId": "21"
+      "emojiU": "U+1F1E7 U+1F1F2"
     },
     {
       "id": "bt",
@@ -781,9 +805,11 @@
       "alpha3Code": "btn",
       "countryCode": "64",
       "isoCode": "ISO 3166-2:BT",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "ʼbrug-yul",
       "capitalName": "Thimphu",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "BTN",
         "INR"
@@ -795,8 +821,7 @@
         "975"
       ],
       "emoji": "🇧🇹",
-      "emojiU": "U+1F1E7 U+1F1F9",
-      "subContinentId": "34"
+      "emojiU": "U+1F1E7 U+1F1F9"
     },
     {
       "id": "bo",
@@ -812,13 +837,15 @@
       "alpha3Code": "bol",
       "countryCode": "68",
       "isoCode": "ISO 3166-2:BO",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Bolivia",
       "capitalName": "Sucre",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "BOB",
         "BOV"
@@ -832,8 +859,7 @@
         "591"
       ],
       "emoji": "🇧🇴",
-      "emojiU": "U+1F1E7 U+1F1F4",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1F4"
     },
     {
       "id": "ba",
@@ -849,9 +875,11 @@
       "alpha3Code": "bih",
       "countryCode": "70",
       "isoCode": "ISO 3166-2:BA",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Bosna i Hercegovina",
       "capitalName": "Sarajevo",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "BAM"
       ],
@@ -864,8 +892,7 @@
         "387"
       ],
       "emoji": "🇧🇦",
-      "emojiU": "U+1F1E7 U+1F1E6",
-      "subContinentId": "39"
+      "emojiU": "U+1F1E7 U+1F1E6"
     },
     {
       "id": "bw",
@@ -881,13 +908,15 @@
       "alpha3Code": "bwa",
       "countryCode": "72",
       "isoCode": "ISO 3166-2:BW",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "18",
         "name": "Southern Africa"
       },
       "nativeName": "Botswana",
       "capitalName": "Gaborone",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "BWP"
       ],
@@ -899,8 +928,7 @@
         "267"
       ],
       "emoji": "🇧🇼",
-      "emojiU": "U+1F1E7 U+1F1FC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E7 U+1F1FC"
     },
     {
       "id": "bv",
@@ -916,13 +944,15 @@
       "alpha3Code": "bvt",
       "countryCode": "74",
       "isoCode": "ISO 3166-2:BV",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Bouvetøya",
       "capitalName": "",
-      "continentId": "19",
+      "continentCode": "an",
       "currencies": [
         "NOK"
       ],
@@ -935,8 +965,7 @@
         "47"
       ],
       "emoji": "🇧🇻",
-      "emojiU": "U+1F1E7 U+1F1FB",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1FB"
     },
     {
       "id": "br",
@@ -952,13 +981,15 @@
       "alpha3Code": "bra",
       "countryCode": "76",
       "isoCode": "ISO 3166-2:BR",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Brasil",
       "capitalName": "Brasília",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "BRL"
       ],
@@ -969,8 +1000,7 @@
         "55"
       ],
       "emoji": "🇧🇷",
-      "emojiU": "U+1F1E7 U+1F1F7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1F7"
     },
     {
       "id": "io",
@@ -986,13 +1016,15 @@
       "alpha3Code": "iot",
       "countryCode": "86",
       "isoCode": "ISO 3166-2:IO",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "British Indian Ocean Territory",
       "capitalName": "Diego Garcia",
-      "continentId": "2",
+      "continentCode": "as",
       "currencies": [
         "USD"
       ],
@@ -1003,8 +1035,7 @@
         "246"
       ],
       "emoji": "🇮🇴",
-      "emojiU": "U+1F1EE U+1F1F4",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EE U+1F1F4"
     },
     {
       "id": "bn",
@@ -1020,9 +1051,11 @@
       "alpha3Code": "brn",
       "countryCode": "96",
       "isoCode": "ISO 3166-2:BN",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Negara Brunei Darussalam",
       "capitalName": "Bandar Seri Begawan",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "BND"
       ],
@@ -1033,8 +1066,7 @@
         "673"
       ],
       "emoji": "🇧🇳",
-      "emojiU": "U+1F1E7 U+1F1F3",
-      "subContinentId": "35"
+      "emojiU": "U+1F1E7 U+1F1F3"
     },
     {
       "id": "bg",
@@ -1050,9 +1082,11 @@
       "alpha3Code": "bgr",
       "countryCode": "100",
       "isoCode": "ISO 3166-2:BG",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "България",
       "capitalName": "Sofia",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "BGN"
       ],
@@ -1063,8 +1097,7 @@
         "359"
       ],
       "emoji": "🇧🇬",
-      "emojiU": "U+1F1E7 U+1F1EC",
-      "subContinentId": "151"
+      "emojiU": "U+1F1E7 U+1F1EC"
     },
     {
       "id": "bf",
@@ -1080,13 +1113,15 @@
       "alpha3Code": "bfa",
       "countryCode": "854",
       "isoCode": "ISO 3166-2:BF",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Burkina Faso",
       "capitalName": "Ouagadougou",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -1098,8 +1133,7 @@
         "226"
       ],
       "emoji": "🇧🇫",
-      "emojiU": "U+1F1E7 U+1F1EB",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E7 U+1F1EB"
     },
     {
       "id": "bi",
@@ -1115,13 +1149,15 @@
       "alpha3Code": "bdi",
       "countryCode": "108",
       "isoCode": "ISO 3166-2:BI",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Burundi",
       "capitalName": "Bujumbura",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "BIF"
       ],
@@ -1133,8 +1169,7 @@
         "257"
       ],
       "emoji": "🇧🇮",
-      "emojiU": "U+1F1E7 U+1F1EE",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E7 U+1F1EE"
     },
     {
       "id": "kh",
@@ -1150,9 +1185,11 @@
       "alpha3Code": "khm",
       "countryCode": "116",
       "isoCode": "ISO 3166-2:KH",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Kâmpŭchéa",
       "capitalName": "Phnom Penh",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KHR"
       ],
@@ -1163,8 +1200,7 @@
         "855"
       ],
       "emoji": "🇰🇭",
-      "emojiU": "U+1F1F0 U+1F1ED",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F0 U+1F1ED"
     },
     {
       "id": "cm",
@@ -1180,13 +1216,15 @@
       "alpha3Code": "cmr",
       "countryCode": "120",
       "isoCode": "ISO 3166-2:CM",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Cameroon",
       "capitalName": "Yaoundé",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -1198,8 +1236,7 @@
         "237"
       ],
       "emoji": "🇨🇲",
-      "emojiU": "U+1F1E8 U+1F1F2",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1F2"
     },
     {
       "id": "ca",
@@ -1215,9 +1252,11 @@
       "alpha3Code": "can",
       "countryCode": "124",
       "isoCode": "ISO 3166-2:CA",
+      "continent": "19",
+      "subContinent": "21",
       "nativeName": "Canada",
       "capitalName": "Ottawa",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "CAD"
       ],
@@ -1229,8 +1268,7 @@
         "1"
       ],
       "emoji": "🇨🇦",
-      "emojiU": "U+1F1E8 U+1F1E6",
-      "subContinentId": "21"
+      "emojiU": "U+1F1E8 U+1F1E6"
     },
     {
       "id": "cv",
@@ -1246,13 +1284,15 @@
       "alpha3Code": "cpv",
       "countryCode": "132",
       "isoCode": "ISO 3166-2:CV",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Cabo Verde",
       "capitalName": "Praia",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "CVE"
       ],
@@ -1263,8 +1303,7 @@
         "238"
       ],
       "emoji": "🇨🇻",
-      "emojiU": "U+1F1E8 U+1F1FB",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1FB"
     },
     {
       "id": "ky",
@@ -1280,13 +1319,15 @@
       "alpha3Code": "cym",
       "countryCode": "136",
       "isoCode": "ISO 3166-2:KY",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Cayman Islands",
       "capitalName": "George Town",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "KYD"
       ],
@@ -1297,8 +1338,7 @@
         "1345"
       ],
       "emoji": "🇰🇾",
-      "emojiU": "U+1F1F0 U+1F1FE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F0 U+1F1FE"
     },
     {
       "id": "cf",
@@ -1314,13 +1354,15 @@
       "alpha3Code": "caf",
       "countryCode": "140",
       "isoCode": "ISO 3166-2:CF",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Ködörösêse tî Bêafrîka",
       "capitalName": "Bangui",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -1332,8 +1374,7 @@
         "236"
       ],
       "emoji": "🇨🇫",
-      "emojiU": "U+1F1E8 U+1F1EB",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1EB"
     },
     {
       "id": "td",
@@ -1349,13 +1390,15 @@
       "alpha3Code": "tcd",
       "countryCode": "148",
       "isoCode": "ISO 3166-2:TD",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Tchad",
       "capitalName": "N'Djamena",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -1367,8 +1410,7 @@
         "235"
       ],
       "emoji": "🇹🇩",
-      "emojiU": "U+1F1F9 U+1F1E9",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F9 U+1F1E9"
     },
     {
       "id": "cl",
@@ -1384,13 +1426,15 @@
       "alpha3Code": "chl",
       "countryCode": "152",
       "isoCode": "ISO 3166-2:CL",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Chile",
       "capitalName": "Santiago",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "CLF",
         "CLP"
@@ -1402,8 +1446,7 @@
         "56"
       ],
       "emoji": "🇨🇱",
-      "emojiU": "U+1F1E8 U+1F1F1",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E8 U+1F1F1"
     },
     {
       "id": "cn",
@@ -1419,9 +1462,11 @@
       "alpha3Code": "chn",
       "countryCode": "156",
       "isoCode": "ISO 3166-2:CN",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "中国",
       "capitalName": "Beijing",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "CNY"
       ],
@@ -1432,8 +1477,7 @@
         "86"
       ],
       "emoji": "🇨🇳",
-      "emojiU": "U+1F1E8 U+1F1F3",
-      "subContinentId": "30"
+      "emojiU": "U+1F1E8 U+1F1F3"
     },
     {
       "id": "cx",
@@ -1449,9 +1493,11 @@
       "alpha3Code": "cxr",
       "countryCode": "162",
       "isoCode": "ISO 3166-2:CX",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "Christmas Island",
       "capitalName": "Flying Fish Cove",
-      "continentId": "9",
+      "continentCode": "as",
       "currencies": [
         "AUD"
       ],
@@ -1462,8 +1508,7 @@
         "61"
       ],
       "emoji": "🇨🇽",
-      "emojiU": "U+1F1E8 U+1F1FD",
-      "subContinentId": "53"
+      "emojiU": "U+1F1E8 U+1F1FD"
     },
     {
       "id": "cc",
@@ -1479,9 +1524,11 @@
       "alpha3Code": "cck",
       "countryCode": "166",
       "isoCode": "ISO 3166-2:CC",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "Cocos (Keeling) Islands",
       "capitalName": "West Island",
-      "continentId": "9",
+      "continentCode": "as",
       "currencies": [
         "AUD"
       ],
@@ -1492,8 +1539,7 @@
         "61"
       ],
       "emoji": "🇨🇨",
-      "emojiU": "U+1F1E8 U+1F1E8",
-      "subContinentId": "53"
+      "emojiU": "U+1F1E8 U+1F1E8"
     },
     {
       "id": "co",
@@ -1509,13 +1555,15 @@
       "alpha3Code": "col",
       "countryCode": "170",
       "isoCode": "ISO 3166-2:CO",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Colombia",
       "capitalName": "Bogotá",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "COP"
       ],
@@ -1526,8 +1574,7 @@
         "57"
       ],
       "emoji": "🇨🇴",
-      "emojiU": "U+1F1E8 U+1F1F4",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E8 U+1F1F4"
     },
     {
       "id": "km",
@@ -1543,13 +1590,15 @@
       "alpha3Code": "com",
       "countryCode": "174",
       "isoCode": "ISO 3166-2:KM",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Komori",
       "capitalName": "Moroni",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "KMF"
       ],
@@ -1561,8 +1610,7 @@
         "269"
       ],
       "emoji": "🇰🇲",
-      "emojiU": "U+1F1F0 U+1F1F2",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F0 U+1F1F2"
     },
     {
       "id": "cg",
@@ -1578,13 +1626,15 @@
       "alpha3Code": "cog",
       "countryCode": "178",
       "isoCode": "ISO 3166-2:CG",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "République du Congo",
       "capitalName": "Brazzaville",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -1596,8 +1646,7 @@
         "242"
       ],
       "emoji": "🇨🇬",
-      "emojiU": "U+1F1E8 U+1F1EC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1EC"
     },
     {
       "id": "cd",
@@ -1613,13 +1662,15 @@
       "alpha3Code": "cod",
       "countryCode": "180",
       "isoCode": "ISO 3166-2:CD",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "République démocratique du Congo",
       "capitalName": "Kinshasa",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "CDF"
       ],
@@ -1634,8 +1685,7 @@
         "243"
       ],
       "emoji": "🇨🇩",
-      "emojiU": "U+1F1E8 U+1F1E9",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1E9"
     },
     {
       "id": "ck",
@@ -1651,9 +1701,11 @@
       "alpha3Code": "cok",
       "countryCode": "184",
       "isoCode": "ISO 3166-2:CK",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Cook Islands",
       "capitalName": "Avarua",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "NZD"
       ],
@@ -1664,8 +1716,7 @@
         "682"
       ],
       "emoji": "🇨🇰",
-      "emojiU": "U+1F1E8 U+1F1F0",
-      "subContinentId": "61"
+      "emojiU": "U+1F1E8 U+1F1F0"
     },
     {
       "id": "cr",
@@ -1681,13 +1732,15 @@
       "alpha3Code": "cri",
       "countryCode": "188",
       "isoCode": "ISO 3166-2:CR",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Costa Rica",
       "capitalName": "San José",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "CRC"
       ],
@@ -1698,8 +1751,7 @@
         "506"
       ],
       "emoji": "🇨🇷",
-      "emojiU": "U+1F1E8 U+1F1F7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E8 U+1F1F7"
     },
     {
       "id": "ci",
@@ -1715,13 +1767,15 @@
       "alpha3Code": "civ",
       "countryCode": "384",
       "isoCode": "ISO 3166-2:CI",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Côte d'Ivoire",
       "capitalName": "Yamoussoukro",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -1732,8 +1786,7 @@
         "225"
       ],
       "emoji": "🇨🇮",
-      "emojiU": "U+1F1E8 U+1F1EE",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E8 U+1F1EE"
     },
     {
       "id": "hr",
@@ -1749,9 +1802,11 @@
       "alpha3Code": "hrv",
       "countryCode": "191",
       "isoCode": "ISO 3166-2:HR",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Hrvatska",
       "capitalName": "Zagreb",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "HRK"
       ],
@@ -1762,8 +1817,7 @@
         "385"
       ],
       "emoji": "🇭🇷",
-      "emojiU": "U+1F1ED U+1F1F7",
-      "subContinentId": "39"
+      "emojiU": "U+1F1ED U+1F1F7"
     },
     {
       "id": "cu",
@@ -1779,13 +1833,15 @@
       "alpha3Code": "cub",
       "countryCode": "192",
       "isoCode": "ISO 3166-2:CU",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Cuba",
       "capitalName": "Havana",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "CUC",
         "CUP"
@@ -1797,8 +1853,7 @@
         "53"
       ],
       "emoji": "🇨🇺",
-      "emojiU": "U+1F1E8 U+1F1FA",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E8 U+1F1FA"
     },
     {
       "id": "cy",
@@ -1814,9 +1869,11 @@
       "alpha3Code": "cyp",
       "countryCode": "196",
       "isoCode": "ISO 3166-2:CY",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "Κύπρος",
       "capitalName": "Nicosia",
-      "continentId": "142",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -1829,8 +1886,7 @@
         "357"
       ],
       "emoji": "🇨🇾",
-      "emojiU": "U+1F1E8 U+1F1FE",
-      "subContinentId": "145"
+      "emojiU": "U+1F1E8 U+1F1FE"
     },
     {
       "id": "cz",
@@ -1846,9 +1902,11 @@
       "alpha3Code": "cze",
       "countryCode": "203",
       "isoCode": "ISO 3166-2:CZ",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Česká republika",
       "capitalName": "Prague",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "CZK"
       ],
@@ -1860,8 +1918,7 @@
         "420"
       ],
       "emoji": "🇨🇿",
-      "emojiU": "U+1F1E8 U+1F1FF",
-      "subContinentId": "151"
+      "emojiU": "U+1F1E8 U+1F1FF"
     },
     {
       "id": "dk",
@@ -1877,9 +1934,11 @@
       "alpha3Code": "dnk",
       "countryCode": "208",
       "isoCode": "ISO 3166-2:DK",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Danmark",
       "capitalName": "Copenhagen",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "DKK"
       ],
@@ -1890,8 +1949,7 @@
         "45"
       ],
       "emoji": "🇩🇰",
-      "emojiU": "U+1F1E9 U+1F1F0",
-      "subContinentId": "154"
+      "emojiU": "U+1F1E9 U+1F1F0"
     },
     {
       "id": "dj",
@@ -1907,13 +1965,15 @@
       "alpha3Code": "dji",
       "countryCode": "262",
       "isoCode": "ISO 3166-2:DJ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Djibouti",
       "capitalName": "Djibouti",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "DJF"
       ],
@@ -1925,8 +1985,7 @@
         "253"
       ],
       "emoji": "🇩🇯",
-      "emojiU": "U+1F1E9 U+1F1EF",
-      "subContinentId": "202"
+      "emojiU": "U+1F1E9 U+1F1EF"
     },
     {
       "id": "dm",
@@ -1942,13 +2001,15 @@
       "alpha3Code": "dma",
       "countryCode": "212",
       "isoCode": "ISO 3166-2:DM",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Dominica",
       "capitalName": "Roseau",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -1959,8 +2020,7 @@
         "1767"
       ],
       "emoji": "🇩🇲",
-      "emojiU": "U+1F1E9 U+1F1F2",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E9 U+1F1F2"
     },
     {
       "id": "do",
@@ -1976,13 +2036,15 @@
       "alpha3Code": "dom",
       "countryCode": "214",
       "isoCode": "ISO 3166-2:DO",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "República Dominicana",
       "capitalName": "Santo Domingo",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "DOP"
       ],
@@ -1995,8 +2057,7 @@
         "1849"
       ],
       "emoji": "🇩🇴",
-      "emojiU": "U+1F1E9 U+1F1F4",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E9 U+1F1F4"
     },
     {
       "id": "ec",
@@ -2012,13 +2073,15 @@
       "alpha3Code": "ecu",
       "countryCode": "218",
       "isoCode": "ISO 3166-2:EC",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Ecuador",
       "capitalName": "Quito",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "USD"
       ],
@@ -2029,8 +2092,7 @@
         "593"
       ],
       "emoji": "🇪🇨",
-      "emojiU": "U+1F1EA U+1F1E8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EA U+1F1E8"
     },
     {
       "id": "eg",
@@ -2046,9 +2108,11 @@
       "alpha3Code": "egy",
       "countryCode": "818",
       "isoCode": "ISO 3166-2:EG",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "مصر‎",
       "capitalName": "Cairo",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "EGP"
       ],
@@ -2059,8 +2123,7 @@
         "20"
       ],
       "emoji": "🇪🇬",
-      "emojiU": "U+1F1EA U+1F1EC",
-      "subContinentId": "15"
+      "emojiU": "U+1F1EA U+1F1EC"
     },
     {
       "id": "sv",
@@ -2076,13 +2139,15 @@
       "alpha3Code": "slv",
       "countryCode": "222",
       "isoCode": "ISO 3166-2:SV",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "El Salvador",
       "capitalName": "San Salvador",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "SVC",
         "USD"
@@ -2094,8 +2159,7 @@
         "503"
       ],
       "emoji": "🇸🇻",
-      "emojiU": "U+1F1F8 U+1F1FB",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F8 U+1F1FB"
     },
     {
       "id": "gq",
@@ -2111,13 +2175,15 @@
       "alpha3Code": "gnq",
       "countryCode": "226",
       "isoCode": "ISO 3166-2:GQ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Guinea Ecuatorial",
       "capitalName": "Malabo",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -2129,8 +2195,7 @@
         "240"
       ],
       "emoji": "🇬🇶",
-      "emojiU": "U+1F1EC U+1F1F6",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1F6"
     },
     {
       "id": "er",
@@ -2146,13 +2211,15 @@
       "alpha3Code": "eri",
       "countryCode": "232",
       "isoCode": "ISO 3166-2:ER",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "ኤርትራ",
       "capitalName": "Asmara",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "ERN"
       ],
@@ -2165,8 +2232,7 @@
         "291"
       ],
       "emoji": "🇪🇷",
-      "emojiU": "U+1F1EA U+1F1F7",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EA U+1F1F7"
     },
     {
       "id": "ee",
@@ -2182,9 +2248,11 @@
       "alpha3Code": "est",
       "countryCode": "233",
       "isoCode": "ISO 3166-2:EE",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Eesti",
       "capitalName": "Tallinn",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -2195,8 +2263,7 @@
         "372"
       ],
       "emoji": "🇪🇪",
-      "emojiU": "U+1F1EA U+1F1EA",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EA U+1F1EA"
     },
     {
       "id": "et",
@@ -2212,13 +2279,15 @@
       "alpha3Code": "eth",
       "countryCode": "231",
       "isoCode": "ISO 3166-2:ET",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "ኢትዮጵያ",
       "capitalName": "Addis Ababa",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "ETB"
       ],
@@ -2229,8 +2298,7 @@
         "251"
       ],
       "emoji": "🇪🇹",
-      "emojiU": "U+1F1EA U+1F1F9",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EA U+1F1F9"
     },
     {
       "id": "fk",
@@ -2246,13 +2314,15 @@
       "alpha3Code": "flk",
       "countryCode": "238",
       "isoCode": "ISO 3166-2:FK",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Falkland Islands",
       "capitalName": "Stanley",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "FKP"
       ],
@@ -2263,8 +2333,7 @@
         "500"
       ],
       "emoji": "🇫🇰",
-      "emojiU": "U+1F1EB U+1F1F0",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EB U+1F1F0"
     },
     {
       "id": "fo",
@@ -2280,9 +2349,11 @@
       "alpha3Code": "fro",
       "countryCode": "234",
       "isoCode": "ISO 3166-2:FO",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Føroyar",
       "capitalName": "Tórshavn",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "DKK"
       ],
@@ -2293,8 +2364,7 @@
         "298"
       ],
       "emoji": "🇫🇴",
-      "emojiU": "U+1F1EB U+1F1F4",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EB U+1F1F4"
     },
     {
       "id": "fj",
@@ -2310,9 +2380,11 @@
       "alpha3Code": "fji",
       "countryCode": "242",
       "isoCode": "ISO 3166-2:FJ",
+      "continent": "9",
+      "subContinent": "54",
       "nativeName": "Fiji",
       "capitalName": "Suva",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "FJD"
       ],
@@ -2326,8 +2398,7 @@
         "679"
       ],
       "emoji": "🇫🇯",
-      "emojiU": "U+1F1EB U+1F1EF",
-      "subContinentId": "54"
+      "emojiU": "U+1F1EB U+1F1EF"
     },
     {
       "id": "fi",
@@ -2343,9 +2414,11 @@
       "alpha3Code": "fin",
       "countryCode": "246",
       "isoCode": "ISO 3166-2:FI",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Suomi",
       "capitalName": "Helsinki",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -2357,8 +2430,7 @@
         "358"
       ],
       "emoji": "🇫🇮",
-      "emojiU": "U+1F1EB U+1F1EE",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EB U+1F1EE"
     },
     {
       "id": "fr",
@@ -2374,9 +2446,11 @@
       "alpha3Code": "fra",
       "countryCode": "250",
       "isoCode": "ISO 3166-2:FR",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "France",
       "capitalName": "Paris",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -2387,8 +2461,7 @@
         "33"
       ],
       "emoji": "🇫🇷",
-      "emojiU": "U+1F1EB U+1F1F7",
-      "subContinentId": "155"
+      "emojiU": "U+1F1EB U+1F1F7"
     },
     {
       "id": "gf",
@@ -2404,13 +2477,15 @@
       "alpha3Code": "guf",
       "countryCode": "254",
       "isoCode": "ISO 3166-2:GF",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Guyane française",
       "capitalName": "Cayenne",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "EUR"
       ],
@@ -2421,8 +2496,7 @@
         "594"
       ],
       "emoji": "🇬🇫",
-      "emojiU": "U+1F1EC U+1F1EB",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1EB"
     },
     {
       "id": "pf",
@@ -2438,9 +2512,11 @@
       "alpha3Code": "pyf",
       "countryCode": "258",
       "isoCode": "ISO 3166-2:PF",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Polynésie française",
       "capitalName": "Papeetē",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "XPF"
       ],
@@ -2451,8 +2527,7 @@
         "689"
       ],
       "emoji": "🇵🇫",
-      "emojiU": "U+1F1F5 U+1F1EB",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F5 U+1F1EB"
     },
     {
       "id": "tf",
@@ -2468,13 +2543,15 @@
       "alpha3Code": "atf",
       "countryCode": "260",
       "isoCode": "ISO 3166-2:TF",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Territoire des Terres australes et antarctiques fr",
       "capitalName": "Port-aux-Français",
-      "continentId": "2",
+      "continentCode": "an",
       "currencies": [
         "EUR"
       ],
@@ -2485,8 +2562,7 @@
         "262"
       ],
       "emoji": "🇹🇫",
-      "emojiU": "U+1F1F9 U+1F1EB",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F9 U+1F1EB"
     },
     {
       "id": "ga",
@@ -2502,13 +2578,15 @@
       "alpha3Code": "gab",
       "countryCode": "266",
       "isoCode": "ISO 3166-2:GA",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "Gabon",
       "capitalName": "Libreville",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XAF"
       ],
@@ -2519,8 +2597,7 @@
         "241"
       ],
       "emoji": "🇬🇦",
-      "emojiU": "U+1F1EC U+1F1E6",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1E6"
     },
     {
       "id": "gm",
@@ -2536,13 +2613,15 @@
       "alpha3Code": "gmb",
       "countryCode": "270",
       "isoCode": "ISO 3166-2:GM",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Gambia",
       "capitalName": "Banjul",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "GMD"
       ],
@@ -2553,8 +2632,7 @@
         "220"
       ],
       "emoji": "🇬🇲",
-      "emojiU": "U+1F1EC U+1F1F2",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1F2"
     },
     {
       "id": "ge",
@@ -2570,9 +2648,11 @@
       "alpha3Code": "geo",
       "countryCode": "268",
       "isoCode": "ISO 3166-2:GE",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "საქართველო",
       "capitalName": "Tbilisi",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "GEL"
       ],
@@ -2583,8 +2663,7 @@
         "995"
       ],
       "emoji": "🇬🇪",
-      "emojiU": "U+1F1EC U+1F1EA",
-      "subContinentId": "145"
+      "emojiU": "U+1F1EC U+1F1EA"
     },
     {
       "id": "de",
@@ -2600,9 +2679,11 @@
       "alpha3Code": "deu",
       "countryCode": "276",
       "isoCode": "ISO 3166-2:DE",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Deutschland",
       "capitalName": "Berlin",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -2613,8 +2694,7 @@
         "49"
       ],
       "emoji": "🇩🇪",
-      "emojiU": "U+1F1E9 U+1F1EA",
-      "subContinentId": "155"
+      "emojiU": "U+1F1E9 U+1F1EA"
     },
     {
       "id": "gh",
@@ -2630,13 +2710,15 @@
       "alpha3Code": "gha",
       "countryCode": "288",
       "isoCode": "ISO 3166-2:GH",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Ghana",
       "capitalName": "Accra",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "GHS"
       ],
@@ -2647,8 +2729,7 @@
         "233"
       ],
       "emoji": "🇬🇭",
-      "emojiU": "U+1F1EC U+1F1ED",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1ED"
     },
     {
       "id": "gi",
@@ -2664,9 +2745,11 @@
       "alpha3Code": "gib",
       "countryCode": "292",
       "isoCode": "ISO 3166-2:GI",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Gibraltar",
       "capitalName": "Gibraltar",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "GIP"
       ],
@@ -2677,8 +2760,7 @@
         "350"
       ],
       "emoji": "🇬🇮",
-      "emojiU": "U+1F1EC U+1F1EE",
-      "subContinentId": "39"
+      "emojiU": "U+1F1EC U+1F1EE"
     },
     {
       "id": "gr",
@@ -2694,9 +2776,11 @@
       "alpha3Code": "grc",
       "countryCode": "300",
       "isoCode": "ISO 3166-2:GR",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Ελλάδα",
       "capitalName": "Athens",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -2707,8 +2791,7 @@
         "30"
       ],
       "emoji": "🇬🇷",
-      "emojiU": "U+1F1EC U+1F1F7",
-      "subContinentId": "39"
+      "emojiU": "U+1F1EC U+1F1F7"
     },
     {
       "id": "gl",
@@ -2724,9 +2807,11 @@
       "alpha3Code": "grl",
       "countryCode": "304",
       "isoCode": "ISO 3166-2:GL",
+      "continent": "19",
+      "subContinent": "21",
       "nativeName": "Kalaallit Nunaat",
       "capitalName": "Nuuk",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "DKK"
       ],
@@ -2737,8 +2822,7 @@
         "299"
       ],
       "emoji": "🇬🇱",
-      "emojiU": "U+1F1EC U+1F1F1",
-      "subContinentId": "21"
+      "emojiU": "U+1F1EC U+1F1F1"
     },
     {
       "id": "gd",
@@ -2754,13 +2838,15 @@
       "alpha3Code": "grd",
       "countryCode": "308",
       "isoCode": "ISO 3166-2:GD",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Grenada",
       "capitalName": "St. George's",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -2771,8 +2857,7 @@
         "1473"
       ],
       "emoji": "🇬🇩",
-      "emojiU": "U+1F1EC U+1F1E9",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1E9"
     },
     {
       "id": "gp",
@@ -2788,13 +2873,15 @@
       "alpha3Code": "glp",
       "countryCode": "312",
       "isoCode": "ISO 3166-2:GP",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Guadeloupe",
       "capitalName": "Basse-Terre",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "EUR"
       ],
@@ -2805,8 +2892,7 @@
         "590"
       ],
       "emoji": "🇬🇵",
-      "emojiU": "U+1F1EC U+1F1F5",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1F5"
     },
     {
       "id": "gu",
@@ -2822,9 +2908,11 @@
       "alpha3Code": "gum",
       "countryCode": "316",
       "isoCode": "ISO 3166-2:GU",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Guam",
       "capitalName": "Hagåtña",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -2837,8 +2925,7 @@
         "1671"
       ],
       "emoji": "🇬🇺",
-      "emojiU": "U+1F1EC U+1F1FA",
-      "subContinentId": "57"
+      "emojiU": "U+1F1EC U+1F1FA"
     },
     {
       "id": "gt",
@@ -2854,13 +2941,15 @@
       "alpha3Code": "gtm",
       "countryCode": "320",
       "isoCode": "ISO 3166-2:GT",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Guatemala",
       "capitalName": "Guatemala City",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "GTQ"
       ],
@@ -2871,8 +2960,7 @@
         "502"
       ],
       "emoji": "🇬🇹",
-      "emojiU": "U+1F1EC U+1F1F9",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1F9"
     },
     {
       "id": "gn",
@@ -2888,13 +2976,15 @@
       "alpha3Code": "gin",
       "countryCode": "324",
       "isoCode": "ISO 3166-2:GN",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Guinée",
       "capitalName": "Conakry",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "GNF"
       ],
@@ -2906,8 +2996,7 @@
         "224"
       ],
       "emoji": "🇬🇳",
-      "emojiU": "U+1F1EC U+1F1F3",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1F3"
     },
     {
       "id": "gw",
@@ -2923,13 +3012,15 @@
       "alpha3Code": "gnb",
       "countryCode": "624",
       "isoCode": "ISO 3166-2:GW",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Guiné-Bissau",
       "capitalName": "Bissau",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -2940,8 +3031,7 @@
         "245"
       ],
       "emoji": "🇬🇼",
-      "emojiU": "U+1F1EC U+1F1FC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1EC U+1F1FC"
     },
     {
       "id": "gy",
@@ -2957,13 +3047,15 @@
       "alpha3Code": "guy",
       "countryCode": "328",
       "isoCode": "ISO 3166-2:GY",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Guyana",
       "capitalName": "Georgetown",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "GYD"
       ],
@@ -2974,8 +3066,7 @@
         "592"
       ],
       "emoji": "🇬🇾",
-      "emojiU": "U+1F1EC U+1F1FE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1FE"
     },
     {
       "id": "ht",
@@ -2991,13 +3082,15 @@
       "alpha3Code": "hti",
       "countryCode": "332",
       "isoCode": "ISO 3166-2:HT",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Haïti",
       "capitalName": "Port-au-Prince",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "HTG",
         "USD"
@@ -3010,8 +3103,7 @@
         "509"
       ],
       "emoji": "🇭🇹",
-      "emojiU": "U+1F1ED U+1F1F9",
-      "subContinentId": "419"
+      "emojiU": "U+1F1ED U+1F1F9"
     },
     {
       "id": "hm",
@@ -3027,9 +3119,11 @@
       "alpha3Code": "hmd",
       "countryCode": "334",
       "isoCode": "ISO 3166-2:HM",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "Heard Island and McDonald Islands",
       "capitalName": "",
-      "continentId": "9",
+      "continentCode": "an",
       "currencies": [
         "AUD"
       ],
@@ -3040,8 +3134,7 @@
         "61"
       ],
       "emoji": "🇭🇲",
-      "emojiU": "U+1F1ED U+1F1F2",
-      "subContinentId": "53"
+      "emojiU": "U+1F1ED U+1F1F2"
     },
     {
       "id": "va",
@@ -3057,9 +3150,11 @@
       "alpha3Code": "vat",
       "countryCode": "336",
       "isoCode": "ISO 3166-2:VA",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Vaticano",
       "capitalName": "Vatican City",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -3071,8 +3166,7 @@
         "379"
       ],
       "emoji": "🇻🇦",
-      "emojiU": "U+1F1FB U+1F1E6",
-      "subContinentId": "39"
+      "emojiU": "U+1F1FB U+1F1E6"
     },
     {
       "id": "hn",
@@ -3088,13 +3182,15 @@
       "alpha3Code": "hnd",
       "countryCode": "340",
       "isoCode": "ISO 3166-2:HN",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Honduras",
       "capitalName": "Tegucigalpa",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "HNL"
       ],
@@ -3105,8 +3201,7 @@
         "504"
       ],
       "emoji": "🇭🇳",
-      "emojiU": "U+1F1ED U+1F1F3",
-      "subContinentId": "419"
+      "emojiU": "U+1F1ED U+1F1F3"
     },
     {
       "id": "hk",
@@ -3122,9 +3217,11 @@
       "alpha3Code": "hkg",
       "countryCode": "344",
       "isoCode": "ISO 3166-2:HK",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "香港",
       "capitalName": "City of Victoria",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "HKD"
       ],
@@ -3136,8 +3233,7 @@
         "852"
       ],
       "emoji": "🇭🇰",
-      "emojiU": "U+1F1ED U+1F1F0",
-      "subContinentId": "30"
+      "emojiU": "U+1F1ED U+1F1F0"
     },
     {
       "id": "hu",
@@ -3153,9 +3249,11 @@
       "alpha3Code": "hun",
       "countryCode": "348",
       "isoCode": "ISO 3166-2:HU",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Magyarország",
       "capitalName": "Budapest",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "HUF"
       ],
@@ -3166,8 +3264,7 @@
         "36"
       ],
       "emoji": "🇭🇺",
-      "emojiU": "U+1F1ED U+1F1FA",
-      "subContinentId": "151"
+      "emojiU": "U+1F1ED U+1F1FA"
     },
     {
       "id": "is",
@@ -3183,9 +3280,11 @@
       "alpha3Code": "isl",
       "countryCode": "352",
       "isoCode": "ISO 3166-2:IS",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Ísland",
       "capitalName": "Reykjavik",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "ISK"
       ],
@@ -3196,8 +3295,7 @@
         "354"
       ],
       "emoji": "🇮🇸",
-      "emojiU": "U+1F1EE U+1F1F8",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EE U+1F1F8"
     },
     {
       "id": "in",
@@ -3213,9 +3311,11 @@
       "alpha3Code": "ind",
       "countryCode": "356",
       "isoCode": "ISO 3166-2:IN",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "भारत",
       "capitalName": "New Delhi",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "INR"
       ],
@@ -3227,8 +3327,7 @@
         "91"
       ],
       "emoji": "🇮🇳",
-      "emojiU": "U+1F1EE U+1F1F3",
-      "subContinentId": "34"
+      "emojiU": "U+1F1EE U+1F1F3"
     },
     {
       "id": "id",
@@ -3244,9 +3343,11 @@
       "alpha3Code": "idn",
       "countryCode": "360",
       "isoCode": "ISO 3166-2:ID",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Indonesia",
       "capitalName": "Jakarta",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "IDR"
       ],
@@ -3257,8 +3358,7 @@
         "62"
       ],
       "emoji": "🇮🇩",
-      "emojiU": "U+1F1EE U+1F1E9",
-      "subContinentId": "35"
+      "emojiU": "U+1F1EE U+1F1E9"
     },
     {
       "id": "ir",
@@ -3274,9 +3374,11 @@
       "alpha3Code": "irn",
       "countryCode": "364",
       "isoCode": "ISO 3166-2:IR",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "ایران",
       "capitalName": "Tehran",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "IRR"
       ],
@@ -3287,8 +3389,7 @@
         "98"
       ],
       "emoji": "🇮🇷",
-      "emojiU": "U+1F1EE U+1F1F7",
-      "subContinentId": "34"
+      "emojiU": "U+1F1EE U+1F1F7"
     },
     {
       "id": "iq",
@@ -3304,9 +3405,11 @@
       "alpha3Code": "irq",
       "countryCode": "368",
       "isoCode": "ISO 3166-2:IQ",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "العراق",
       "capitalName": "Baghdad",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "IQD"
       ],
@@ -3318,8 +3421,7 @@
         "964"
       ],
       "emoji": "🇮🇶",
-      "emojiU": "U+1F1EE U+1F1F6",
-      "subContinentId": "145"
+      "emojiU": "U+1F1EE U+1F1F6"
     },
     {
       "id": "ie",
@@ -3335,9 +3437,11 @@
       "alpha3Code": "irl",
       "countryCode": "372",
       "isoCode": "ISO 3166-2:IE",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Éire",
       "capitalName": "Dublin",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -3349,8 +3453,7 @@
         "353"
       ],
       "emoji": "🇮🇪",
-      "emojiU": "U+1F1EE U+1F1EA",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EE U+1F1EA"
     },
     {
       "id": "il",
@@ -3366,9 +3469,11 @@
       "alpha3Code": "isr",
       "countryCode": "376",
       "isoCode": "ISO 3166-2:IL",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "יִשְׂרָאֵל",
       "capitalName": "Jerusalem",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "ILS"
       ],
@@ -3380,8 +3485,7 @@
         "972"
       ],
       "emoji": "🇮🇱",
-      "emojiU": "U+1F1EE U+1F1F1",
-      "subContinentId": "145"
+      "emojiU": "U+1F1EE U+1F1F1"
     },
     {
       "id": "it",
@@ -3397,9 +3501,11 @@
       "alpha3Code": "ita",
       "countryCode": "380",
       "isoCode": "ISO 3166-2:IT",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Italia",
       "capitalName": "Rome",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -3410,8 +3516,7 @@
         "39"
       ],
       "emoji": "🇮🇹",
-      "emojiU": "U+1F1EE U+1F1F9",
-      "subContinentId": "39"
+      "emojiU": "U+1F1EE U+1F1F9"
     },
     {
       "id": "jm",
@@ -3427,13 +3532,15 @@
       "alpha3Code": "jam",
       "countryCode": "388",
       "isoCode": "ISO 3166-2:JM",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Jamaica",
       "capitalName": "Kingston",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "JMD"
       ],
@@ -3444,8 +3551,7 @@
         "1876"
       ],
       "emoji": "🇯🇲",
-      "emojiU": "U+1F1EF U+1F1F2",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EF U+1F1F2"
     },
     {
       "id": "jp",
@@ -3461,9 +3567,11 @@
       "alpha3Code": "jpn",
       "countryCode": "392",
       "isoCode": "ISO 3166-2:JP",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "日本",
       "capitalName": "Tokyo",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "JPY"
       ],
@@ -3474,8 +3582,7 @@
         "81"
       ],
       "emoji": "🇯🇵",
-      "emojiU": "U+1F1EF U+1F1F5",
-      "subContinentId": "30"
+      "emojiU": "U+1F1EF U+1F1F5"
     },
     {
       "id": "jo",
@@ -3491,9 +3598,11 @@
       "alpha3Code": "jor",
       "countryCode": "400",
       "isoCode": "ISO 3166-2:JO",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "الأردن",
       "capitalName": "Amman",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "JOD"
       ],
@@ -3504,8 +3613,7 @@
         "962"
       ],
       "emoji": "🇯🇴",
-      "emojiU": "U+1F1EF U+1F1F4",
-      "subContinentId": "145"
+      "emojiU": "U+1F1EF U+1F1F4"
     },
     {
       "id": "kz",
@@ -3521,9 +3629,11 @@
       "alpha3Code": "kaz",
       "countryCode": "398",
       "isoCode": "ISO 3166-2:KZ",
+      "continent": "142",
+      "subContinent": "143",
       "nativeName": "Қазақстан",
       "capitalName": "Astana",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KZT"
       ],
@@ -3536,8 +3646,7 @@
         "77"
       ],
       "emoji": "🇰🇿",
-      "emojiU": "U+1F1F0 U+1F1FF",
-      "subContinentId": "143"
+      "emojiU": "U+1F1F0 U+1F1FF"
     },
     {
       "id": "ke",
@@ -3553,13 +3662,15 @@
       "alpha3Code": "ken",
       "countryCode": "404",
       "isoCode": "ISO 3166-2:KE",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Kenya",
       "capitalName": "Nairobi",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "KES"
       ],
@@ -3571,8 +3682,7 @@
         "254"
       ],
       "emoji": "🇰🇪",
-      "emojiU": "U+1F1F0 U+1F1EA",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F0 U+1F1EA"
     },
     {
       "id": "ki",
@@ -3588,9 +3698,11 @@
       "alpha3Code": "kir",
       "countryCode": "296",
       "isoCode": "ISO 3166-2:KI",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Kiribati",
       "capitalName": "South Tarawa",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "AUD"
       ],
@@ -3601,8 +3713,7 @@
         "686"
       ],
       "emoji": "🇰🇮",
-      "emojiU": "U+1F1F0 U+1F1EE",
-      "subContinentId": "57"
+      "emojiU": "U+1F1F0 U+1F1EE"
     },
     {
       "id": "kp",
@@ -3618,9 +3729,11 @@
       "alpha3Code": "prk",
       "countryCode": "408",
       "isoCode": "ISO 3166-2:KP",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "북한",
       "capitalName": "Pyongyang",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KPW"
       ],
@@ -3631,8 +3744,7 @@
         "850"
       ],
       "emoji": "🇰🇵",
-      "emojiU": "U+1F1F0 U+1F1F5",
-      "subContinentId": "30"
+      "emojiU": "U+1F1F0 U+1F1F5"
     },
     {
       "id": "kr",
@@ -3648,9 +3760,11 @@
       "alpha3Code": "kor",
       "countryCode": "410",
       "isoCode": "ISO 3166-2:KR",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "대한민국",
       "capitalName": "Seoul",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KRW"
       ],
@@ -3661,8 +3775,7 @@
         "82"
       ],
       "emoji": "🇰🇷",
-      "emojiU": "U+1F1F0 U+1F1F7",
-      "subContinentId": "30"
+      "emojiU": "U+1F1F0 U+1F1F7"
     },
     {
       "id": "kw",
@@ -3678,9 +3791,11 @@
       "alpha3Code": "kwt",
       "countryCode": "414",
       "isoCode": "ISO 3166-2:KW",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "الكويت",
       "capitalName": "Kuwait City",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KWD"
       ],
@@ -3691,8 +3806,7 @@
         "965"
       ],
       "emoji": "🇰🇼",
-      "emojiU": "U+1F1F0 U+1F1FC",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F0 U+1F1FC"
     },
     {
       "id": "kg",
@@ -3708,9 +3822,11 @@
       "alpha3Code": "kgz",
       "countryCode": "417",
       "isoCode": "ISO 3166-2:KG",
+      "continent": "142",
+      "subContinent": "143",
       "nativeName": "Кыргызстан",
       "capitalName": "Bishkek",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "KGS"
       ],
@@ -3722,8 +3838,7 @@
         "996"
       ],
       "emoji": "🇰🇬",
-      "emojiU": "U+1F1F0 U+1F1EC",
-      "subContinentId": "143"
+      "emojiU": "U+1F1F0 U+1F1EC"
     },
     {
       "id": "la",
@@ -3739,9 +3854,11 @@
       "alpha3Code": "lao",
       "countryCode": "418",
       "isoCode": "ISO 3166-2:LA",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "ສປປລາວ",
       "capitalName": "Vientiane",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "LAK"
       ],
@@ -3752,8 +3869,7 @@
         "856"
       ],
       "emoji": "🇱🇦",
-      "emojiU": "U+1F1F1 U+1F1E6",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F1 U+1F1E6"
     },
     {
       "id": "lv",
@@ -3769,9 +3885,11 @@
       "alpha3Code": "lva",
       "countryCode": "428",
       "isoCode": "ISO 3166-2:LV",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Latvija",
       "capitalName": "Riga",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -3782,8 +3900,7 @@
         "371"
       ],
       "emoji": "🇱🇻",
-      "emojiU": "U+1F1F1 U+1F1FB",
-      "subContinentId": "154"
+      "emojiU": "U+1F1F1 U+1F1FB"
     },
     {
       "id": "lb",
@@ -3799,9 +3916,11 @@
       "alpha3Code": "lbn",
       "countryCode": "422",
       "isoCode": "ISO 3166-2:LB",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "لبنان",
       "capitalName": "Beirut",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "LBP"
       ],
@@ -3813,8 +3932,7 @@
         "961"
       ],
       "emoji": "🇱🇧",
-      "emojiU": "U+1F1F1 U+1F1E7",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F1 U+1F1E7"
     },
     {
       "id": "ls",
@@ -3830,13 +3948,15 @@
       "alpha3Code": "lso",
       "countryCode": "426",
       "isoCode": "ISO 3166-2:LS",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "18",
         "name": "Southern Africa"
       },
       "nativeName": "Lesotho",
       "capitalName": "Maseru",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "LSL",
         "ZAR"
@@ -3849,8 +3969,7 @@
         "266"
       ],
       "emoji": "🇱🇸",
-      "emojiU": "U+1F1F1 U+1F1F8",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F1 U+1F1F8"
     },
     {
       "id": "lr",
@@ -3866,13 +3985,15 @@
       "alpha3Code": "lbr",
       "countryCode": "430",
       "isoCode": "ISO 3166-2:LR",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Liberia",
       "capitalName": "Monrovia",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "LRD"
       ],
@@ -3883,8 +4004,7 @@
         "231"
       ],
       "emoji": "🇱🇷",
-      "emojiU": "U+1F1F1 U+1F1F7",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F1 U+1F1F7"
     },
     {
       "id": "ly",
@@ -3900,9 +4020,11 @@
       "alpha3Code": "lby",
       "countryCode": "434",
       "isoCode": "ISO 3166-2:LY",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "‏ليبيا",
       "capitalName": "Tripoli",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "LYD"
       ],
@@ -3913,8 +4035,7 @@
         "218"
       ],
       "emoji": "🇱🇾",
-      "emojiU": "U+1F1F1 U+1F1FE",
-      "subContinentId": "15"
+      "emojiU": "U+1F1F1 U+1F1FE"
     },
     {
       "id": "li",
@@ -3930,9 +4051,11 @@
       "alpha3Code": "lie",
       "countryCode": "438",
       "isoCode": "ISO 3166-2:LI",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Liechtenstein",
       "capitalName": "Vaduz",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "CHF"
       ],
@@ -3943,8 +4066,7 @@
         "423"
       ],
       "emoji": "🇱🇮",
-      "emojiU": "U+1F1F1 U+1F1EE",
-      "subContinentId": "155"
+      "emojiU": "U+1F1F1 U+1F1EE"
     },
     {
       "id": "lt",
@@ -3960,9 +4082,11 @@
       "alpha3Code": "ltu",
       "countryCode": "440",
       "isoCode": "ISO 3166-2:LT",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Lietuva",
       "capitalName": "Vilnius",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -3973,8 +4097,7 @@
         "370"
       ],
       "emoji": "🇱🇹",
-      "emojiU": "U+1F1F1 U+1F1F9",
-      "subContinentId": "154"
+      "emojiU": "U+1F1F1 U+1F1F9"
     },
     {
       "id": "lu",
@@ -3990,9 +4113,11 @@
       "alpha3Code": "lux",
       "countryCode": "442",
       "isoCode": "ISO 3166-2:LU",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Luxembourg",
       "capitalName": "Luxembourg",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -4005,8 +4130,7 @@
         "352"
       ],
       "emoji": "🇱🇺",
-      "emojiU": "U+1F1F1 U+1F1FA",
-      "subContinentId": "155"
+      "emojiU": "U+1F1F1 U+1F1FA"
     },
     {
       "id": "mo",
@@ -4022,9 +4146,11 @@
       "alpha3Code": "mac",
       "countryCode": "446",
       "isoCode": "ISO 3166-2:MO",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "澳門",
       "capitalName": "",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "MOP"
       ],
@@ -4036,8 +4162,7 @@
         "853"
       ],
       "emoji": "🇲🇴",
-      "emojiU": "U+1F1F2 U+1F1F4",
-      "subContinentId": "30"
+      "emojiU": "U+1F1F2 U+1F1F4"
     },
     {
       "id": "mg",
@@ -4053,13 +4178,15 @@
       "alpha3Code": "mdg",
       "countryCode": "450",
       "isoCode": "ISO 3166-2:MG",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Madagasikara",
       "capitalName": "Antananarivo",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MGA"
       ],
@@ -4071,8 +4198,7 @@
         "261"
       ],
       "emoji": "🇲🇬",
-      "emojiU": "U+1F1F2 U+1F1EC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1EC"
     },
     {
       "id": "mw",
@@ -4088,13 +4214,15 @@
       "alpha3Code": "mwi",
       "countryCode": "454",
       "isoCode": "ISO 3166-2:MW",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Malawi",
       "capitalName": "Lilongwe",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MWK"
       ],
@@ -4106,8 +4234,7 @@
         "265"
       ],
       "emoji": "🇲🇼",
-      "emojiU": "U+1F1F2 U+1F1FC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1FC"
     },
     {
       "id": "my",
@@ -4123,9 +4250,11 @@
       "alpha3Code": "mys",
       "countryCode": "458",
       "isoCode": "ISO 3166-2:MY",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Malaysia",
       "capitalName": "Kuala Lumpur",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "MYR"
       ],
@@ -4136,8 +4265,7 @@
         "60"
       ],
       "emoji": "🇲🇾",
-      "emojiU": "U+1F1F2 U+1F1FE",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F2 U+1F1FE"
     },
     {
       "id": "mv",
@@ -4153,9 +4281,11 @@
       "alpha3Code": "mdv",
       "countryCode": "462",
       "isoCode": "ISO 3166-2:MV",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "Maldives",
       "capitalName": "Malé",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "MVR"
       ],
@@ -4166,8 +4296,7 @@
         "960"
       ],
       "emoji": "🇲🇻",
-      "emojiU": "U+1F1F2 U+1F1FB",
-      "subContinentId": "34"
+      "emojiU": "U+1F1F2 U+1F1FB"
     },
     {
       "id": "ml",
@@ -4183,13 +4312,15 @@
       "alpha3Code": "mli",
       "countryCode": "466",
       "isoCode": "ISO 3166-2:ML",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Mali",
       "capitalName": "Bamako",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -4200,8 +4331,7 @@
         "223"
       ],
       "emoji": "🇲🇱",
-      "emojiU": "U+1F1F2 U+1F1F1",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1F1"
     },
     {
       "id": "mt",
@@ -4217,9 +4347,11 @@
       "alpha3Code": "mlt",
       "countryCode": "470",
       "isoCode": "ISO 3166-2:MT",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Malta",
       "capitalName": "Valletta",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -4231,8 +4363,7 @@
         "356"
       ],
       "emoji": "🇲🇹",
-      "emojiU": "U+1F1F2 U+1F1F9",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F2 U+1F1F9"
     },
     {
       "id": "mh",
@@ -4248,9 +4379,11 @@
       "alpha3Code": "mhl",
       "countryCode": "584",
       "isoCode": "ISO 3166-2:MH",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "M̧ajeļ",
       "capitalName": "Majuro",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -4262,8 +4395,7 @@
         "692"
       ],
       "emoji": "🇲🇭",
-      "emojiU": "U+1F1F2 U+1F1ED",
-      "subContinentId": "57"
+      "emojiU": "U+1F1F2 U+1F1ED"
     },
     {
       "id": "mq",
@@ -4279,13 +4411,15 @@
       "alpha3Code": "mtq",
       "countryCode": "474",
       "isoCode": "ISO 3166-2:MQ",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Martinique",
       "capitalName": "Fort-de-France",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "EUR"
       ],
@@ -4296,8 +4430,7 @@
         "596"
       ],
       "emoji": "🇲🇶",
-      "emojiU": "U+1F1F2 U+1F1F6",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F2 U+1F1F6"
     },
     {
       "id": "mr",
@@ -4313,13 +4446,15 @@
       "alpha3Code": "mrt",
       "countryCode": "478",
       "isoCode": "ISO 3166-2:MR",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "موريتانيا",
       "capitalName": "Nouakchott",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MRU"
       ],
@@ -4330,8 +4465,7 @@
         "222"
       ],
       "emoji": "🇲🇷",
-      "emojiU": "U+1F1F2 U+1F1F7",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1F7"
     },
     {
       "id": "mu",
@@ -4347,13 +4481,15 @@
       "alpha3Code": "mus",
       "countryCode": "480",
       "isoCode": "ISO 3166-2:MU",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Maurice",
       "capitalName": "Port Louis",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MUR"
       ],
@@ -4364,8 +4500,7 @@
         "230"
       ],
       "emoji": "🇲🇺",
-      "emojiU": "U+1F1F2 U+1F1FA",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1FA"
     },
     {
       "id": "yt",
@@ -4381,13 +4516,15 @@
       "alpha3Code": "myt",
       "countryCode": "175",
       "isoCode": "ISO 3166-2:YT",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Mayotte",
       "capitalName": "Mamoudzou",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "EUR"
       ],
@@ -4398,8 +4535,7 @@
         "262"
       ],
       "emoji": "🇾🇹",
-      "emojiU": "U+1F1FE U+1F1F9",
-      "subContinentId": "202"
+      "emojiU": "U+1F1FE U+1F1F9"
     },
     {
       "id": "mx",
@@ -4415,13 +4551,15 @@
       "alpha3Code": "mex",
       "countryCode": "484",
       "isoCode": "ISO 3166-2:MX",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "México",
       "capitalName": "Mexico City",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "MXN"
       ],
@@ -4432,8 +4570,7 @@
         "52"
       ],
       "emoji": "🇲🇽",
-      "emojiU": "U+1F1F2 U+1F1FD",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F2 U+1F1FD"
     },
     {
       "id": "fm",
@@ -4449,9 +4586,11 @@
       "alpha3Code": "fsm",
       "countryCode": "583",
       "isoCode": "ISO 3166-2:FM",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Micronesia",
       "capitalName": "Palikir",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -4462,8 +4601,7 @@
         "691"
       ],
       "emoji": "🇫🇲",
-      "emojiU": "U+1F1EB U+1F1F2",
-      "subContinentId": "57"
+      "emojiU": "U+1F1EB U+1F1F2"
     },
     {
       "id": "md",
@@ -4479,9 +4617,11 @@
       "alpha3Code": "mda",
       "countryCode": "498",
       "isoCode": "ISO 3166-2:MD",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Moldova",
       "capitalName": "Chișinău",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "MDL"
       ],
@@ -4492,8 +4632,7 @@
         "373"
       ],
       "emoji": "🇲🇩",
-      "emojiU": "U+1F1F2 U+1F1E9",
-      "subContinentId": "151"
+      "emojiU": "U+1F1F2 U+1F1E9"
     },
     {
       "id": "mc",
@@ -4509,9 +4648,11 @@
       "alpha3Code": "mco",
       "countryCode": "492",
       "isoCode": "ISO 3166-2:MC",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Monaco",
       "capitalName": "Monaco",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -4522,8 +4663,7 @@
         "377"
       ],
       "emoji": "🇲🇨",
-      "emojiU": "U+1F1F2 U+1F1E8",
-      "subContinentId": "155"
+      "emojiU": "U+1F1F2 U+1F1E8"
     },
     {
       "id": "mn",
@@ -4539,9 +4679,11 @@
       "alpha3Code": "mng",
       "countryCode": "496",
       "isoCode": "ISO 3166-2:MN",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "Монгол улс",
       "capitalName": "Ulan Bator",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "MNT"
       ],
@@ -4552,8 +4694,7 @@
         "976"
       ],
       "emoji": "🇲🇳",
-      "emojiU": "U+1F1F2 U+1F1F3",
-      "subContinentId": "30"
+      "emojiU": "U+1F1F2 U+1F1F3"
     },
     {
       "id": "ms",
@@ -4569,13 +4710,15 @@
       "alpha3Code": "msr",
       "countryCode": "500",
       "isoCode": "ISO 3166-2:MS",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Montserrat",
       "capitalName": "Plymouth",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -4586,8 +4729,7 @@
         "1664"
       ],
       "emoji": "🇲🇸",
-      "emojiU": "U+1F1F2 U+1F1F8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F2 U+1F1F8"
     },
     {
       "id": "ma",
@@ -4603,9 +4745,11 @@
       "alpha3Code": "mar",
       "countryCode": "504",
       "isoCode": "ISO 3166-2:MA",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "المغرب",
       "capitalName": "Rabat",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MAD"
       ],
@@ -4616,8 +4760,7 @@
         "212"
       ],
       "emoji": "🇲🇦",
-      "emojiU": "U+1F1F2 U+1F1E6",
-      "subContinentId": "15"
+      "emojiU": "U+1F1F2 U+1F1E6"
     },
     {
       "id": "mz",
@@ -4633,13 +4776,15 @@
       "alpha3Code": "moz",
       "countryCode": "508",
       "isoCode": "ISO 3166-2:MZ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Moçambique",
       "capitalName": "Maputo",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MZN"
       ],
@@ -4650,8 +4795,7 @@
         "258"
       ],
       "emoji": "🇲🇿",
-      "emojiU": "U+1F1F2 U+1F1FF",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F2 U+1F1FF"
     },
     {
       "id": "mm",
@@ -4667,9 +4811,11 @@
       "alpha3Code": "mmr",
       "countryCode": "104",
       "isoCode": "ISO 3166-2:MM",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "မြန်မာ",
       "capitalName": "Naypyidaw",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "MMK"
       ],
@@ -4680,8 +4826,7 @@
         "95"
       ],
       "emoji": "🇲🇲",
-      "emojiU": "U+1F1F2 U+1F1F2",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F2 U+1F1F2"
     },
     {
       "id": "na",
@@ -4697,13 +4842,15 @@
       "alpha3Code": "nam",
       "countryCode": "516",
       "isoCode": "ISO 3166-2:NA",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "18",
         "name": "Southern Africa"
       },
       "nativeName": "Namibia",
       "capitalName": "Windhoek",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "NAD",
         "ZAR"
@@ -4716,8 +4863,7 @@
         "264"
       ],
       "emoji": "🇳🇦",
-      "emojiU": "U+1F1F3 U+1F1E6",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F3 U+1F1E6"
     },
     {
       "id": "nr",
@@ -4733,9 +4879,11 @@
       "alpha3Code": "nru",
       "countryCode": "520",
       "isoCode": "ISO 3166-2:NR",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Nauru",
       "capitalName": "Yaren",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "AUD"
       ],
@@ -4747,8 +4895,7 @@
         "674"
       ],
       "emoji": "🇳🇷",
-      "emojiU": "U+1F1F3 U+1F1F7",
-      "subContinentId": "57"
+      "emojiU": "U+1F1F3 U+1F1F7"
     },
     {
       "id": "np",
@@ -4764,9 +4911,11 @@
       "alpha3Code": "npl",
       "countryCode": "524",
       "isoCode": "ISO 3166-2:NP",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "नपल",
       "capitalName": "Kathmandu",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "NPR"
       ],
@@ -4777,8 +4926,7 @@
         "977"
       ],
       "emoji": "🇳🇵",
-      "emojiU": "U+1F1F3 U+1F1F5",
-      "subContinentId": "34"
+      "emojiU": "U+1F1F3 U+1F1F5"
     },
     {
       "id": "nl",
@@ -4794,9 +4942,11 @@
       "alpha3Code": "nld",
       "countryCode": "528",
       "isoCode": "ISO 3166-2:NL",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Nederland",
       "capitalName": "Amsterdam",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -4807,8 +4957,7 @@
         "31"
       ],
       "emoji": "🇳🇱",
-      "emojiU": "U+1F1F3 U+1F1F1",
-      "subContinentId": "155"
+      "emojiU": "U+1F1F3 U+1F1F1"
     },
     {
       "id": "nc",
@@ -4824,9 +4973,11 @@
       "alpha3Code": "ncl",
       "countryCode": "540",
       "isoCode": "ISO 3166-2:NC",
+      "continent": "9",
+      "subContinent": "54",
       "nativeName": "Nouvelle-Calédonie",
       "capitalName": "Nouméa",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "XPF"
       ],
@@ -4837,8 +4988,7 @@
         "687"
       ],
       "emoji": "🇳🇨",
-      "emojiU": "U+1F1F3 U+1F1E8",
-      "subContinentId": "54"
+      "emojiU": "U+1F1F3 U+1F1E8"
     },
     {
       "id": "nz",
@@ -4854,9 +5004,11 @@
       "alpha3Code": "nzl",
       "countryCode": "554",
       "isoCode": "ISO 3166-2:NZ",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "New Zealand",
       "capitalName": "Wellington",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "NZD"
       ],
@@ -4868,8 +5020,7 @@
         "64"
       ],
       "emoji": "🇳🇿",
-      "emojiU": "U+1F1F3 U+1F1FF",
-      "subContinentId": "53"
+      "emojiU": "U+1F1F3 U+1F1FF"
     },
     {
       "id": "ni",
@@ -4885,13 +5036,15 @@
       "alpha3Code": "nic",
       "countryCode": "558",
       "isoCode": "ISO 3166-2:NI",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Nicaragua",
       "capitalName": "Managua",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "NIO"
       ],
@@ -4902,8 +5055,7 @@
         "505"
       ],
       "emoji": "🇳🇮",
-      "emojiU": "U+1F1F3 U+1F1EE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F3 U+1F1EE"
     },
     {
       "id": "ne",
@@ -4919,13 +5071,15 @@
       "alpha3Code": "ner",
       "countryCode": "562",
       "isoCode": "ISO 3166-2:NE",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Niger",
       "capitalName": "Niamey",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -4936,8 +5090,7 @@
         "227"
       ],
       "emoji": "🇳🇪",
-      "emojiU": "U+1F1F3 U+1F1EA",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F3 U+1F1EA"
     },
     {
       "id": "ng",
@@ -4953,13 +5106,15 @@
       "alpha3Code": "nga",
       "countryCode": "566",
       "isoCode": "ISO 3166-2:NG",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Nigeria",
       "capitalName": "Abuja",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "NGN"
       ],
@@ -4970,8 +5125,7 @@
         "234"
       ],
       "emoji": "🇳🇬",
-      "emojiU": "U+1F1F3 U+1F1EC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F3 U+1F1EC"
     },
     {
       "id": "nu",
@@ -4987,9 +5141,11 @@
       "alpha3Code": "niu",
       "countryCode": "570",
       "isoCode": "ISO 3166-2:NU",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Niuē",
       "capitalName": "Alofi",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "NZD"
       ],
@@ -5000,8 +5156,7 @@
         "683"
       ],
       "emoji": "🇳🇺",
-      "emojiU": "U+1F1F3 U+1F1FA",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F3 U+1F1FA"
     },
     {
       "id": "nf",
@@ -5017,9 +5172,11 @@
       "alpha3Code": "nfk",
       "countryCode": "574",
       "isoCode": "ISO 3166-2:NF",
+      "continent": "9",
+      "subContinent": "53",
       "nativeName": "Norfolk Island",
       "capitalName": "Kingston",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "AUD"
       ],
@@ -5030,8 +5187,7 @@
         "672"
       ],
       "emoji": "🇳🇫",
-      "emojiU": "U+1F1F3 U+1F1EB",
-      "subContinentId": "53"
+      "emojiU": "U+1F1F3 U+1F1EB"
     },
     {
       "id": "mk",
@@ -5047,9 +5203,11 @@
       "alpha3Code": "mkd",
       "countryCode": "807",
       "isoCode": "ISO 3166-2:MK",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Северна Македонија",
       "capitalName": "Skopje",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "MKD"
       ],
@@ -5060,8 +5218,7 @@
         "389"
       ],
       "emoji": "🇲🇰",
-      "emojiU": "U+1F1F2 U+1F1F0",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F2 U+1F1F0"
     },
     {
       "id": "mp",
@@ -5077,9 +5234,11 @@
       "alpha3Code": "mnp",
       "countryCode": "580",
       "isoCode": "ISO 3166-2:MP",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Northern Mariana Islands",
       "capitalName": "Saipan",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -5091,8 +5250,7 @@
         "1670"
       ],
       "emoji": "🇲🇵",
-      "emojiU": "U+1F1F2 U+1F1F5",
-      "subContinentId": "57"
+      "emojiU": "U+1F1F2 U+1F1F5"
     },
     {
       "id": "no",
@@ -5108,9 +5266,11 @@
       "alpha3Code": "nor",
       "countryCode": "578",
       "isoCode": "ISO 3166-2:NO",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Norge",
       "capitalName": "Oslo",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "NOK"
       ],
@@ -5123,8 +5283,7 @@
         "47"
       ],
       "emoji": "🇳🇴",
-      "emojiU": "U+1F1F3 U+1F1F4",
-      "subContinentId": "154"
+      "emojiU": "U+1F1F3 U+1F1F4"
     },
     {
       "id": "om",
@@ -5140,9 +5299,11 @@
       "alpha3Code": "omn",
       "countryCode": "512",
       "isoCode": "ISO 3166-2:OM",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "عمان",
       "capitalName": "Muscat",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "OMR"
       ],
@@ -5153,8 +5314,7 @@
         "968"
       ],
       "emoji": "🇴🇲",
-      "emojiU": "U+1F1F4 U+1F1F2",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F4 U+1F1F2"
     },
     {
       "id": "pk",
@@ -5170,9 +5330,11 @@
       "alpha3Code": "pak",
       "countryCode": "586",
       "isoCode": "ISO 3166-2:PK",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "Pakistan",
       "capitalName": "Islamabad",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "PKR"
       ],
@@ -5184,8 +5346,7 @@
         "92"
       ],
       "emoji": "🇵🇰",
-      "emojiU": "U+1F1F5 U+1F1F0",
-      "subContinentId": "34"
+      "emojiU": "U+1F1F5 U+1F1F0"
     },
     {
       "id": "pw",
@@ -5201,9 +5362,11 @@
       "alpha3Code": "plw",
       "countryCode": "585",
       "isoCode": "ISO 3166-2:PW",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "Palau",
       "capitalName": "Ngerulmud",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -5214,8 +5377,7 @@
         "680"
       ],
       "emoji": "🇵🇼",
-      "emojiU": "U+1F1F5 U+1F1FC",
-      "subContinentId": "57"
+      "emojiU": "U+1F1F5 U+1F1FC"
     },
     {
       "id": "ps",
@@ -5231,9 +5393,11 @@
       "alpha3Code": "pse",
       "countryCode": "275",
       "isoCode": "ISO 3166-2:PS",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "فلسطين",
       "capitalName": "Ramallah",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "ILS"
       ],
@@ -5244,8 +5408,7 @@
         "970"
       ],
       "emoji": "🇵🇸",
-      "emojiU": "U+1F1F5 U+1F1F8",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F5 U+1F1F8"
     },
     {
       "id": "pa",
@@ -5261,13 +5424,15 @@
       "alpha3Code": "pan",
       "countryCode": "591",
       "isoCode": "ISO 3166-2:PA",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "13",
         "name": "Central America"
       },
       "nativeName": "Panamá",
       "capitalName": "Panama City",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "PAB",
         "USD"
@@ -5279,8 +5444,7 @@
         "507"
       ],
       "emoji": "🇵🇦",
-      "emojiU": "U+1F1F5 U+1F1E6",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F5 U+1F1E6"
     },
     {
       "id": "pg",
@@ -5296,9 +5460,11 @@
       "alpha3Code": "png",
       "countryCode": "598",
       "isoCode": "ISO 3166-2:PG",
+      "continent": "9",
+      "subContinent": "54",
       "nativeName": "Papua Niugini",
       "capitalName": "Port Moresby",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "PGK"
       ],
@@ -5309,8 +5475,7 @@
         "675"
       ],
       "emoji": "🇵🇬",
-      "emojiU": "U+1F1F5 U+1F1EC",
-      "subContinentId": "54"
+      "emojiU": "U+1F1F5 U+1F1EC"
     },
     {
       "id": "py",
@@ -5326,13 +5491,15 @@
       "alpha3Code": "pry",
       "countryCode": "600",
       "isoCode": "ISO 3166-2:PY",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Paraguay",
       "capitalName": "Asunción",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "PYG"
       ],
@@ -5344,8 +5511,7 @@
         "595"
       ],
       "emoji": "🇵🇾",
-      "emojiU": "U+1F1F5 U+1F1FE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F5 U+1F1FE"
     },
     {
       "id": "pe",
@@ -5361,13 +5527,15 @@
       "alpha3Code": "per",
       "countryCode": "604",
       "isoCode": "ISO 3166-2:PE",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Perú",
       "capitalName": "Lima",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "PEN"
       ],
@@ -5378,8 +5546,7 @@
         "51"
       ],
       "emoji": "🇵🇪",
-      "emojiU": "U+1F1F5 U+1F1EA",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F5 U+1F1EA"
     },
     {
       "id": "ph",
@@ -5395,9 +5562,11 @@
       "alpha3Code": "phl",
       "countryCode": "608",
       "isoCode": "ISO 3166-2:PH",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Pilipinas",
       "capitalName": "Manila",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "PHP"
       ],
@@ -5408,8 +5577,7 @@
         "63"
       ],
       "emoji": "🇵🇭",
-      "emojiU": "U+1F1F5 U+1F1ED",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F5 U+1F1ED"
     },
     {
       "id": "pn",
@@ -5425,9 +5593,11 @@
       "alpha3Code": "pcn",
       "countryCode": "612",
       "isoCode": "ISO 3166-2:PN",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Pitcairn Islands",
       "capitalName": "Adamstown",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "NZD"
       ],
@@ -5438,8 +5608,7 @@
         "64"
       ],
       "emoji": "🇵🇳",
-      "emojiU": "U+1F1F5 U+1F1F3",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F5 U+1F1F3"
     },
     {
       "id": "pl",
@@ -5455,9 +5624,11 @@
       "alpha3Code": "pol",
       "countryCode": "616",
       "isoCode": "ISO 3166-2:PL",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Polska",
       "capitalName": "Warsaw",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "PLN"
       ],
@@ -5468,8 +5639,7 @@
         "48"
       ],
       "emoji": "🇵🇱",
-      "emojiU": "U+1F1F5 U+1F1F1",
-      "subContinentId": "151"
+      "emojiU": "U+1F1F5 U+1F1F1"
     },
     {
       "id": "pt",
@@ -5485,9 +5655,11 @@
       "alpha3Code": "prt",
       "countryCode": "620",
       "isoCode": "ISO 3166-2:PT",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Portugal",
       "capitalName": "Lisbon",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -5498,8 +5670,7 @@
         "351"
       ],
       "emoji": "🇵🇹",
-      "emojiU": "U+1F1F5 U+1F1F9",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F5 U+1F1F9"
     },
     {
       "id": "pr",
@@ -5515,13 +5686,15 @@
       "alpha3Code": "pri",
       "countryCode": "630",
       "isoCode": "ISO 3166-2:PR",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Puerto Rico",
       "capitalName": "San Juan",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD"
       ],
@@ -5534,8 +5707,7 @@
         "1939"
       ],
       "emoji": "🇵🇷",
-      "emojiU": "U+1F1F5 U+1F1F7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F5 U+1F1F7"
     },
     {
       "id": "qa",
@@ -5551,9 +5723,11 @@
       "alpha3Code": "qat",
       "countryCode": "634",
       "isoCode": "ISO 3166-2:QA",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "قطر",
       "capitalName": "Doha",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "QAR"
       ],
@@ -5564,8 +5738,7 @@
         "974"
       ],
       "emoji": "🇶🇦",
-      "emojiU": "U+1F1F6 U+1F1E6",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F6 U+1F1E6"
     },
     {
       "id": "re",
@@ -5581,13 +5754,15 @@
       "alpha3Code": "reu",
       "countryCode": "638",
       "isoCode": "ISO 3166-2:RE",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "La Réunion",
       "capitalName": "Saint-Denis",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "EUR"
       ],
@@ -5598,8 +5773,7 @@
         "262"
       ],
       "emoji": "🇷🇪",
-      "emojiU": "U+1F1F7 U+1F1EA",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F7 U+1F1EA"
     },
     {
       "id": "ro",
@@ -5615,9 +5789,11 @@
       "alpha3Code": "rou",
       "countryCode": "642",
       "isoCode": "ISO 3166-2:RO",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "România",
       "capitalName": "Bucharest",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "RON"
       ],
@@ -5628,8 +5804,7 @@
         "40"
       ],
       "emoji": "🇷🇴",
-      "emojiU": "U+1F1F7 U+1F1F4",
-      "subContinentId": "151"
+      "emojiU": "U+1F1F7 U+1F1F4"
     },
     {
       "id": "ru",
@@ -5645,9 +5820,11 @@
       "alpha3Code": "rus",
       "countryCode": "643",
       "isoCode": "ISO 3166-2:RU",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Россия",
       "capitalName": "Moscow",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "RUB"
       ],
@@ -5658,8 +5835,7 @@
         "7"
       ],
       "emoji": "🇷🇺",
-      "emojiU": "U+1F1F7 U+1F1FA",
-      "subContinentId": "151"
+      "emojiU": "U+1F1F7 U+1F1FA"
     },
     {
       "id": "rw",
@@ -5675,13 +5851,15 @@
       "alpha3Code": "rwa",
       "countryCode": "646",
       "isoCode": "ISO 3166-2:RW",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Rwanda",
       "capitalName": "Kigali",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "RWF"
       ],
@@ -5694,8 +5872,7 @@
         "250"
       ],
       "emoji": "🇷🇼",
-      "emojiU": "U+1F1F7 U+1F1FC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F7 U+1F1FC"
     },
     {
       "id": "sh",
@@ -5711,13 +5888,15 @@
       "alpha3Code": "shn",
       "countryCode": "654",
       "isoCode": "ISO 3166-2:SH",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Saint Helena",
       "capitalName": "Jamestown",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SHP"
       ],
@@ -5728,8 +5907,7 @@
         "290"
       ],
       "emoji": "🇸🇭",
-      "emojiU": "U+1F1F8 U+1F1ED",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1ED"
     },
     {
       "id": "kn",
@@ -5745,13 +5923,15 @@
       "alpha3Code": "kna",
       "countryCode": "659",
       "isoCode": "ISO 3166-2:KN",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Saint Kitts and Nevis",
       "capitalName": "Basseterre",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -5762,8 +5942,7 @@
         "1869"
       ],
       "emoji": "🇰🇳",
-      "emojiU": "U+1F1F0 U+1F1F3",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F0 U+1F1F3"
     },
     {
       "id": "lc",
@@ -5779,13 +5958,15 @@
       "alpha3Code": "lca",
       "countryCode": "662",
       "isoCode": "ISO 3166-2:LC",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Saint Lucia",
       "capitalName": "Castries",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -5796,8 +5977,7 @@
         "1758"
       ],
       "emoji": "🇱🇨",
-      "emojiU": "U+1F1F1 U+1F1E8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F1 U+1F1E8"
     },
     {
       "id": "pm",
@@ -5813,9 +5993,11 @@
       "alpha3Code": "spm",
       "countryCode": "666",
       "isoCode": "ISO 3166-2:PM",
+      "continent": "19",
+      "subContinent": "21",
       "nativeName": "Saint-Pierre-et-Miquelon",
       "capitalName": "Saint-Pierre",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "EUR"
       ],
@@ -5826,8 +6008,7 @@
         "508"
       ],
       "emoji": "🇵🇲",
-      "emojiU": "U+1F1F5 U+1F1F2",
-      "subContinentId": "21"
+      "emojiU": "U+1F1F5 U+1F1F2"
     },
     {
       "id": "vc",
@@ -5843,13 +6024,15 @@
       "alpha3Code": "vct",
       "countryCode": "670",
       "isoCode": "ISO 3166-2:VC",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Saint Vincent and the Grenadines",
       "capitalName": "Kingstown",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "XCD"
       ],
@@ -5860,8 +6043,7 @@
         "1784"
       ],
       "emoji": "🇻🇨",
-      "emojiU": "U+1F1FB U+1F1E8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1FB U+1F1E8"
     },
     {
       "id": "ws",
@@ -5877,9 +6059,11 @@
       "alpha3Code": "wsm",
       "countryCode": "882",
       "isoCode": "ISO 3166-2:WS",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Samoa",
       "capitalName": "Apia",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "WST"
       ],
@@ -5891,8 +6075,7 @@
         "685"
       ],
       "emoji": "🇼🇸",
-      "emojiU": "U+1F1FC U+1F1F8",
-      "subContinentId": "61"
+      "emojiU": "U+1F1FC U+1F1F8"
     },
     {
       "id": "sm",
@@ -5908,9 +6091,11 @@
       "alpha3Code": "smr",
       "countryCode": "674",
       "isoCode": "ISO 3166-2:SM",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "San Marino",
       "capitalName": "City of San Marino",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -5921,8 +6106,7 @@
         "378"
       ],
       "emoji": "🇸🇲",
-      "emojiU": "U+1F1F8 U+1F1F2",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F8 U+1F1F2"
     },
     {
       "id": "st",
@@ -5938,13 +6122,15 @@
       "alpha3Code": "stp",
       "countryCode": "678",
       "isoCode": "ISO 3166-2:ST",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "17",
         "name": "Middle Africa"
       },
       "nativeName": "São Tomé e Príncipe",
       "capitalName": "São Tomé",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "STN"
       ],
@@ -5955,8 +6141,7 @@
         "239"
       ],
       "emoji": "🇸🇹",
-      "emojiU": "U+1F1F8 U+1F1F9",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1F9"
     },
     {
       "id": "sa",
@@ -5972,9 +6157,11 @@
       "alpha3Code": "sau",
       "countryCode": "682",
       "isoCode": "ISO 3166-2:SA",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "العربية السعودية",
       "capitalName": "Riyadh",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "SAR"
       ],
@@ -5985,8 +6172,7 @@
         "966"
       ],
       "emoji": "🇸🇦",
-      "emojiU": "U+1F1F8 U+1F1E6",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F8 U+1F1E6"
     },
     {
       "id": "sn",
@@ -6002,13 +6188,15 @@
       "alpha3Code": "sen",
       "countryCode": "686",
       "isoCode": "ISO 3166-2:SN",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Sénégal",
       "capitalName": "Dakar",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -6019,8 +6207,7 @@
         "221"
       ],
       "emoji": "🇸🇳",
-      "emojiU": "U+1F1F8 U+1F1F3",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1F3"
     },
     {
       "id": "sc",
@@ -6036,13 +6223,15 @@
       "alpha3Code": "syc",
       "countryCode": "690",
       "isoCode": "ISO 3166-2:SC",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Seychelles",
       "capitalName": "Victoria",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SCR"
       ],
@@ -6054,8 +6243,7 @@
         "248"
       ],
       "emoji": "🇸🇨",
-      "emojiU": "U+1F1F8 U+1F1E8",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1E8"
     },
     {
       "id": "sl",
@@ -6071,13 +6259,15 @@
       "alpha3Code": "sle",
       "countryCode": "694",
       "isoCode": "ISO 3166-2:SL",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Sierra Leone",
       "capitalName": "Freetown",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SLL"
       ],
@@ -6088,8 +6278,7 @@
         "232"
       ],
       "emoji": "🇸🇱",
-      "emojiU": "U+1F1F8 U+1F1F1",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1F1"
     },
     {
       "id": "sg",
@@ -6105,9 +6294,11 @@
       "alpha3Code": "sgp",
       "countryCode": "702",
       "isoCode": "ISO 3166-2:SG",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Singapore",
       "capitalName": "Singapore",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "SGD"
       ],
@@ -6121,8 +6312,7 @@
         "65"
       ],
       "emoji": "🇸🇬",
-      "emojiU": "U+1F1F8 U+1F1EC",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F8 U+1F1EC"
     },
     {
       "id": "sk",
@@ -6138,9 +6328,11 @@
       "alpha3Code": "svk",
       "countryCode": "703",
       "isoCode": "ISO 3166-2:SK",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Slovensko",
       "capitalName": "Bratislava",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -6151,8 +6343,7 @@
         "421"
       ],
       "emoji": "🇸🇰",
-      "emojiU": "U+1F1F8 U+1F1F0",
-      "subContinentId": "151"
+      "emojiU": "U+1F1F8 U+1F1F0"
     },
     {
       "id": "si",
@@ -6168,9 +6359,11 @@
       "alpha3Code": "svn",
       "countryCode": "705",
       "isoCode": "ISO 3166-2:SI",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Slovenija",
       "capitalName": "Ljubljana",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -6181,8 +6374,7 @@
         "386"
       ],
       "emoji": "🇸🇮",
-      "emojiU": "U+1F1F8 U+1F1EE",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F8 U+1F1EE"
     },
     {
       "id": "sb",
@@ -6198,9 +6390,11 @@
       "alpha3Code": "slb",
       "countryCode": "90",
       "isoCode": "ISO 3166-2:SB",
+      "continent": "9",
+      "subContinent": "54",
       "nativeName": "Solomon Islands",
       "capitalName": "Honiara",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "SBD"
       ],
@@ -6211,8 +6405,7 @@
         "677"
       ],
       "emoji": "🇸🇧",
-      "emojiU": "U+1F1F8 U+1F1E7",
-      "subContinentId": "54"
+      "emojiU": "U+1F1F8 U+1F1E7"
     },
     {
       "id": "so",
@@ -6228,13 +6421,15 @@
       "alpha3Code": "som",
       "countryCode": "706",
       "isoCode": "ISO 3166-2:SO",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Soomaaliya",
       "capitalName": "Mogadishu",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SOS"
       ],
@@ -6246,8 +6441,7 @@
         "252"
       ],
       "emoji": "🇸🇴",
-      "emojiU": "U+1F1F8 U+1F1F4",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1F4"
     },
     {
       "id": "za",
@@ -6263,13 +6457,15 @@
       "alpha3Code": "zaf",
       "countryCode": "710",
       "isoCode": "ISO 3166-2:ZA",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "18",
         "name": "Southern Africa"
       },
       "nativeName": "South Africa",
       "capitalName": "Pretoria",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "ZAR"
       ],
@@ -6289,8 +6485,7 @@
         "27"
       ],
       "emoji": "🇿🇦",
-      "emojiU": "U+1F1FF U+1F1E6",
-      "subContinentId": "202"
+      "emojiU": "U+1F1FF U+1F1E6"
     },
     {
       "id": "gs",
@@ -6306,13 +6501,15 @@
       "alpha3Code": "sgs",
       "countryCode": "239",
       "isoCode": "ISO 3166-2:GS",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "South Georgia",
       "capitalName": "King Edward Point",
-      "continentId": "19",
+      "continentCode": "an",
       "currencies": [
         "GBP"
       ],
@@ -6323,8 +6520,7 @@
         "500"
       ],
       "emoji": "🇬🇸",
-      "emojiU": "U+1F1EC U+1F1F8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1EC U+1F1F8"
     },
     {
       "id": "es",
@@ -6340,9 +6536,11 @@
       "alpha3Code": "esp",
       "countryCode": "724",
       "isoCode": "ISO 3166-2:ES",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "España",
       "capitalName": "Madrid",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -6357,8 +6555,7 @@
         "34"
       ],
       "emoji": "🇪🇸",
-      "emojiU": "U+1F1EA U+1F1F8",
-      "subContinentId": "39"
+      "emojiU": "U+1F1EA U+1F1F8"
     },
     {
       "id": "lk",
@@ -6374,9 +6571,11 @@
       "alpha3Code": "lka",
       "countryCode": "144",
       "isoCode": "ISO 3166-2:LK",
+      "continent": "142",
+      "subContinent": "34",
       "nativeName": "śrī laṃkāva",
       "capitalName": "Colombo",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "LKR"
       ],
@@ -6388,8 +6587,7 @@
         "94"
       ],
       "emoji": "🇱🇰",
-      "emojiU": "U+1F1F1 U+1F1F0",
-      "subContinentId": "34"
+      "emojiU": "U+1F1F1 U+1F1F0"
     },
     {
       "id": "sd",
@@ -6405,9 +6603,11 @@
       "alpha3Code": "sdn",
       "countryCode": "729",
       "isoCode": "ISO 3166-2:SD",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "السودان",
       "capitalName": "Khartoum",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SDG"
       ],
@@ -6419,8 +6619,7 @@
         "249"
       ],
       "emoji": "🇸🇩",
-      "emojiU": "U+1F1F8 U+1F1E9",
-      "subContinentId": "15"
+      "emojiU": "U+1F1F8 U+1F1E9"
     },
     {
       "id": "sr",
@@ -6436,13 +6635,15 @@
       "alpha3Code": "sur",
       "countryCode": "740",
       "isoCode": "ISO 3166-2:SR",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Suriname",
       "capitalName": "Paramaribo",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "SRD"
       ],
@@ -6453,8 +6654,7 @@
         "597"
       ],
       "emoji": "🇸🇷",
-      "emojiU": "U+1F1F8 U+1F1F7",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F8 U+1F1F7"
     },
     {
       "id": "sj",
@@ -6470,9 +6670,11 @@
       "alpha3Code": "sjm",
       "countryCode": "744",
       "isoCode": "ISO 3166-2:SJ",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Svalbard og Jan Mayen",
       "capitalName": "Longyearbyen",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "NOK"
       ],
@@ -6483,8 +6685,7 @@
         "4779"
       ],
       "emoji": "🇸🇯",
-      "emojiU": "U+1F1F8 U+1F1EF",
-      "subContinentId": "154"
+      "emojiU": "U+1F1F8 U+1F1EF"
     },
     {
       "id": "sz",
@@ -6500,13 +6701,15 @@
       "alpha3Code": "swz",
       "countryCode": "748",
       "isoCode": "ISO 3166-2:SZ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "18",
         "name": "Southern Africa"
       },
       "nativeName": "Swaziland",
       "capitalName": "Lobamba",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SZL"
       ],
@@ -6518,8 +6721,7 @@
         "268"
       ],
       "emoji": "🇸🇿",
-      "emojiU": "U+1F1F8 U+1F1FF",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1FF"
     },
     {
       "id": "se",
@@ -6535,9 +6737,11 @@
       "alpha3Code": "swe",
       "countryCode": "752",
       "isoCode": "ISO 3166-2:SE",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Sverige",
       "capitalName": "Stockholm",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "SEK"
       ],
@@ -6548,8 +6752,7 @@
         "46"
       ],
       "emoji": "🇸🇪",
-      "emojiU": "U+1F1F8 U+1F1EA",
-      "subContinentId": "154"
+      "emojiU": "U+1F1F8 U+1F1EA"
     },
     {
       "id": "ch",
@@ -6565,9 +6768,11 @@
       "alpha3Code": "che",
       "countryCode": "756",
       "isoCode": "ISO 3166-2:CH",
+      "continent": "150",
+      "subContinent": "155",
       "nativeName": "Schweiz",
       "capitalName": "Bern",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "CHE",
         "CHF",
@@ -6582,8 +6787,7 @@
         "41"
       ],
       "emoji": "🇨🇭",
-      "emojiU": "U+1F1E8 U+1F1ED",
-      "subContinentId": "155"
+      "emojiU": "U+1F1E8 U+1F1ED"
     },
     {
       "id": "sy",
@@ -6599,9 +6803,11 @@
       "alpha3Code": "syr",
       "countryCode": "760",
       "isoCode": "ISO 3166-2:SY",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "سوريا",
       "capitalName": "Damascus",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "SYP"
       ],
@@ -6612,8 +6818,7 @@
         "963"
       ],
       "emoji": "🇸🇾",
-      "emojiU": "U+1F1F8 U+1F1FE",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F8 U+1F1FE"
     },
     {
       "id": "tw",
@@ -6629,9 +6834,11 @@
       "alpha3Code": "twn",
       "countryCode": "158",
       "isoCode": "ISO 3166-2:TW",
+      "continent": "142",
+      "subContinent": "30",
       "nativeName": "臺灣",
       "capitalName": "Taipei",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "TWD"
       ],
@@ -6642,8 +6849,7 @@
         "886"
       ],
       "emoji": "🇹🇼",
-      "emojiU": "U+1F1F9 U+1F1FC",
-      "subContinentId": "30"
+      "emojiU": "U+1F1F9 U+1F1FC"
     },
     {
       "id": "tj",
@@ -6659,9 +6865,11 @@
       "alpha3Code": "tjk",
       "countryCode": "762",
       "isoCode": "ISO 3166-2:TJ",
+      "continent": "142",
+      "subContinent": "143",
       "nativeName": "Тоҷикистон",
       "capitalName": "Dushanbe",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "TJS"
       ],
@@ -6673,8 +6881,7 @@
         "992"
       ],
       "emoji": "🇹🇯",
-      "emojiU": "U+1F1F9 U+1F1EF",
-      "subContinentId": "143"
+      "emojiU": "U+1F1F9 U+1F1EF"
     },
     {
       "id": "tz",
@@ -6690,13 +6897,15 @@
       "alpha3Code": "tza",
       "countryCode": "834",
       "isoCode": "ISO 3166-2:TZ",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Tanzania",
       "capitalName": "Dodoma",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "TZS"
       ],
@@ -6708,8 +6917,7 @@
         "255"
       ],
       "emoji": "🇹🇿",
-      "emojiU": "U+1F1F9 U+1F1FF",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F9 U+1F1FF"
     },
     {
       "id": "th",
@@ -6725,9 +6933,11 @@
       "alpha3Code": "tha",
       "countryCode": "764",
       "isoCode": "ISO 3166-2:TH",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "ประเทศไทย",
       "capitalName": "Bangkok",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "THB"
       ],
@@ -6738,8 +6948,7 @@
         "66"
       ],
       "emoji": "🇹🇭",
-      "emojiU": "U+1F1F9 U+1F1ED",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F9 U+1F1ED"
     },
     {
       "id": "tl",
@@ -6755,9 +6964,11 @@
       "alpha3Code": "tls",
       "countryCode": "626",
       "isoCode": "ISO 3166-2:TL",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Timor-Leste",
       "capitalName": "Dili",
-      "continentId": "142",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -6768,8 +6979,7 @@
         "670"
       ],
       "emoji": "🇹🇱",
-      "emojiU": "U+1F1F9 U+1F1F1",
-      "subContinentId": "35"
+      "emojiU": "U+1F1F9 U+1F1F1"
     },
     {
       "id": "tg",
@@ -6785,13 +6995,15 @@
       "alpha3Code": "tgo",
       "countryCode": "768",
       "isoCode": "ISO 3166-2:TG",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "11",
         "name": "Western Africa"
       },
       "nativeName": "Togo",
       "capitalName": "Lomé",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "XOF"
       ],
@@ -6802,8 +7014,7 @@
         "228"
       ],
       "emoji": "🇹🇬",
-      "emojiU": "U+1F1F9 U+1F1EC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F9 U+1F1EC"
     },
     {
       "id": "tk",
@@ -6819,9 +7030,11 @@
       "alpha3Code": "tkl",
       "countryCode": "772",
       "isoCode": "ISO 3166-2:TK",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Tokelau",
       "capitalName": "Fakaofo",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "NZD"
       ],
@@ -6832,8 +7045,7 @@
         "690"
       ],
       "emoji": "🇹🇰",
-      "emojiU": "U+1F1F9 U+1F1F0",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F9 U+1F1F0"
     },
     {
       "id": "to",
@@ -6849,9 +7061,11 @@
       "alpha3Code": "ton",
       "countryCode": "776",
       "isoCode": "ISO 3166-2:TO",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Tonga",
       "capitalName": "Nuku'alofa",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "TOP"
       ],
@@ -6863,8 +7077,7 @@
         "676"
       ],
       "emoji": "🇹🇴",
-      "emojiU": "U+1F1F9 U+1F1F4",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F9 U+1F1F4"
     },
     {
       "id": "tt",
@@ -6880,13 +7093,15 @@
       "alpha3Code": "tto",
       "countryCode": "780",
       "isoCode": "ISO 3166-2:TT",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Trinidad and Tobago",
       "capitalName": "Port of Spain",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "TTD"
       ],
@@ -6897,8 +7112,7 @@
         "1868"
       ],
       "emoji": "🇹🇹",
-      "emojiU": "U+1F1F9 U+1F1F9",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F9 U+1F1F9"
     },
     {
       "id": "tn",
@@ -6914,9 +7128,11 @@
       "alpha3Code": "tun",
       "countryCode": "788",
       "isoCode": "ISO 3166-2:TN",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "تونس",
       "capitalName": "Tunis",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "TND"
       ],
@@ -6927,8 +7143,7 @@
         "216"
       ],
       "emoji": "🇹🇳",
-      "emojiU": "U+1F1F9 U+1F1F3",
-      "subContinentId": "15"
+      "emojiU": "U+1F1F9 U+1F1F3"
     },
     {
       "id": "tr",
@@ -6944,9 +7159,11 @@
       "alpha3Code": "tur",
       "countryCode": "792",
       "isoCode": "ISO 3166-2:TR",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "Türkiye",
       "capitalName": "Ankara",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "TRY"
       ],
@@ -6957,8 +7174,7 @@
         "90"
       ],
       "emoji": "🇹🇷",
-      "emojiU": "U+1F1F9 U+1F1F7",
-      "subContinentId": "145"
+      "emojiU": "U+1F1F9 U+1F1F7"
     },
     {
       "id": "tm",
@@ -6974,9 +7190,11 @@
       "alpha3Code": "tkm",
       "countryCode": "795",
       "isoCode": "ISO 3166-2:TM",
+      "continent": "142",
+      "subContinent": "143",
       "nativeName": "Türkmenistan",
       "capitalName": "Ashgabat",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "TMT"
       ],
@@ -6988,8 +7206,7 @@
         "993"
       ],
       "emoji": "🇹🇲",
-      "emojiU": "U+1F1F9 U+1F1F2",
-      "subContinentId": "143"
+      "emojiU": "U+1F1F9 U+1F1F2"
     },
     {
       "id": "tc",
@@ -7005,13 +7222,15 @@
       "alpha3Code": "tca",
       "countryCode": "796",
       "isoCode": "ISO 3166-2:TC",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Turks and Caicos Islands",
       "capitalName": "Cockburn Town",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD"
       ],
@@ -7022,8 +7241,7 @@
         "1649"
       ],
       "emoji": "🇹🇨",
-      "emojiU": "U+1F1F9 U+1F1E8",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F9 U+1F1E8"
     },
     {
       "id": "tv",
@@ -7039,9 +7257,11 @@
       "alpha3Code": "tuv",
       "countryCode": "798",
       "isoCode": "ISO 3166-2:TV",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Tuvalu",
       "capitalName": "Funafuti",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "AUD"
       ],
@@ -7052,8 +7272,7 @@
         "688"
       ],
       "emoji": "🇹🇻",
-      "emojiU": "U+1F1F9 U+1F1FB",
-      "subContinentId": "61"
+      "emojiU": "U+1F1F9 U+1F1FB"
     },
     {
       "id": "ug",
@@ -7069,13 +7288,15 @@
       "alpha3Code": "uga",
       "countryCode": "800",
       "isoCode": "ISO 3166-2:UG",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Uganda",
       "capitalName": "Kampala",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "UGX"
       ],
@@ -7087,8 +7308,7 @@
         "256"
       ],
       "emoji": "🇺🇬",
-      "emojiU": "U+1F1FA U+1F1EC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1FA U+1F1EC"
     },
     {
       "id": "ua",
@@ -7104,9 +7324,11 @@
       "alpha3Code": "ukr",
       "countryCode": "804",
       "isoCode": "ISO 3166-2:UA",
+      "continent": "150",
+      "subContinent": "151",
       "nativeName": "Україна",
       "capitalName": "Kyiv",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "UAH"
       ],
@@ -7117,8 +7339,7 @@
         "380"
       ],
       "emoji": "🇺🇦",
-      "emojiU": "U+1F1FA U+1F1E6",
-      "subContinentId": "151"
+      "emojiU": "U+1F1FA U+1F1E6"
     },
     {
       "id": "ae",
@@ -7134,9 +7355,11 @@
       "alpha3Code": "are",
       "countryCode": "784",
       "isoCode": "ISO 3166-2:AE",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "دولة الإمارات العربية المتحدة",
       "capitalName": "Abu Dhabi",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "AED"
       ],
@@ -7147,8 +7370,7 @@
         "971"
       ],
       "emoji": "🇦🇪",
-      "emojiU": "U+1F1E6 U+1F1EA",
-      "subContinentId": "145"
+      "emojiU": "U+1F1E6 U+1F1EA"
     },
     {
       "id": "gb",
@@ -7164,9 +7386,11 @@
       "alpha3Code": "gbr",
       "countryCode": "826",
       "isoCode": "ISO 3166-2:GB",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "United Kingdom",
       "capitalName": "London",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "GBP"
       ],
@@ -7177,8 +7401,7 @@
         "44"
       ],
       "emoji": "🇬🇧",
-      "emojiU": "U+1F1EC U+1F1E7",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EC U+1F1E7"
     },
     {
       "id": "us",
@@ -7194,9 +7417,11 @@
       "alpha3Code": "usa",
       "countryCode": "840",
       "isoCode": "ISO 3166-2:US",
+      "continent": "19",
+      "subContinent": "21",
       "nativeName": "United States",
       "capitalName": "Washington D.C.",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD",
         "USN",
@@ -7209,8 +7434,7 @@
         "1"
       ],
       "emoji": "🇺🇸",
-      "emojiU": "U+1F1FA U+1F1F8",
-      "subContinentId": "21"
+      "emojiU": "U+1F1FA U+1F1F8"
     },
     {
       "id": "um",
@@ -7226,9 +7450,11 @@
       "alpha3Code": "umi",
       "countryCode": "581",
       "isoCode": "ISO 3166-2:UM",
+      "continent": "9",
+      "subContinent": "57",
       "nativeName": "United States Minor Outlying Islands",
       "capitalName": "",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "USD"
       ],
@@ -7239,8 +7465,7 @@
         "1"
       ],
       "emoji": "🇺🇲",
-      "emojiU": "U+1F1FA U+1F1F2",
-      "subContinentId": "57"
+      "emojiU": "U+1F1FA U+1F1F2"
     },
     {
       "id": "uy",
@@ -7256,13 +7481,15 @@
       "alpha3Code": "ury",
       "countryCode": "858",
       "isoCode": "ISO 3166-2:UY",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Uruguay",
       "capitalName": "Montevideo",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "UYI",
         "UYU"
@@ -7274,8 +7501,7 @@
         "598"
       ],
       "emoji": "🇺🇾",
-      "emojiU": "U+1F1FA U+1F1FE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1FA U+1F1FE"
     },
     {
       "id": "uz",
@@ -7291,9 +7517,11 @@
       "alpha3Code": "uzb",
       "countryCode": "860",
       "isoCode": "ISO 3166-2:UZ",
+      "continent": "142",
+      "subContinent": "143",
       "nativeName": "O‘zbekiston",
       "capitalName": "Tashkent",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "UZS"
       ],
@@ -7305,8 +7533,7 @@
         "998"
       ],
       "emoji": "🇺🇿",
-      "emojiU": "U+1F1FA U+1F1FF",
-      "subContinentId": "143"
+      "emojiU": "U+1F1FA U+1F1FF"
     },
     {
       "id": "vu",
@@ -7322,9 +7549,11 @@
       "alpha3Code": "vut",
       "countryCode": "548",
       "isoCode": "ISO 3166-2:VU",
+      "continent": "9",
+      "subContinent": "54",
       "nativeName": "Vanuatu",
       "capitalName": "Port Vila",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "VUV"
       ],
@@ -7337,8 +7566,7 @@
         "678"
       ],
       "emoji": "🇻🇺",
-      "emojiU": "U+1F1FB U+1F1FA",
-      "subContinentId": "54"
+      "emojiU": "U+1F1FB U+1F1FA"
     },
     {
       "id": "ve",
@@ -7354,13 +7582,15 @@
       "alpha3Code": "ven",
       "countryCode": "862",
       "isoCode": "ISO 3166-2:VE",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "5",
         "name": "South America"
       },
       "nativeName": "Venezuela",
       "capitalName": "Caracas",
-      "continentId": "19",
+      "continentCode": "sa",
       "currencies": [
         "VES"
       ],
@@ -7371,8 +7601,7 @@
         "58"
       ],
       "emoji": "🇻🇪",
-      "emojiU": "U+1F1FB U+1F1EA",
-      "subContinentId": "419"
+      "emojiU": "U+1F1FB U+1F1EA"
     },
     {
       "id": "vn",
@@ -7388,9 +7617,11 @@
       "alpha3Code": "vnm",
       "countryCode": "704",
       "isoCode": "ISO 3166-2:VN",
+      "continent": "142",
+      "subContinent": "35",
       "nativeName": "Việt Nam",
       "capitalName": "Hanoi",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "VND"
       ],
@@ -7401,8 +7632,7 @@
         "84"
       ],
       "emoji": "🇻🇳",
-      "emojiU": "U+1F1FB U+1F1F3",
-      "subContinentId": "35"
+      "emojiU": "U+1F1FB U+1F1F3"
     },
     {
       "id": "vg",
@@ -7418,13 +7648,15 @@
       "alpha3Code": "vgb",
       "countryCode": "92",
       "isoCode": "ISO 3166-2:VG",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "British Virgin Islands",
       "capitalName": "Road Town",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD"
       ],
@@ -7435,8 +7667,7 @@
         "1284"
       ],
       "emoji": "🇻🇬",
-      "emojiU": "U+1F1FB U+1F1EC",
-      "subContinentId": "419"
+      "emojiU": "U+1F1FB U+1F1EC"
     },
     {
       "id": "vi",
@@ -7452,13 +7683,15 @@
       "alpha3Code": "vir",
       "countryCode": "850",
       "isoCode": "ISO 3166-2:VI",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "United States Virgin Islands",
       "capitalName": "Charlotte Amalie",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD"
       ],
@@ -7469,8 +7702,7 @@
         "1340"
       ],
       "emoji": "🇻🇮",
-      "emojiU": "U+1F1FB U+1F1EE",
-      "subContinentId": "419"
+      "emojiU": "U+1F1FB U+1F1EE"
     },
     {
       "id": "wf",
@@ -7486,9 +7718,11 @@
       "alpha3Code": "wlf",
       "countryCode": "876",
       "isoCode": "ISO 3166-2:WF",
+      "continent": "9",
+      "subContinent": "61",
       "nativeName": "Wallis et Futuna",
       "capitalName": "Mata-Utu",
-      "continentId": "9",
+      "continentCode": "oc",
       "currencies": [
         "XPF"
       ],
@@ -7499,8 +7733,7 @@
         "681"
       ],
       "emoji": "🇼🇫",
-      "emojiU": "U+1F1FC U+1F1EB",
-      "subContinentId": "61"
+      "emojiU": "U+1F1FC U+1F1EB"
     },
     {
       "id": "eh",
@@ -7516,9 +7749,11 @@
       "alpha3Code": "esh",
       "countryCode": "732",
       "isoCode": "ISO 3166-2:EH",
+      "continent": "2",
+      "subContinent": "15",
       "nativeName": "الصحراء الغربية",
       "capitalName": "El Aaiún",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "MAD",
         "DZD",
@@ -7531,8 +7766,7 @@
         "212"
       ],
       "emoji": "🇪🇭",
-      "emojiU": "U+1F1EA U+1F1ED",
-      "subContinentId": "15"
+      "emojiU": "U+1F1EA U+1F1ED"
     },
     {
       "id": "ye",
@@ -7548,9 +7782,11 @@
       "alpha3Code": "yem",
       "countryCode": "887",
       "isoCode": "ISO 3166-2:YE",
+      "continent": "142",
+      "subContinent": "145",
       "nativeName": "اليَمَن",
       "capitalName": "Sana'a",
-      "continentId": "142",
+      "continentCode": "as",
       "currencies": [
         "YER"
       ],
@@ -7561,8 +7797,7 @@
         "967"
       ],
       "emoji": "🇾🇪",
-      "emojiU": "U+1F1FE U+1F1EA",
-      "subContinentId": "145"
+      "emojiU": "U+1F1FE U+1F1EA"
     },
     {
       "id": "zm",
@@ -7578,13 +7813,15 @@
       "alpha3Code": "zmb",
       "countryCode": "894",
       "isoCode": "ISO 3166-2:ZM",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Zambia",
       "capitalName": "Lusaka",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "ZMW"
       ],
@@ -7595,8 +7832,7 @@
         "260"
       ],
       "emoji": "🇿🇲",
-      "emojiU": "U+1F1FF U+1F1F2",
-      "subContinentId": "202"
+      "emojiU": "U+1F1FF U+1F1F2"
     },
     {
       "id": "zw",
@@ -7612,13 +7848,15 @@
       "alpha3Code": "zwe",
       "countryCode": "716",
       "isoCode": "ISO 3166-2:ZW",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "Zimbabwe",
       "capitalName": "Harare",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "USD",
         "ZAR",
@@ -7638,8 +7876,7 @@
         "263"
       ],
       "emoji": "🇿🇼",
-      "emojiU": "U+1F1FF U+1F1FC",
-      "subContinentId": "202"
+      "emojiU": "U+1F1FF U+1F1FC"
     },
     {
       "id": "ax",
@@ -7655,9 +7892,11 @@
       "alpha3Code": "ala",
       "countryCode": "248",
       "isoCode": "ISO 3166-2:AX",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Åland",
       "capitalName": "Mariehamn",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -7668,8 +7907,7 @@
         "358"
       ],
       "emoji": "🇦🇽",
-      "emojiU": "U+1F1E6 U+1F1FD",
-      "subContinentId": "154"
+      "emojiU": "U+1F1E6 U+1F1FD"
     },
     {
       "id": "bq",
@@ -7685,13 +7923,15 @@
       "alpha3Code": "bes",
       "countryCode": "535",
       "isoCode": "ISO 3166-2:BQ",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Bonaire",
       "capitalName": "Kralendijk",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "USD"
       ],
@@ -7702,8 +7942,7 @@
         "5997"
       ],
       "emoji": "🇧🇶",
-      "emojiU": "U+1F1E7 U+1F1F6",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1F6"
     },
     {
       "id": "cw",
@@ -7719,13 +7958,15 @@
       "alpha3Code": "cuw",
       "countryCode": "531",
       "isoCode": "ISO 3166-2:CW",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Curaçao",
       "capitalName": "Willemstad",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "ANG"
       ],
@@ -7738,8 +7979,7 @@
         "5999"
       ],
       "emoji": "🇨🇼",
-      "emojiU": "U+1F1E8 U+1F1FC",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E8 U+1F1FC"
     },
     {
       "id": "gg",
@@ -7755,13 +7995,15 @@
       "alpha3Code": "ggy",
       "countryCode": "831",
       "isoCode": "ISO 3166-2:GG",
+      "continent": "150",
+      "subContinent": "154",
       "intermediateRegion": {
         "id": "830",
         "name": "Channel Islands"
       },
       "nativeName": "Guernsey",
       "capitalName": "St. Peter Port",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "GBP"
       ],
@@ -7773,8 +8015,7 @@
         "44"
       ],
       "emoji": "🇬🇬",
-      "emojiU": "U+1F1EC U+1F1EC",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EC U+1F1EC"
     },
     {
       "id": "im",
@@ -7790,9 +8031,11 @@
       "alpha3Code": "imn",
       "countryCode": "833",
       "isoCode": "ISO 3166-2:IM",
+      "continent": "150",
+      "subContinent": "154",
       "nativeName": "Isle of Man",
       "capitalName": "Douglas",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "GBP"
       ],
@@ -7804,8 +8047,7 @@
         "44"
       ],
       "emoji": "🇮🇲",
-      "emojiU": "U+1F1EE U+1F1F2",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EE U+1F1F2"
     },
     {
       "id": "je",
@@ -7821,13 +8063,15 @@
       "alpha3Code": "jey",
       "countryCode": "832",
       "isoCode": "ISO 3166-2:JE",
+      "continent": "150",
+      "subContinent": "154",
       "intermediateRegion": {
         "id": "830",
         "name": "Channel Islands"
       },
       "nativeName": "Jersey",
       "capitalName": "Saint Helier",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "GBP"
       ],
@@ -7839,8 +8083,7 @@
         "44"
       ],
       "emoji": "🇯🇪",
-      "emojiU": "U+1F1EF U+1F1EA",
-      "subContinentId": "154"
+      "emojiU": "U+1F1EF U+1F1EA"
     },
     {
       "id": "me",
@@ -7856,9 +8099,11 @@
       "alpha3Code": "mne",
       "countryCode": "499",
       "isoCode": "ISO 3166-2:ME",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Црна Гора",
       "capitalName": "Podgorica",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "EUR"
       ],
@@ -7872,8 +8117,7 @@
         "382"
       ],
       "emoji": "🇲🇪",
-      "emojiU": "U+1F1F2 U+1F1EA",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F2 U+1F1EA"
     },
     {
       "id": "bl",
@@ -7889,13 +8133,15 @@
       "alpha3Code": "blm",
       "countryCode": "652",
       "isoCode": "ISO 3166-2:BL",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Saint-Barthélemy",
       "capitalName": "Gustavia",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "EUR"
       ],
@@ -7906,8 +8152,7 @@
         "590"
       ],
       "emoji": "🇧🇱",
-      "emojiU": "U+1F1E7 U+1F1F1",
-      "subContinentId": "419"
+      "emojiU": "U+1F1E7 U+1F1F1"
     },
     {
       "id": "mf",
@@ -7923,13 +8168,15 @@
       "alpha3Code": "maf",
       "countryCode": "663",
       "isoCode": "ISO 3166-2:MF",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Saint-Martin",
       "capitalName": "Marigot",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "EUR"
       ],
@@ -7942,8 +8189,7 @@
         "590"
       ],
       "emoji": "🇲🇫",
-      "emojiU": "U+1F1F2 U+1F1EB",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F2 U+1F1EB"
     },
     {
       "id": "rs",
@@ -7959,9 +8205,11 @@
       "alpha3Code": "srb",
       "countryCode": "688",
       "isoCode": "ISO 3166-2:RS",
+      "continent": "150",
+      "subContinent": "39",
       "nativeName": "Србија",
       "capitalName": "Belgrade",
-      "continentId": "150",
+      "continentCode": "eu",
       "currencies": [
         "RSD"
       ],
@@ -7972,8 +8220,7 @@
         "381"
       ],
       "emoji": "🇷🇸",
-      "emojiU": "U+1F1F7 U+1F1F8",
-      "subContinentId": "39"
+      "emojiU": "U+1F1F7 U+1F1F8"
     },
     {
       "id": "sx",
@@ -7989,13 +8236,15 @@
       "alpha3Code": "sxm",
       "countryCode": "534",
       "isoCode": "ISO 3166-2:SX",
+      "continent": "19",
+      "subContinent": "419",
       "intermediateRegion": {
         "id": "29",
         "name": "Caribbean"
       },
       "nativeName": "Sint Maarten",
       "capitalName": "Philipsburg",
-      "continentId": "19",
+      "continentCode": "na",
       "currencies": [
         "ANG"
       ],
@@ -8007,8 +8256,7 @@
         "1721"
       ],
       "emoji": "🇸🇽",
-      "emojiU": "U+1F1F8 U+1F1FD",
-      "subContinentId": "419"
+      "emojiU": "U+1F1F8 U+1F1FD"
     },
     {
       "id": "ss",
@@ -8024,13 +8272,15 @@
       "alpha3Code": "ssd",
       "countryCode": "728",
       "isoCode": "ISO 3166-2:SS",
+      "continent": "2",
+      "subContinent": "202",
       "intermediateRegion": {
         "id": "14",
         "name": "Eastern Africa"
       },
       "nativeName": "South Sudan",
       "capitalName": "Juba",
-      "continentId": "2",
+      "continentCode": "af",
       "currencies": [
         "SSP"
       ],
@@ -8041,8 +8291,7 @@
         "211"
       ],
       "emoji": "🇸🇸",
-      "emojiU": "U+1F1F8 U+1F1F8",
-      "subContinentId": "202"
+      "emojiU": "U+1F1F8 U+1F1F8"
     }
   ]
 }

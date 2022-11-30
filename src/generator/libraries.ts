@@ -47,15 +47,15 @@ export async function getLibraries(): Promise<Library[]> {
   if (italy) {
     const region = libraries.find(x => x.id === 'region');
     region?.items.forEach((x: any) => {
-      x.countryId = italy.id;
+      x.country = italy.id;
     });
     const province = libraries.find(x => x.id === 'province');
     province?.items.forEach((x: any) => {
-      x.countryId = italy.id;
+      x.country = italy.id;
     });
     const municipality = libraries.find(x => x.id === 'municipality');
     municipality?.items.forEach((x: any) => {
-      x.countryId = italy.id;
+      x.country = italy.id;
     });
   }
   return libraries;

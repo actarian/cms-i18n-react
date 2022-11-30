@@ -6,857 +6,857 @@
       "id": "201",
       "name": "Torino",
       "code": "TO",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "002",
       "name": "Vercelli",
       "code": "VC",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "003",
       "name": "Novara",
       "code": "NO",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "004",
       "name": "Cuneo",
       "code": "CN",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "005",
       "name": "Asti",
       "code": "AT",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "006",
       "name": "Alessandria",
       "code": "AL",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "096",
       "name": "Biella",
       "code": "BI",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "103",
       "name": "Verbano-Cusio-Ossola",
       "code": "VB",
-      "countryZoneId": "1",
-      "regionId": "01",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "01",
+      "country": "it"
     },
     {
       "id": "007",
       "name": "Valle d'Aosta/Vallée d'Aoste",
       "code": "AO",
-      "countryZoneId": "1",
-      "regionId": "02",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "02",
+      "country": "it"
     },
     {
       "id": "012",
       "name": "Varese",
       "code": "VA",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "013",
       "name": "Como",
       "code": "CO",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "014",
       "name": "Sondrio",
       "code": "SO",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "215",
       "name": "Milano",
       "code": "MI",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "016",
       "name": "Bergamo",
       "code": "BG",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "017",
       "name": "Brescia",
       "code": "BS",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "018",
       "name": "Pavia",
       "code": "PV",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "019",
       "name": "Cremona",
       "code": "CR",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "020",
       "name": "Mantova",
       "code": "MN",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "097",
       "name": "Lecco",
       "code": "LC",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "098",
       "name": "Lodi",
       "code": "LO",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "108",
       "name": "Monza e della Brianza",
       "code": "MB",
-      "countryZoneId": "1",
-      "regionId": "03",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "03",
+      "country": "it"
     },
     {
       "id": "021",
       "name": "Bolzano/Bozen",
       "code": "BZ",
-      "countryZoneId": "2",
-      "regionId": "04",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "04",
+      "country": "it"
     },
     {
       "id": "022",
       "name": "Trento",
       "code": "TN",
-      "countryZoneId": "2",
-      "regionId": "04",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "04",
+      "country": "it"
     },
     {
       "id": "023",
       "name": "Verona",
       "code": "VR",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "024",
       "name": "Vicenza",
       "code": "VI",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "025",
       "name": "Belluno",
       "code": "BL",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "026",
       "name": "Treviso",
       "code": "TV",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "227",
       "name": "Venezia",
       "code": "VE",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "028",
       "name": "Padova",
       "code": "PD",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "029",
       "name": "Rovigo",
       "code": "RO",
-      "countryZoneId": "2",
-      "regionId": "05",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "05",
+      "country": "it"
     },
     {
       "id": "030",
       "name": "Udine",
       "code": "UD",
-      "countryZoneId": "2",
-      "regionId": "06",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "06",
+      "country": "it"
     },
     {
       "id": "031",
       "name": "Gorizia",
       "code": "GO",
-      "countryZoneId": "2",
-      "regionId": "06",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "06",
+      "country": "it"
     },
     {
       "id": "032",
       "name": "Trieste",
       "code": "TS",
-      "countryZoneId": "2",
-      "regionId": "06",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "06",
+      "country": "it"
     },
     {
       "id": "093",
       "name": "Pordenone",
       "code": "PN",
-      "countryZoneId": "2",
-      "regionId": "06",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "06",
+      "country": "it"
     },
     {
       "id": "008",
       "name": "Imperia",
       "code": "IM",
-      "countryZoneId": "1",
-      "regionId": "07",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "07",
+      "country": "it"
     },
     {
       "id": "009",
       "name": "Savona",
       "code": "SV",
-      "countryZoneId": "1",
-      "regionId": "07",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "07",
+      "country": "it"
     },
     {
       "id": "210",
       "name": "Genova",
       "code": "GE",
-      "countryZoneId": "1",
-      "regionId": "07",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "07",
+      "country": "it"
     },
     {
       "id": "011",
       "name": "La Spezia",
       "code": "SP",
-      "countryZoneId": "1",
-      "regionId": "07",
-      "countryId": "it"
+      "countryZone": "1",
+      "region": "07",
+      "country": "it"
     },
     {
       "id": "033",
       "name": "Piacenza",
       "code": "PC",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "034",
       "name": "Parma",
       "code": "PR",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "035",
       "name": "Reggio nell'Emilia",
       "code": "RE",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "036",
       "name": "Modena",
       "code": "MO",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "237",
       "name": "Bologna",
       "code": "BO",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "038",
       "name": "Ferrara",
       "code": "FE",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "039",
       "name": "Ravenna",
       "code": "RA",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "040",
       "name": "Forlì-Cesena",
       "code": "FC",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "099",
       "name": "Rimini",
       "code": "RN",
-      "countryZoneId": "2",
-      "regionId": "08",
-      "countryId": "it"
+      "countryZone": "2",
+      "region": "08",
+      "country": "it"
     },
     {
       "id": "045",
       "name": "Massa-Carrara",
       "code": "MS",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "046",
       "name": "Lucca",
       "code": "LU",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "047",
       "name": "Pistoia",
       "code": "PT",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "248",
       "name": "Firenze",
       "code": "FI",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "049",
       "name": "Livorno",
       "code": "LI",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "050",
       "name": "Pisa",
       "code": "PI",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "051",
       "name": "Arezzo",
       "code": "AR",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "052",
       "name": "Siena",
       "code": "SI",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "053",
       "name": "Grosseto",
       "code": "GR",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "100",
       "name": "Prato",
       "code": "PO",
-      "countryZoneId": "3",
-      "regionId": "09",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "09",
+      "country": "it"
     },
     {
       "id": "054",
       "name": "Perugia",
       "code": "PG",
-      "countryZoneId": "3",
-      "regionId": "10",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "10",
+      "country": "it"
     },
     {
       "id": "055",
       "name": "Terni",
       "code": "TR",
-      "countryZoneId": "3",
-      "regionId": "10",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "10",
+      "country": "it"
     },
     {
       "id": "041",
       "name": "Pesaro e Urbino",
       "code": "PU",
-      "countryZoneId": "3",
-      "regionId": "11",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "11",
+      "country": "it"
     },
     {
       "id": "042",
       "name": "Ancona",
       "code": "AN",
-      "countryZoneId": "3",
-      "regionId": "11",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "11",
+      "country": "it"
     },
     {
       "id": "043",
       "name": "Macerata",
       "code": "MC",
-      "countryZoneId": "3",
-      "regionId": "11",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "11",
+      "country": "it"
     },
     {
       "id": "044",
       "name": "Ascoli Piceno",
       "code": "AP",
-      "countryZoneId": "3",
-      "regionId": "11",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "11",
+      "country": "it"
     },
     {
       "id": "109",
       "name": "Fermo",
       "code": "FM",
-      "countryZoneId": "3",
-      "regionId": "11",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "11",
+      "country": "it"
     },
     {
       "id": "056",
       "name": "Viterbo",
       "code": "VT",
-      "countryZoneId": "3",
-      "regionId": "12",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "12",
+      "country": "it"
     },
     {
       "id": "057",
       "name": "Rieti",
       "code": "RI",
-      "countryZoneId": "3",
-      "regionId": "12",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "12",
+      "country": "it"
     },
     {
       "id": "258",
       "name": "Roma",
       "code": "RM",
-      "countryZoneId": "3",
-      "regionId": "12",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "12",
+      "country": "it"
     },
     {
       "id": "059",
       "name": "Latina",
       "code": "LT",
-      "countryZoneId": "3",
-      "regionId": "12",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "12",
+      "country": "it"
     },
     {
       "id": "060",
       "name": "Frosinone",
       "code": "FR",
-      "countryZoneId": "3",
-      "regionId": "12",
-      "countryId": "it"
+      "countryZone": "3",
+      "region": "12",
+      "country": "it"
     },
     {
       "id": "066",
       "name": "L'Aquila",
       "code": "AQ",
-      "countryZoneId": "4",
-      "regionId": "13",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "13",
+      "country": "it"
     },
     {
       "id": "067",
       "name": "Teramo",
       "code": "TE",
-      "countryZoneId": "4",
-      "regionId": "13",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "13",
+      "country": "it"
     },
     {
       "id": "068",
       "name": "Pescara",
       "code": "PE",
-      "countryZoneId": "4",
-      "regionId": "13",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "13",
+      "country": "it"
     },
     {
       "id": "069",
       "name": "Chieti",
       "code": "CH",
-      "countryZoneId": "4",
-      "regionId": "13",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "13",
+      "country": "it"
     },
     {
       "id": "070",
       "name": "Campobasso",
       "code": "CB",
-      "countryZoneId": "4",
-      "regionId": "14",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "14",
+      "country": "it"
     },
     {
       "id": "094",
       "name": "Isernia",
       "code": "IS",
-      "countryZoneId": "4",
-      "regionId": "14",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "14",
+      "country": "it"
     },
     {
       "id": "061",
       "name": "Caserta",
       "code": "CE",
-      "countryZoneId": "4",
-      "regionId": "15",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "15",
+      "country": "it"
     },
     {
       "id": "062",
       "name": "Benevento",
       "code": "BN",
-      "countryZoneId": "4",
-      "regionId": "15",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "15",
+      "country": "it"
     },
     {
       "id": "263",
       "name": "Napoli",
       "code": "NA",
-      "countryZoneId": "4",
-      "regionId": "15",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "15",
+      "country": "it"
     },
     {
       "id": "064",
       "name": "Avellino",
       "code": "AV",
-      "countryZoneId": "4",
-      "regionId": "15",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "15",
+      "country": "it"
     },
     {
       "id": "065",
       "name": "Salerno",
       "code": "SA",
-      "countryZoneId": "4",
-      "regionId": "15",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "15",
+      "country": "it"
     },
     {
       "id": "071",
       "name": "Foggia",
       "code": "FG",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "272",
       "name": "Bari",
       "code": "BA",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "073",
       "name": "Taranto",
       "code": "TA",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "074",
       "name": "Brindisi",
       "code": "BR",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "075",
       "name": "Lecce",
       "code": "LE",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "110",
       "name": "Barletta-Andria-Trani",
       "code": "BT",
-      "countryZoneId": "4",
-      "regionId": "16",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "16",
+      "country": "it"
     },
     {
       "id": "076",
       "name": "Potenza",
       "code": "PZ",
-      "countryZoneId": "4",
-      "regionId": "17",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "17",
+      "country": "it"
     },
     {
       "id": "077",
       "name": "Matera",
       "code": "MT",
-      "countryZoneId": "4",
-      "regionId": "17",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "17",
+      "country": "it"
     },
     {
       "id": "078",
       "name": "Cosenza",
       "code": "CS",
-      "countryZoneId": "4",
-      "regionId": "18",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "18",
+      "country": "it"
     },
     {
       "id": "079",
       "name": "Catanzaro",
       "code": "CZ",
-      "countryZoneId": "4",
-      "regionId": "18",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "18",
+      "country": "it"
     },
     {
       "id": "280",
       "name": "Reggio Calabria",
       "code": "RC",
-      "countryZoneId": "4",
-      "regionId": "18",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "18",
+      "country": "it"
     },
     {
       "id": "101",
       "name": "Crotone",
       "code": "KR",
-      "countryZoneId": "4",
-      "regionId": "18",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "18",
+      "country": "it"
     },
     {
       "id": "102",
       "name": "Vibo Valentia",
       "code": "VV",
-      "countryZoneId": "4",
-      "regionId": "18",
-      "countryId": "it"
+      "countryZone": "4",
+      "region": "18",
+      "country": "it"
     },
     {
       "id": "081",
       "name": "Trapani",
       "code": "TP",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "282",
       "name": "Palermo",
       "code": "PA",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "283",
       "name": "Messina",
       "code": "ME",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "084",
       "name": "Agrigento",
       "code": "AG",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "085",
       "name": "Caltanissetta",
       "code": "CL",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "086",
       "name": "Enna",
       "code": "EN",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "287",
       "name": "Catania",
       "code": "CT",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "088",
       "name": "Ragusa",
       "code": "RG",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "089",
       "name": "Siracusa",
       "code": "SR",
-      "countryZoneId": "5",
-      "regionId": "19",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "19",
+      "country": "it"
     },
     {
       "id": "090",
       "name": "Sassari",
       "code": "SS",
-      "countryZoneId": "5",
-      "regionId": "20",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "20",
+      "country": "it"
     },
     {
       "id": "091",
       "name": "Nuoro",
       "code": "NU",
-      "countryZoneId": "5",
-      "regionId": "20",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "20",
+      "country": "it"
     },
     {
       "id": "292",
       "name": "Cagliari",
       "code": "CA",
-      "countryZoneId": "5",
-      "regionId": "20",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "20",
+      "country": "it"
     },
     {
       "id": "095",
       "name": "Oristano",
       "code": "OR",
-      "countryZoneId": "5",
-      "regionId": "20",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "20",
+      "country": "it"
     },
     {
       "id": "111",
       "name": "Sud Sardegna",
       "code": "SU",
-      "countryZoneId": "5",
-      "regionId": "20",
-      "countryId": "it"
+      "countryZone": "5",
+      "region": "20",
+      "country": "it"
     }
   ]
 }

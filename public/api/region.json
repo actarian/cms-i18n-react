@@ -5,122 +5,122 @@
     {
       "id": "01",
       "name": "Piemonte",
-      "countryZoneId": "1",
-      "countryId": "it"
+      "countryZone": "1",
+      "country": "it"
     },
     {
       "id": "02",
       "name": "Valle d'Aosta/Vallée d'Aoste",
-      "countryZoneId": "1",
-      "countryId": "it"
+      "countryZone": "1",
+      "country": "it"
     },
     {
       "id": "03",
       "name": "Lombardia",
-      "countryZoneId": "1",
-      "countryId": "it"
+      "countryZone": "1",
+      "country": "it"
     },
     {
       "id": "04",
       "name": "Trentino-Alto Adige/Südtirol",
-      "countryZoneId": "2",
-      "countryId": "it"
+      "countryZone": "2",
+      "country": "it"
     },
     {
       "id": "05",
       "name": "Veneto",
-      "countryZoneId": "2",
-      "countryId": "it"
+      "countryZone": "2",
+      "country": "it"
     },
     {
       "id": "06",
       "name": "Friuli-Venezia Giulia",
-      "countryZoneId": "2",
-      "countryId": "it"
+      "countryZone": "2",
+      "country": "it"
     },
     {
       "id": "07",
       "name": "Liguria",
-      "countryZoneId": "1",
-      "countryId": "it"
+      "countryZone": "1",
+      "country": "it"
     },
     {
       "id": "08",
       "name": "Emilia-Romagna",
-      "countryZoneId": "2",
-      "countryId": "it"
+      "countryZone": "2",
+      "country": "it"
     },
     {
       "id": "09",
       "name": "Toscana",
-      "countryZoneId": "3",
-      "countryId": "it"
+      "countryZone": "3",
+      "country": "it"
     },
     {
       "id": "10",
       "name": "Umbria",
-      "countryZoneId": "3",
-      "countryId": "it"
+      "countryZone": "3",
+      "country": "it"
     },
     {
       "id": "11",
       "name": "Marche",
-      "countryZoneId": "3",
-      "countryId": "it"
+      "countryZone": "3",
+      "country": "it"
     },
     {
       "id": "12",
       "name": "Lazio",
-      "countryZoneId": "3",
-      "countryId": "it"
+      "countryZone": "3",
+      "country": "it"
     },
     {
       "id": "13",
       "name": "Abruzzo",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "14",
       "name": "Molise",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "15",
       "name": "Campania",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "16",
       "name": "Puglia",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "17",
       "name": "Basilicata",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "18",
       "name": "Calabria",
-      "countryZoneId": "4",
-      "countryId": "it"
+      "countryZone": "4",
+      "country": "it"
     },
     {
       "id": "19",
       "name": "Sicilia",
-      "countryZoneId": "5",
-      "countryId": "it"
+      "countryZone": "5",
+      "country": "it"
     },
     {
       "id": "20",
       "name": "Sardegna",
-      "countryZoneId": "5",
-      "countryId": "it"
+      "countryZone": "5",
+      "country": "it"
     }
   ]
 }

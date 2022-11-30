@@ -95,7 +95,7 @@ export const region: LibraryConfig = {
       if (!regions.find(r => r.id === x.region.id)) {
         regions.push({
           ...x.region,
-          countryZoneId: x.countryZone.id,
+          countryZone: x.countryZone.id,
         });
       }
     });
@@ -115,8 +115,8 @@ export const province: LibraryConfig = {
       if (!provinces.find(p => p.id === x.province.id)) {
         provinces.push({
           ...x.province,
-          countryZoneId: x.countryZone.id,
-          regionId: x.region.id,
+          countryZone: x.countryZone.id,
+          region: x.region.id,
         });
       }
     });
@@ -135,9 +135,9 @@ export const municipality: LibraryConfig = {
       id: x.id,
       name: x.name,
       code: x.code,
-      countryZoneId: x.countryZone.id,
-      regionId: x.region.id,
-      provinceId: x.province.id,
+      countryZone: x.countryZone.id,
+      region: x.region.id,
+      province: x.province.id,
     }));
     // sortByName(municipalities);
     // console.log('municipalities', municipalities[0]);

@@ -5,92 +5,92 @@
     {
       "id": "34",
       "name": "Southern Asia",
-      "continentId": "142"
+      "continent": "142"
     },
     {
       "id": "39",
       "name": "Southern Europe",
-      "continentId": "150"
+      "continent": "150"
     },
     {
       "id": "15",
       "name": "Northern Africa",
-      "continentId": "2"
+      "continent": "2"
     },
     {
       "id": "61",
       "name": "Polynesia",
-      "continentId": "9"
+      "continent": "9"
     },
     {
       "id": "202",
       "name": "Sub-Saharan Africa",
-      "continentId": "2"
+      "continent": "2"
     },
     {
       "id": "419",
       "name": "Latin America and the Caribbean",
-      "continentId": "19"
+      "continent": "19"
     },
     {
       "id": "999",
       "name": "Antarctica",
-      "continentId": "999"
+      "continent": "999"
     },
     {
       "id": "145",
       "name": "Western Asia",
-      "continentId": "142"
+      "continent": "142"
     },
     {
       "id": "53",
       "name": "Australia and New Zealand",
-      "continentId": "9"
+      "continent": "9"
     },
     {
       "id": "155",
       "name": "Western Europe",
-      "continentId": "150"
+      "continent": "150"
     },
     {
       "id": "151",
       "name": "Eastern Europe",
-      "continentId": "150"
+      "continent": "150"
     },
     {
       "id": "21",
       "name": "Northern America",
-      "continentId": "19"
+      "continent": "19"
     },
     {
       "id": "35",
       "name": "South-eastern Asia",
-      "continentId": "142"
+      "continent": "142"
     },
     {
       "id": "30",
       "name": "Eastern Asia",
-      "continentId": "142"
+      "continent": "142"
     },
     {
       "id": "154",
       "name": "Northern Europe",
-      "continentId": "150"
+      "continent": "150"
     },
     {
       "id": "54",
       "name": "Melanesia",
-      "continentId": "9"
+      "continent": "9"
     },
     {
       "id": "57",
       "name": "Micronesia",
-      "continentId": "9"
+      "continent": "9"
     },
     {
       "id": "143",
       "name": "Central Asia",
-      "continentId": "142"
+      "continent": "142"
     }
   ]
 }

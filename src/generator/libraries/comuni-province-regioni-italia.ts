@@ -33,7 +33,7 @@ export const province: LibraryConfig = {
       id: x.sigla.toLowerCase(),
       name: x.nome,
       code: x.sigla,
-      regionId: x.regione,
+      region: x.regione,
     }));
     sortByName(provinces);
     // "nome": "Agrigento", "sigla": "AG", "regione": "Sicilia", "id": "ag", "name": "Agrigento"
@@ -51,22 +51,9 @@ export const municipality: LibraryConfig = {
     const municipalities = items.map((x, i) => ({
       id: x.codiceCatastale, // String(i + 1).padStart(7, '0'),
       name: x.name,
-      regionId: parseInt(x.regione.codice).toString(),
-      /*
-      region: {
-        id: parseInt(x.regione.codice).toString(),
-        name: x.regione.nome,
-      },
-      */
-      provinceId: parseInt(x.provincia.codice).toString(),
+      region: parseInt(x.regione.codice).toString(),
+      province: parseInt(x.provincia.codice).toString(),
       provinceCode: x.sigla,
-      /*
-      province: {
-        id: parseInt(x.provincia.codice).toString(),
-        name: x.provincia.nome,
-        code: x.sigla,
-      },
-      */
       // landRegisterCode: x.codiceCatastale,
       zipCodes: x.cap,
       populationCount: x.popolazione,
@@ -76,8 +63,6 @@ export const municipality: LibraryConfig = {
       },
     }));
     sortByName(municipalities);
-    // "nome": "Abano Terme", "codice": "028001", "zona": { "codice": "2", "nome": "Nord-est" }, "regione": { "codice": "05", "nome": "Veneto" },
-    // "provincia": { "codice": "028", "nome": "Padova" }, "sigla": "PD", "codiceCatastale": "A001", "cap": [ "35031" ], "popolazione": 19349, "id": "000001", "name": "Abano Terme"
     return municipalities;
   }
 }
