@@ -7042,7 +7042,7 @@
     },
     {
       "id": "005056",
-      "name": "Grana",
+      "name": "Grana Monferrato",
       "code": "E134",
       "countryZone": "1",
       "region": "01",
@@ -7231,17 +7231,8 @@
     },
     {
       "id": "005077",
-      "name": "Montemagno",
+      "name": "Montemagno Monferrato",
       "code": "F556",
-      "countryZone": "1",
-      "region": "01",
-      "province": "005",
-      "country": "it"
-    },
-    {
-      "id": "005079",
-      "name": "Moransengo",
-      "code": "F709",
       "countryZone": "1",
       "region": "01",
       "province": "005",
@@ -7509,15 +7500,6 @@
       "country": "it"
     },
     {
-      "id": "005110",
-      "name": "Tonengo",
-      "code": "L204",
-      "countryZone": "1",
-      "region": "01",
-      "province": "005",
-      "country": "it"
-    },
-    {
       "id": "005111",
       "name": "Vaglio Serra",
       "code": "L531",
@@ -7611,6 +7593,15 @@
       "id": "005121",
       "name": "Montiglio Monferrato",
       "code": "M302",
+      "countryZone": "1",
+      "region": "01",
+      "province": "005",
+      "country": "it"
+    },
+    {
+      "id": "005122",
+      "name": "Moransengo-Tonengo",
+      "code": "M434",
       "countryZone": "1",
       "region": "01",
       "province": "005",
@@ -11370,15 +11361,6 @@
       "country": "it"
     },
     {
-      "id": "012009",
-      "name": "Bardello",
-      "code": "A645",
-      "countryZone": "1",
-      "region": "03",
-      "province": "012",
-      "country": "it"
-    },
-    {
       "id": "012010",
       "name": "Bedero Valcuvia",
       "code": "A728",
@@ -11445,15 +11427,6 @@
       "id": "012017",
       "name": "Brebbia",
       "code": "B126",
-      "countryZone": "1",
-      "region": "03",
-      "province": "012",
-      "country": "it"
-    },
-    {
-      "id": "012018",
-      "name": "Bregano",
-      "code": "B131",
       "countryZone": "1",
       "region": "03",
       "province": "012",
@@ -12126,15 +12099,6 @@
       "country": "it"
     },
     {
-      "id": "012095",
-      "name": "Malgesso",
-      "code": "E856",
-      "countryZone": "1",
-      "region": "03",
-      "province": "012",
-      "country": "it"
-    },
-    {
       "id": "012096",
       "name": "Malnate",
       "code": "E863",
@@ -12534,6 +12498,15 @@
       "id": "012143",
       "name": "Cadrezzate con Osmate",
       "code": "M425",
+      "countryZone": "1",
+      "region": "03",
+      "province": "012",
+      "country": "it"
+    },
+    {
+      "id": "012144",
+      "name": "Bardello con Malgesso e Bregano",
+      "code": "M433",
       "countryZone": "1",
       "region": "03",
       "province": "012",
@@ -13557,15 +13530,6 @@
       "country": "it"
     },
     {
-      "id": "013199",
-      "name": "Ronago",
-      "code": "H521",
-      "countryZone": "1",
-      "region": "03",
-      "province": "013",
-      "country": "it"
-    },
-    {
       "id": "013201",
       "name": "Rovellasca",
       "code": "H601",
@@ -13695,15 +13659,6 @@
       "id": "013227",
       "name": "Turate",
       "code": "L470",
-      "countryZone": "1",
-      "region": "03",
-      "province": "013",
-      "country": "it"
-    },
-    {
-      "id": "013228",
-      "name": "Uggiate-Trevano",
-      "code": "L487",
       "countryZone": "1",
       "region": "03",
       "province": "013",
@@ -13866,6 +13821,15 @@
       "id": "013255",
       "name": "Solbiate con Cagno",
       "code": "M412",
+      "countryZone": "1",
+      "region": "03",
+      "province": "013",
+      "country": "it"
+    },
+    {
+      "id": "013256",
+      "name": "Uggiate con Ronago",
+      "code": "M435",
       "countryZone": "1",
       "region": "03",
       "province": "013",
@@ -19803,15 +19767,6 @@
       "country": "it"
     },
     {
-      "id": "018002",
-      "name": "Albaredo Arnaboldi",
-      "code": "A134",
-      "countryZone": "1",
-      "region": "03",
-      "province": "018",
-      "country": "it"
-    },
-    {
       "id": "018003",
       "name": "Albonese",
       "code": "A171",
@@ -20011,7 +19966,7 @@
     },
     {
       "id": "018026",
-      "name": "Campospinoso",
+      "name": "Campospinoso Albaredo",
       "code": "B567",
       "countryZone": "1",
       "region": "03",
@@ -25321,7 +25276,7 @@
     },
     {
       "id": "021053",
-      "name": "Montagna",
+      "name": "Montagna sulla strada del vino",
       "code": "F392",
       "countryZone": "2",
       "region": "04",
@@ -28623,15 +28578,6 @@
       "country": "it"
     },
     {
-      "id": "024044",
-      "name": "Gambugliano",
-      "code": "D902",
-      "countryZone": "2",
-      "region": "05",
-      "province": "024",
-      "country": "it"
-    },
-    {
       "id": "024046",
       "name": "Grisignano di Zocco",
       "code": "E184",
@@ -29091,15 +29037,6 @@
       "country": "it"
     },
     {
-      "id": "024103",
-      "name": "Sovizzo",
-      "code": "I879",
-      "countryZone": "2",
-      "region": "05",
-      "province": "024",
-      "country": "it"
-    },
-    {
       "id": "024104",
       "name": "Tezze sul Brenta",
       "code": "L156",
@@ -29298,18 +29235,18 @@
       "country": "it"
     },
     {
-      "id": "025001",
-      "name": "Agordo",
-      "code": "A083",
+      "id": "024128",
+      "name": "Sovizzo",
+      "code": "M436",
       "countryZone": "2",
       "region": "05",
-      "province": "025",
+      "province": "024",
       "country": "it"
     },
     {
-      "id": "025002",
-      "name": "Alano di Piave",
-      "code": "A121",
+      "id": "025001",
+      "name": "Agordo",
+      "code": "A083",
       "countryZone": "2",
       "region": "05",
       "province": "025",
@@ -29802,15 +29739,6 @@
       "country": "it"
     },
     {
-      "id": "025070",
-      "name": "Quero Vas",
-      "code": "M332",
-      "countryZone": "2",
-      "region": "05",
-      "province": "025",
-      "country": "it"
-    },
-    {
       "id": "025071",
       "name": "Longarone",
       "code": "M342",
@@ -29841,6 +29769,15 @@
       "id": "025074",
       "name": "Borgo Valbelluna",
       "code": "M421",
+      "countryZone": "2",
+      "region": "05",
+      "province": "025",
+      "country": "it"
+    },
+    {
+      "id": "025075",
+      "name": "Setteville",
+      "code": "M437",
       "countryZone": "2",
       "region": "05",
       "province": "025",
@@ -31278,15 +31215,6 @@
       "country": "it"
     },
     {
-      "id": "028022",
-      "name": "Carceri",
-      "code": "B749",
-      "countryZone": "2",
-      "region": "05",
-      "province": "028",
-      "country": "it"
-    },
-    {
       "id": "028023",
       "name": "Carmignano di Brenta",
       "code": "B795",
@@ -31917,15 +31845,6 @@
       "country": "it"
     },
     {
-      "id": "028098",
-      "name": "Vighizzolo d'Este",
-      "code": "L878",
-      "countryZone": "2",
-      "region": "05",
-      "province": "028",
-      "country": "it"
-    },
-    {
       "id": "028099",
       "name": "Vigodarzere",
       "code": "L892",
@@ -32001,6 +31920,15 @@
       "id": "028107",
       "name": "Borgo Veneto",
       "code": "M402",
+      "countryZone": "2",
+      "region": "05",
+      "province": "028",
+      "country": "it"
+    },
+    {
+      "id": "028108",
+      "name": "Santa Caterina d'Este",
+      "code": "M438",
       "countryZone": "2",
       "region": "05",
       "province": "028",
@@ -49864,7 +49792,7 @@
     },
     {
       "id": "068033",
-      "name": "Popoli",
+      "name": "Popoli Terme",
       "code": "G878",
       "countryZone": "4",
       "region": "13",
@@ -63922,7 +63850,7 @@
     },
     {
       "id": "102017",
-      "name": "Ionadi",
+      "name": "Jonadi",
       "code": "E321",
       "countryZone": "4",
       "region": "18",
