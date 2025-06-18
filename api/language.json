@@ -10,7 +10,8 @@
         "it": "Tedesco",
         "fr": "Allemand",
         "de": "Deutsch",
-        "es": "Alemán"
+        "es": "Alemán",
+        "pt": "Alemão"
       },
       "englishName": "German",
       "nativeName": "Deutsch"
@@ -22,7 +23,8 @@
         "it": "Inglese",
         "fr": "Anglais",
         "de": "Englisch",
-        "es": "Inglés"
+        "es": "Inglés",
+        "pt": "Inglês"
       },
       "englishName": "English",
       "nativeName": "English"
@@ -34,7 +36,8 @@
         "it": "Spagnolo",
         "fr": "Espagnol",
         "de": "Spanisch",
-        "es": "Español"
+        "es": "Español",
+        "pt": "Espanhol"
       },
       "englishName": "Spanish",
       "nativeName": "Español"
@@ -46,7 +49,8 @@
         "it": "Francese",
         "fr": "Français",
         "de": "Französisch",
-        "es": "Frances"
+        "es": "Frances",
+        "pt": "Francês"
       },
       "englishName": "French",
       "nativeName": "Français"
@@ -58,10 +62,24 @@
         "it": "Italiano",
         "fr": "Italien",
         "de": "Italienisch",
-        "es": "Italiano"
+        "es": "Italiano",
+        "pt": "Italiano"
       },
       "englishName": "Italian",
       "nativeName": "Italiano"
+    },
+    {
+      "id": "pt",
+      "name": {
+        "en": "Portuguese",
+        "it": "Portoghese",
+        "fr": "Portugais",
+        "de": "Portugiesisch",
+        "es": "Portugués",
+        "pt": "Português"
+      },
+      "englishName": "Portuguese",
+      "nativeName": "Português"
     }
   ]
 }
